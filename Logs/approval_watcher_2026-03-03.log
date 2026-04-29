@@ -1,0 +1,7 @@
+2026-03-03 01:55:16,231 [INFO] ============================================================
+2026-03-03 01:55:16,231 [INFO] Approval Watcher starting
+2026-03-03 01:55:16,231 [INFO] Vault root: D:\AI_Employee_Vault
+2026-03-03 01:55:16,231 [INFO] Watching:   D:\AI_Employee_Vault\Approved
+2026-03-03 01:55:16,231 [INFO] ============================================================
+2026-03-03 01:55:16,311 [INFO] Approval Watcher running. Move reply files to /Approved to send.
+2026-03-03 01:56:40,762 [INFO] Approval Watcher stopped by user.

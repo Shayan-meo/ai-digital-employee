@@ -1,0 +1,80 @@
+# === CRITICAL: Never Sync These ===
+.env
+.env.local
+.env.*.local
+*.session
+gmail_credentials/
+banking_credentials/
+private_keys/
+*.pem
+*.key
+
+# === Browser Profiles (Playwright sessions — contain cookies/tokens) ===
+.*_profile*/
+.*_session*
+whatsapp_session/
+facebook_session/
+instagram_session/
+twitter_session/
+linkedin_session/
+.facebook_session
+.ig_resized.jpg
+
+# === Obsidian ===
+.obsidian/
+
+# === Local-Only Config ===
+local/.env
+local/banking_config.json
+local/whatsapp_config.json
+local_mcp_config.json
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+nul
+
+# === IDE/Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Claude Code ===
+.claude/
+
+# === Logs (sensitive data) ===
+Logs/*credentials*.log
+Logs/*secret*.log
+Logs/*password*.log
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+
+# === Node ===
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# === Gmail state ===
+.gmail_watcher_state.json
+
+# === WhatsApp chat data ===
+.whatsapp_chats/
+.whatsapp_last_checked.json
+.whatsapp_state.json
+
+# === Media uploads ===
+Media/
+
+# === ERP Dashboard build ===
+erp-dashboard/frontend/dist/

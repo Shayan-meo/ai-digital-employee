@@ -1,0 +1,69 @@
+2026-02-28 01:32:44,576 [INFO] Logging in to Instagram...
+2026-02-28 01:33:18,619 [ERROR] Login timed out.
+2026-02-28 01:33:18,620 [ERROR] Login failed. Exiting.
+2026-02-28 01:33:19,096 [INFO] Session saved.
+2026-02-28 01:35:44,068 [INFO] Already logged in (session restored).
+2026-02-28 01:35:44,074 [INFO] Processing: instagram_post_test.md
+2026-02-28 01:35:44,077 [INFO] Caption (261 chars): AI Employee is live! 🚀
+
+Building an autonomous AI system that manages social med...
+2026-02-28 01:35:44,078 [INFO] Image: D:\AI_Employee_Vault\Media\download.jpg
+2026-02-28 01:35:44,078 [INFO] Navigating to Instagram...
+2026-02-28 01:35:48,848 [INFO] Looking for Create post button...
+2026-02-28 01:35:49,188 [INFO] Clicked create: svg[aria-label='New post']
+2026-02-28 01:35:51,216 [INFO] Uploading image: D:\AI_Employee_Vault\Media\download.jpg
+2026-02-28 01:35:56,246 [ERROR] Image upload failed: Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").first to be visible
+    15 × locator resolved to hidden <input multiple type="file" class="x1s85apg" accept="image/avif,image/jpeg,image/png,image/heic,image/heif,video/mp4,video/quicktime"/>
+
+2026-02-28 01:35:56,523 [INFO] Archived to Done: ig_posted_20260228_013556_instagram_post_test.md
+2026-02-28 01:35:56,523 [INFO] Done. Published 0 post(s).
+2026-02-28 01:35:57,003 [INFO] Session saved.
+2026-02-28 01:39:11,390 [INFO] Already logged in (session restored).
+2026-02-28 01:39:11,412 [INFO] Done. Published 0 post(s).
+2026-02-28 01:39:12,017 [INFO] Session saved.
+2026-02-28 01:39:45,103 [INFO] Already logged in (session restored).
+2026-02-28 01:39:45,112 [INFO] Done. Published 0 post(s).
+2026-02-28 01:39:45,697 [INFO] Session saved.
+2026-02-28 01:49:38,408 [INFO] Already logged in (session restored).
+2026-02-28 01:49:38,412 [INFO] Watch mode — scanning /Approved every 30s
+2026-02-28 01:49:38,414 [INFO] Processing: instagram_post_test3.md
+2026-02-28 01:49:38,417 [INFO] Caption (261 chars): AI Employee is live! 🚀
+
+Building an autonomous AI system that manages social med...
+2026-02-28 01:49:38,417 [INFO] Image: D:\AI_Employee_Vault\Media\download.jpg
+2026-02-28 01:49:38,417 [INFO] Navigating to Instagram...
+2026-02-28 01:49:43,253 [INFO] Looking for Create post button...
+2026-02-28 01:49:43,969 [INFO] Clicked create: svg[aria-label='New post']
+2026-02-28 01:49:46,036 [INFO] Uploading image: D:\AI_Employee_Vault\Media\download.jpg
+2026-02-28 01:49:49,118 [INFO] Image uploaded.
+2026-02-28 01:49:51,841 [INFO] Clicked Next (crop)
+2026-02-28 01:49:53,944 [INFO] Clicked Next (filters)
+2026-02-28 01:49:53,956 [INFO] Looking for caption input...
+2026-02-28 01:50:09,016 [INFO] Found caption: div[contenteditable='true']
+2026-02-28 01:50:20,928 [INFO] Clicking Share button...
+2026-02-28 01:50:21,058 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-02-28 01:50:26,120 [INFO] Post published successfully!
+2026-02-28 01:50:26,123 [INFO] Archived to Done: ig_posted_20260228_015026_instagram_post_test3.md
+2026-02-28 01:50:26,123 [INFO] Published 1 post(s)
+2026-02-28 01:58:56,252 [INFO] Processing: instagram_post_test4.md
+2026-02-28 01:58:56,257 [INFO] Caption (220 chars): The future is Agentic AI! 🤖✨
+
+My AI Employee can now post on Instagram automatic...
+2026-02-28 01:58:56,258 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-02-28 01:58:56,258 [INFO] Navigating to Instagram...
+2026-02-28 01:59:02,312 [INFO] Looking for Create post button...
+2026-02-28 01:59:02,772 [INFO] Clicked create: svg[aria-label='New post']
+2026-02-28 01:59:04,816 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-02-28 01:59:07,924 [INFO] Image uploaded.
+2026-02-28 01:59:10,412 [INFO] Clicked Next (crop)
+2026-02-28 01:59:12,552 [INFO] Clicked Next (filters)
+2026-02-28 01:59:12,582 [INFO] Looking for caption input...
+2026-02-28 01:59:27,667 [INFO] Found caption: div[contenteditable='true']
+2026-02-28 01:59:38,077 [INFO] Clicking Share button...
+2026-02-28 01:59:38,269 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-02-28 01:59:43,281 [INFO] Post published successfully!
+2026-02-28 01:59:43,296 [INFO] Archived to Done: ig_posted_20260228_015943_instagram_post_test4.md
+2026-02-28 01:59:43,305 [INFO] Published 1 post(s)
+2026-02-28 02:25:39,620 [INFO] Stopped by user.

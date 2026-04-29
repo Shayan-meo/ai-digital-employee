@@ -1,0 +1,18 @@
+2026-04-09 19:54:47,226 [INFO] Session check URL: https://x.com/i/flow/login?redirect_after_login=%2Fhome
+2026-04-09 19:54:47,226 [INFO] Opening Twitter/X login...
+2026-04-09 19:54:55,605 [INFO] Entering username...
+2026-04-09 19:55:02,815 [INFO] Challenge 1: sign in to x
+2026-04-09 19:55:02,815 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-09 19:55:08,897 [INFO]   Accepted, moved to next screen.
+2026-04-09 19:55:08,951 [INFO] Challenge 2: sign in to x
+2026-04-09 19:55:08,951 [INFO]   Trying: DevLogicX
+2026-04-09 19:55:15,033 [INFO]   Accepted, moved to next screen.
+2026-04-09 19:55:15,101 [INFO] Challenge 3: sign in to x
+2026-04-09 19:55:15,102 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-09 19:55:21,094 [INFO]   Accepted, moved to next screen.
+2026-04-09 19:55:21,095 [INFO] Entering password...
+2026-04-09 19:55:21,627 [INFO] Screenshot saved: tw_pre_password.png
+2026-04-09 19:55:46,846 [WARNING] Password not found, checking page state...
+2026-04-09 19:55:46,896 [INFO]   Input 0: type=text, name=text, visible=True
+2026-04-09 19:56:01,914 [ERROR] Page load timed out.
+2026-04-09 19:56:02,356 [INFO] Session saved.

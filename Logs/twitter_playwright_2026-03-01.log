@@ -1,0 +1,404 @@
+2026-03-01 00:56:19,982 [INFO] Already logged in (session restored).
+2026-03-01 00:56:19,983 [INFO] Done. Posted 0 tweet(s).
+2026-03-01 00:56:20,456 [INFO] Session saved.
+2026-03-01 00:57:12,231 [INFO] Already logged in (session restored).
+2026-03-01 00:57:12,253 [INFO] Done. Posted 0 tweet(s).
+2026-03-01 00:57:12,387 [INFO] Session saved.
+2026-03-01 01:01:59,885 [INFO] Already logged in (session restored).
+2026-03-01 01:01:59,891 [INFO] Watch mode — scanning /Approved every 30s
+2026-03-01 01:02:29,895 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:02:30,119 [INFO] Tweet (33 chars): Testing automated posting 🚀 #test...
+2026-03-01 01:02:30,563 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:02:38,924 [INFO] Looking for tweet composer...
+2026-03-01 01:02:47,578 [INFO] Found composer: div[contenteditable='true'][data-testid='tweetTextarea_0']
+2026-03-01 01:02:52,844 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:03:23,934 [WARNING] tweetButtonInline failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button role="button" type="button" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-03-01 01:03:26,948 [WARNING] tweetButton failed: Locator.wait_for: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButton']").last to be visible
+
+2026-03-01 01:04:00,050 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-03-01 01:04:30,083 [WARNING] Ctrl+Enter failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true'][data-testid='tweetTextarea_0']").first
+    - locator resolved to <div tabindex="0" role="textbox" spellcheck="true" aria-multiline="true" aria-label="Post text" contenteditable="true" aria-autocomplete="list" data-testid="tweetTextarea_0" no-focustrapview-refocus="true" aria-describedby="placeholder-datoh" aria-controls="typeaheadDropdownWrapped-1" class="notranslate public-DraftEditor-content" aria-activedescendant="typeaheadFocus-0.546847288979371">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    52 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-03-01 01:04:30,088 [ERROR] Could not find Post button — saving screenshot
+2026-03-01 01:04:30,870 [INFO] Archived to Done: tw_posted_20260301_010430_twitter_post_test.md
+2026-03-01 01:26:22,821 [INFO] Stopped by user.
+2026-03-01 01:26:23,636 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-29' coro=<BrowserContext.storage_state() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:619> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-01 01:26:58,981 [INFO] Already logged in (session restored).
+2026-03-01 01:26:58,982 [INFO] Watch mode — scanning /Approved every 30s
+2026-03-01 01:26:58,983 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:26:58,984 [INFO] Tweet (33 chars): Testing automated posting 🚀 #test...
+2026-03-01 01:26:58,985 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:27:07,185 [INFO] Looking for tweet composer...
+2026-03-01 01:27:07,237 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:27:13,749 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:27:16,150 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:27:17,357 [INFO] Clicked post button: tweetButtonInline
+2026-03-01 01:27:23,372 [INFO] Tweet posted successfully!
+2026-03-01 01:27:23,374 [INFO] Archived to Done: tw_posted_20260301_012723_twitter_post_test.md
+2026-03-01 01:27:23,374 [INFO] Posted 1 tweet(s)
+2026-03-01 01:34:51,158 [INFO] Stopped by user.
+2026-03-01 01:35:06,107 [INFO] Already logged in (session restored).
+2026-03-01 01:35:06,110 [INFO] Watch mode — scanning /Approved every 30s
+2026-03-01 01:35:06,111 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:35:06,113 [INFO] Tweet (33 chars): Testing automated posting 🚀 #test...
+2026-03-01 01:35:06,120 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:35:13,281 [INFO] Looking for tweet composer...
+2026-03-01 01:35:13,517 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:35:19,647 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:35:22,079 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:35:23,777 [INFO] JS clicked: tweetButtonInline
+2026-03-01 01:35:56,824 [WARNING] tweetButtonInline failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button role="button" type="button" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-03-01 01:36:01,845 [WARNING] tweetButton failed: Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButton']").last to be visible
+
+2026-03-01 01:36:04,918 [INFO] Clicked post button via XPath
+2026-03-01 01:36:10,130 [INFO] After-post screenshot saved: tw_debug_after_post.png
+2026-03-01 01:36:10,156 [INFO] Verification — composer visible: True, toast: False
+2026-03-01 01:36:10,158 [WARNING] Tweet may NOT have posted — composer still visible. Check screenshots.
+2026-03-01 01:36:10,163 [INFO] Archived to Done: tw_posted_20260301_013610_twitter_post_test.md
+2026-03-01 01:36:10,170 [INFO] Posted 1 tweet(s)
+2026-03-01 01:39:10,180 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:39:10,190 [INFO] Tweet (33 chars): Testing automated posting 🚀 #test...
+2026-03-01 01:39:10,191 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:39:19,981 [INFO] Looking for tweet composer...
+2026-03-01 01:39:22,933 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:39:30,662 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:39:32,965 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:39:34,618 [INFO] JS clicked: tweetButtonInline
+2026-03-01 01:40:06,703 [INFO] Stopped by user.
+2026-03-01 01:40:07,216 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-55' coro=<BrowserContext.storage_state() running at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:619> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-03-01 01:40:07,238 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-54' coro=<Locator.click() running at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_locator.py:162> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-01 01:40:26,541 [INFO] Already logged in (session restored).
+2026-03-01 01:40:26,544 [INFO] Watch mode — scanning /Approved every 30s
+2026-03-01 01:40:26,545 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:40:26,547 [INFO] Tweet (33 chars): Testing automated posting 🚀 #test...
+2026-03-01 01:40:26,548 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:40:33,789 [INFO] Looking for tweet composer...
+2026-03-01 01:40:34,037 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:40:39,887 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:40:41,897 [INFO] Disabled overlay pointer events
+2026-03-01 01:40:43,469 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:40:43,534 [INFO] JS document.click(): tweetButtonInline
+2026-03-01 01:40:48,552 [WARNING] JS click done but composer still visible
+2026-03-01 01:40:54,186 [INFO] Playwright click: tweetButtonInline (overlay disabled)
+2026-03-01 01:40:59,612 [INFO] After-post screenshot saved: tw_debug_after_post.png
+2026-03-01 01:40:59,652 [INFO] Verification — composer visible: True, toast: False
+2026-03-01 01:40:59,660 [WARNING] Tweet may NOT have posted — composer still visible. Check screenshots.
+2026-03-01 01:40:59,662 [INFO] Archived to Done: tw_posted_20260301_014059_twitter_post_test.md
+2026-03-01 01:40:59,666 [INFO] Posted 1 tweet(s)
+2026-03-01 01:42:25,569 [INFO] Stopped by user.
+2026-03-01 01:42:42,727 [INFO] Already logged in (session restored).
+2026-03-01 01:42:42,730 [INFO] Watch mode — scanning /Approved every 30s
+2026-03-01 01:42:42,731 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:42:42,733 [INFO] Tweet (70 chars): Hello from the automation engine! Build in progress 🔧 #dev #automation...
+2026-03-01 01:42:42,745 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:42:49,865 [INFO] Looking for tweet composer...
+2026-03-01 01:42:49,921 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:42:57,993 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:43:00,006 [INFO] Disabled overlay pointer events
+2026-03-01 01:43:01,413 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:43:01,471 [INFO] JS document.click(): tweetButtonInline
+2026-03-01 01:43:06,517 [WARNING] JS click done but composer still visible
+2026-03-01 01:43:16,567 [WARNING] Playwright click failed: Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button disabled role="button" tabindex="-1" type="button" aria-disabled="true" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-icoktb r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is not enabled
+  17 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is not enabled
+  - retrying click action
+    - waiting 500ms
+
+2026-03-01 01:43:16,568 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-03-01 01:43:22,699 [INFO] Sent Ctrl+Enter
+2026-03-01 01:43:28,024 [INFO] After-post screenshot saved: tw_debug_after_post.png
+2026-03-01 01:43:28,068 [INFO] Verification — composer visible: True, toast: False
+2026-03-01 01:43:28,088 [WARNING] Tweet may NOT have posted — composer still visible. Check screenshots.
+2026-03-01 01:43:28,091 [INFO] Archived to Done: tw_posted_20260301_014328_twitter_post_test.md
+2026-03-01 01:43:28,098 [INFO] Posted 1 tweet(s)
+2026-03-01 01:48:28,120 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:48:28,125 [INFO] Tweet (222 chars): Building an AI-powered automation system that handles tasks, emails, and social ...
+2026-03-01 01:48:28,126 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:48:39,222 [INFO] Looking for tweet composer...
+2026-03-01 01:48:41,297 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:48:56,240 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:48:58,256 [INFO] Disabled overlay pointer events
+2026-03-01 01:48:59,602 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:48:59,674 [INFO] JS document.click(): tweetButtonInline
+2026-03-01 01:49:04,688 [WARNING] JS click done but composer still visible
+2026-03-01 01:49:14,729 [WARNING] Playwright click failed: Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button disabled role="button" tabindex="-1" type="button" aria-disabled="true" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-icoktb r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    19 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+2026-03-01 01:49:14,733 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-03-01 01:49:44,763 [WARNING] Ctrl+Enter failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetTextarea_0']").first
+    - locator resolved to <div tabindex="0" role="textbox" spellcheck="true" aria-multiline="true" aria-label="Post text" contenteditable="true" aria-autocomplete="list" data-testid="tweetTextarea_0" no-focustrapview-refocus="true" aria-describedby="placeholder-3iq9u" aria-controls="typeaheadDropdownWrapped-2" class="notranslate public-DraftEditor-content" aria-activedescendant="typeaheadFocus-0.3369534727823569">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-testid="mask" class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-1ffj0ar"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  13 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-testid="mask" class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-1ffj0ar"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-testid="mask" class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-1ffj0ar"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2026-03-01 01:49:44,769 [ERROR] Could not find Post button — saving screenshot
+2026-03-01 01:49:44,991 [INFO] Archived to Done: tw_posted_20260301_014944_twitter_post_test.md
+2026-03-01 01:50:44,995 [INFO] Processing: twitter_post_test.md
+2026-03-01 01:50:44,997 [INFO] Tweet (222 chars): Building an AI-powered automation system that handles tasks, emails, and social ...
+2026-03-01 01:50:44,998 [INFO] Image: Media\images.jpg
+2026-03-01 01:50:44,999 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:50:51,941 [INFO] Looking for tweet composer...
+2026-03-01 01:50:52,024 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:50:52,024 [INFO] Uploading image: Media\images.jpg
+2026-03-01 01:50:55,070 [INFO] Image uploaded.
+2026-03-01 01:51:09,657 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:51:11,671 [INFO] Disabled overlay pointer events
+2026-03-01 01:51:12,948 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:51:12,987 [INFO] JS document.click(): tweetButtonInline
+2026-03-01 01:51:18,047 [WARNING] JS click done but composer still visible
+2026-03-01 01:51:28,111 [WARNING] Playwright click failed: Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button disabled role="button" tabindex="-1" type="button" aria-disabled="true" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-icoktb r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+      - waiting 500ms
+    16 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+2026-03-01 01:51:28,140 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-03-01 01:51:34,369 [INFO] Sent Ctrl+Enter
+2026-03-01 01:51:39,657 [INFO] After-post screenshot saved: tw_debug_after_post.png
+2026-03-01 01:51:39,779 [INFO] Verification — composer visible: True, toast: False
+2026-03-01 01:51:39,779 [WARNING] Tweet may NOT have posted — composer still visible. Check screenshots.
+2026-03-01 01:51:39,782 [INFO] Archived to Done: tw_posted_20260301_015139_twitter_post_test.md
+2026-03-01 01:51:39,782 [INFO] Posted 1 tweet(s)
+2026-03-01 01:55:39,798 [INFO] Processing: twitter_post_ai.md
+2026-03-01 01:55:39,799 [INFO] Tweet (247 chars): AI isn't replacing humans — it's giving them superpowers.
+
+I'm building a person...
+2026-03-01 01:55:39,800 [INFO] Image: Media\AI.jpg
+2026-03-01 01:55:39,800 [INFO] Navigating to Twitter/X home...
+2026-03-01 01:55:46,040 [INFO] Looking for tweet composer...
+2026-03-01 01:55:46,321 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-01 01:55:46,321 [INFO] Uploading image: Media\AI.jpg
+2026-03-01 01:55:49,501 [INFO] Image uploaded.
+2026-03-01 01:56:05,978 [INFO] Clicking Tweet/Post button...
+2026-03-01 01:56:07,999 [INFO] Disabled overlay pointer events
+2026-03-01 01:56:09,261 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-01 01:56:09,312 [INFO] JS document.click(): tweetButtonInline
+2026-03-01 01:56:14,326 [WARNING] JS click done but composer still visible
+2026-03-01 01:56:24,357 [WARNING] Playwright click failed: Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button disabled role="button" tabindex="-1" type="button" aria-disabled="true" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-icoktb r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    7 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 500ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 500ms
+    5 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 500ms
+
+2026-03-01 01:56:24,360 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-03-01 01:56:30,551 [INFO] Sent Ctrl+Enter
+2026-03-01 01:56:35,796 [INFO] After-post screenshot saved: tw_debug_after_post.png
+2026-03-01 01:56:35,822 [INFO] Verification — composer visible: True, toast: False
+2026-03-01 01:56:35,823 [WARNING] Tweet may NOT have posted — composer still visible. Check screenshots.
+2026-03-01 01:56:35,827 [INFO] Archived to Done: tw_posted_20260301_015635_twitter_post_ai.md
+2026-03-01 01:56:35,828 [INFO] Posted 1 tweet(s)
+2026-03-01 02:10:34,203 [INFO] Stopped by user.

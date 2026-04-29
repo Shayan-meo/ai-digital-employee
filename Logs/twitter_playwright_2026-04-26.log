@@ -1,0 +1,7 @@
+2026-04-26 11:17:37,335 [INFO] Stealth applied.
+2026-04-26 11:17:39,661 [INFO] Browser started. Session: restored.
+2026-04-26 11:17:47,789 [WARNING] Session check error: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-04-26 11:17:47,790 [INFO] Starting Twitter login...
+2026-04-26 11:17:47,795 [ERROR] Login error: Page.goto: Target page, context or browser has been closed
+2026-04-26 11:17:48,929 [INFO] Session saved.
+2026-04-26 11:17:52,425 [INFO] Browser closed.

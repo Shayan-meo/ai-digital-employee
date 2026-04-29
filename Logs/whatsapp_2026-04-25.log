@@ -1,0 +1,55 @@
+2026-04-25 03:20:41,295  INFO     Browser opened with persistent profile.
+2026-04-25 03:24:36,382  INFO     Browser closed. Profile saved.
+2026-04-25 03:24:56,858  INFO     Browser opened with persistent profile.
+2026-04-25 03:26:48,036  INFO     Sending to: 03232360891
+2026-04-25 03:26:48,039  INFO     Opening chat via URL: phone=923232360891
+2026-04-25 03:27:15,356  WARNING  Compose box not found, trying anyway...
+2026-04-25 03:27:32,107  INFO     Compose box found: footer div[contenteditable="true"]
+2026-04-25 03:27:39,999  INFO     Send clicked: button[aria-label="Send"]
+2026-04-25 03:27:40,001  INFO     Waiting for message delivery...
+2026-04-25 03:27:43,056  INFO     Message delivered (compose box empty).
+2026-04-25 03:27:48,075  INFO     Message sent to 03232360891
+2026-04-25 03:27:51,569  INFO     Browser closed. Profile saved.
+2026-04-25 18:09:43,041  INFO     Browser opened with persistent profile.
+2026-04-25 18:11:24,667  INFO     Sending to: Zubair
+2026-04-25 18:11:59,416  INFO     Search opened via Ctrl+F
+2026-04-25 18:12:12,559  ERROR    Error sending to Zubair: Could not find search box
+2026-04-25 18:12:26,517  INFO     Browser closed. Profile saved.
+2026-04-25 18:27:03,447  INFO     Browser opened with persistent profile.
+2026-04-25 18:28:10,816  INFO     Sending to: Zubair
+2026-04-25 18:28:45,034  INFO     Search opened via Ctrl+F
+2026-04-25 18:28:58,126  ERROR    Error sending to Zubair: Could not find search box
+2026-04-25 18:28:59,868  INFO     Browser closed. Profile saved.
+2026-04-25 18:32:00,442  INFO     Browser opened with persistent profile.
+2026-04-25 18:32:43,434  INFO     Sending to: 03278448829
+2026-04-25 18:32:43,438  INFO     Opening chat via URL: phone=923278448829
+2026-04-25 18:33:10,925  INFO     Chat opened for 923278448829
+2026-04-25 18:33:11,152  INFO     Compose box found: [data-testid="conversation-compose-box-input"]
+2026-04-25 18:33:18,248  INFO     Send clicked: button[aria-label="Send"]
+2026-04-25 18:33:18,249  INFO     Waiting for message delivery...
+2026-04-25 18:33:21,451  INFO     Message delivered (compose box empty).
+2026-04-25 18:33:26,468  INFO     Message sent to 03278448829
+2026-04-25 18:33:31,005  INFO     Browser closed. Profile saved.
+2026-04-25 18:35:40,136  INFO     Browser opened with persistent profile.
+2026-04-25 18:36:09,853  INFO     Sending to: 03278448829
+2026-04-25 18:36:09,854  INFO     Opening chat via URL: phone=923278448829
+2026-04-25 18:36:22,287  INFO     Chat opened for 923278448829
+2026-04-25 18:36:22,379  INFO     Compose box found: [data-testid="conversation-compose-box-input"]
+2026-04-25 18:36:29,430  INFO     Send clicked: button[aria-label="Send"]
+2026-04-25 18:36:29,431  INFO     Waiting for message delivery...
+2026-04-25 18:36:32,452  INFO     Message delivered (compose box empty).
+2026-04-25 18:36:37,511  INFO     Message sent to 03278448829
+2026-04-25 18:36:40,607  INFO     Browser closed. Profile saved.
+2026-04-25 20:23:32,416  INFO     Browser opened with persistent profile.
+2026-04-25 20:23:57,458  INFO     Browser closed. Profile saved.
+2026-04-25 20:25:54,566  INFO     Browser opened with persistent profile.
+2026-04-25 20:26:43,458  INFO     Sending to: 03278448829
+2026-04-25 20:26:43,459  INFO     Opening chat via URL: phone=923278448829
+2026-04-25 20:27:14,775  INFO     Chat opened for 923278448829
+2026-04-25 20:27:14,950  INFO     Compose box found: [data-testid="conversation-compose-box-input"]
+2026-04-25 20:27:25,282  INFO     Send clicked: button[aria-label="Send"]
+2026-04-25 20:27:25,283  INFO     Waiting for message delivery...
+2026-04-25 20:27:28,849  INFO     Message delivered (compose box empty).
+2026-04-25 20:27:33,876  INFO     Message sent to 03278448829
+2026-04-25 20:27:36,168  INFO     Browser closed. Profile saved.
+2026-04-25 20:29:30,135  INFO     Browser opened with persistent profile.

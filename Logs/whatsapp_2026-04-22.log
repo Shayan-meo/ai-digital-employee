@@ -1,0 +1,32 @@
+2026-04-22 03:31:03,015  INFO     Browser opened with persistent profile.
+2026-04-22 03:34:32,871  INFO     Browser closed. Profile saved.
+2026-04-22 03:34:49,995  INFO     Browser opened with persistent profile.
+2026-04-22 03:36:40,396  INFO     Sending to: 03232360891
+2026-04-22 03:36:40,396  INFO     Opening chat via URL: phone=923232360891
+2026-04-22 03:37:07,924  WARNING  Compose box not found, trying anyway...
+2026-04-22 03:37:23,041  INFO     Compose box found: footer div[contenteditable="true"]
+2026-04-22 03:37:29,926  INFO     Send clicked: button[aria-label="Send"]
+2026-04-22 03:37:29,926  INFO     Waiting for message delivery...
+2026-04-22 03:37:32,959  INFO     Message delivered (compose box empty).
+2026-04-22 03:37:37,976  INFO     Message sent to 03232360891
+2026-04-22 03:37:45,293  INFO     Browser closed. Profile saved.
+2026-04-22 03:41:43,680  INFO     Browser opened with persistent profile.
+2026-04-22 03:42:39,020  INFO     Sending to: 03232360891
+2026-04-22 03:42:39,028  INFO     Opening chat via URL: phone=923232360891
+2026-04-22 03:43:06,848  WARNING  Compose box not found, trying anyway...
+2026-04-22 03:43:12,562  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-04-22 03:43:21,012  INFO     Send clicked: button[aria-label="Send"]
+2026-04-22 03:43:21,014  INFO     Waiting for message delivery...
+2026-04-22 03:43:24,033  INFO     Message delivered (compose box empty).
+2026-04-22 03:43:29,042  INFO     Message sent to 03232360891
+2026-04-22 03:43:32,059  INFO     Browser closed. Profile saved.
+2026-04-22 11:27:46,412  INFO     Browser opened with persistent profile.
+2026-04-22 11:29:22,380  INFO     Sending to: 03232360891
+2026-04-22 11:29:22,381  INFO     Opening chat via URL: phone=923232360891
+2026-04-22 11:29:47,223  WARNING  Compose box not found, trying anyway...
+2026-04-22 11:29:47,768  INFO     Compose box found: [data-testid="conversation-compose-box-input"]
+2026-04-22 11:29:56,619  INFO     Send clicked: button[aria-label="Send"]
+2026-04-22 11:29:56,619  INFO     Waiting for message delivery...
+2026-04-22 11:30:00,054  INFO     Message delivered (compose box empty).
+2026-04-22 11:30:05,087  INFO     Message sent to 03232360891
+2026-04-22 11:30:06,295  INFO     Browser closed. Profile saved.

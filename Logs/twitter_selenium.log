@@ -1,0 +1,13 @@
+2026-04-19 05:03:01,722 [INFO] Launching Chrome via undetected-chromedriver...
+2026-04-19 05:06:02,994 [INFO] patching driver executable C:\Users\SHAYAN\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-19 05:06:49,760 [INFO] Current URL: https://x.com/
+2026-04-19 05:06:59,906 [WARNING] Page loaded but can't confirm login. URL: https://x.com/
+2026-04-19 05:07:00,540 [INFO] Opening Twitter login page — please log in manually...
+2026-04-19 05:07:16,763 [INFO] Waiting for you to log in (max 120 seconds)...
+2026-04-19 05:07:38,943 [INFO] Still waiting... (20s)
+2026-04-19 05:07:59,133 [INFO] Still waiting... (40s)
+2026-04-19 05:08:19,324 [INFO] Still waiting... (60s)
+2026-04-19 05:08:39,501 [INFO] Still waiting... (80s)
+2026-04-19 05:08:59,675 [INFO] Still waiting... (100s)
+2026-04-19 05:09:17,829 [ERROR] Login timeout — could not confirm login.
+2026-04-19 05:09:17,830 [ERROR] Fatal error: EOF when reading a line

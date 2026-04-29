@@ -1,0 +1,77 @@
+2026-02-26 01:43:17,173 [INFO] ============================================================
+2026-02-26 01:43:17,174 [INFO] Approval Watcher starting
+2026-02-26 01:43:17,174 [INFO] Vault root: D:\AI_Employee_Vault
+2026-02-26 01:43:17,174 [INFO] Watching:   D:\AI_Employee_Vault\Approved
+2026-02-26 01:43:17,175 [INFO] ============================================================
+2026-02-26 01:43:17,177 [INFO] Approval Watcher running. Move reply files to /Approved to send.
+2026-02-26 01:43:25,715 [INFO] Approved file detected: reply_20260226_014004_Re_ Test from AI Employee.md
+2026-02-26 01:43:25,725 [INFO] Sending email to: Muhammad Shayan <shahyanqamar540@gmail.com> | Subject: Re: Re: Test from AI Employee
+2026-02-26 01:43:28,102 [INFO] Email sent successfully! Message ID: 19c968add3af1800
+2026-02-26 01:43:28,114 [INFO] Reply file archived to /Done
+2026-02-26 01:51:58,635 [INFO] Approved file detected: reply_20260226_013947_Re_ Test from AI Employee.md
+2026-02-26 01:51:58,690 [INFO] Sending email to: Muhammad Shayan <shahyanqamar540@gmail.com> | Subject: Re: Re: Test from AI Employee
+2026-02-26 01:51:59,981 [INFO] ============================================================
+2026-02-26 01:51:59,981 [INFO] Approval Watcher starting
+2026-02-26 01:51:59,981 [INFO] Vault root: D:\AI_Employee_Vault
+2026-02-26 01:51:59,981 [INFO] Watching:   D:\AI_Employee_Vault\Approved
+2026-02-26 01:51:59,982 [INFO] ============================================================
+2026-02-26 01:52:00,007 [INFO] Approval Watcher running. Move reply files to /Approved to send.
+2026-02-26 01:52:02,957 [INFO] Email sent successfully! Message ID: 19c9692b607a73eb
+2026-02-26 01:52:02,966 [INFO] Reply file archived to /Done
+2026-02-26 04:02:24,689 [INFO] Approval Watcher stopped by user.
+2026-02-26 19:25:16,436 [INFO] Approved file detected: linkedin_post_test_20260226.md
+2026-02-26 19:25:16,809 [INFO] Created execution task: Needs_Action/approved_20260226_192516_linkedin_post_test_20260226.md
+2026-02-27 03:08:54,052 [INFO] Approved file detected: whatsapp_test_reply.md
+2026-02-27 03:08:54,081 [INFO] Created execution task: Needs_Action/approved_20260227_030854_whatsapp_test_reply.md
+2026-02-27 03:09:55,757 [INFO] Approved file detected: approved_20260227_030854_whatsapp_test_reply.md
+2026-02-27 03:09:55,772 [INFO] Created execution task: Needs_Action/approved_20260227_030955_approved_20260227_030854_whatsapp_test_reply.md
+2026-02-27 15:58:10,127 [INFO] Approved file detected: facebook_post_test.md
+2026-02-27 15:58:10,143 [INFO] Created execution task: Needs_Action/approved_20260227_155810_facebook_post_test.md
+2026-02-27 15:59:15,150 [INFO] Approved file detected: facebook_post_test.md
+2026-02-27 15:59:15,171 [INFO] Created execution task: Needs_Action/approved_20260227_155915_facebook_post_test.md
+2026-02-27 16:01:02,008 [INFO] Approved file detected: facebook_post_test.md
+2026-02-27 16:01:02,066 [INFO] Created execution task: Needs_Action/approved_20260227_160102_facebook_post_test.md
+2026-02-27 16:01:07,986 [INFO] Approved file detected: facebook_post_test.md
+2026-02-27 16:01:07,994 [INFO] Created execution task: Needs_Action/approved_20260227_160107_facebook_post_test.md
+2026-02-27 16:01:11,928 [INFO] Approved file detected: facebook_post_test.md
+2026-02-27 16:01:11,934 [INFO] Created execution task: Needs_Action/approved_20260227_160111_facebook_post_test.md
+2026-02-27 16:01:38,124 [INFO] Approved file detected: facebook_post_test.md
+2026-02-27 16:01:38,137 [INFO] Created execution task: Needs_Action/approved_20260227_160138_facebook_post_test.md
+2026-02-27 16:08:56,578 [INFO] Approved file detected: facebook_post_1.md
+2026-02-27 16:08:56,584 [INFO] Created execution task: Needs_Action/approved_20260227_160856_facebook_post_1.md
+2026-02-27 16:10:19,685 [INFO] Approved file detected: approved_facebook_post_1.md
+2026-02-27 16:10:19,693 [INFO] Created execution task: Needs_Action/approved_20260227_161019_approved_facebook_post_1.md
+2026-02-27 16:11:20,990 [INFO] Approved file detected: facebook_post_20260227_005612_social_test.md
+2026-02-27 16:11:21,008 [INFO] Created execution task: Needs_Action/approved_20260227_161120_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:16:17,158 [INFO] Approved file detected: approved_approved_facebook_post_1.md
+2026-02-27 16:16:17,175 [INFO] Created execution task: Needs_Action/approved_20260227_161617_approved_approved_facebook_post_1.md
+2026-02-27 16:16:17,283 [ERROR] Error processing approved_approved_facebook_post_1.md: [WinError 2] The system cannot find the file specified
+2026-02-27 16:18:03,759 [INFO] Approved file detected: approved_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:18:03,776 [INFO] Created execution task: Needs_Action/approved_20260227_161803_approved_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:18:03,784 [ERROR] Error processing approved_facebook_post_20260227_005612_social_test.md: [WinError 2] The system cannot find the file specified
+2026-02-27 16:22:10,660 [INFO] Approved file detected: facebook_post_1.md
+2026-02-27 16:22:10,673 [INFO] Created execution task: Needs_Action/approved_20260227_162210_facebook_post_1.md
+2026-02-27 16:23:19,944 [INFO] Approved file detected: facebook_post_2.md
+2026-02-27 16:23:19,958 [INFO] Created execution task: Needs_Action/approved_20260227_162319_facebook_post_2.md
+2026-02-27 19:22:42,375 [INFO] Approved file detected: facebook_post_new.md
+2026-02-27 19:22:42,386 [INFO] Created execution task: Needs_Action/approved_20260227_192242_facebook_post_new.md
+2026-02-27 19:41:58,391 [INFO] Approved file detected: facebook_post_new.md
+2026-02-27 19:41:58,398 [INFO] Created execution task: Needs_Action/approved_20260227_194158_facebook_post_new.md
+2026-02-27 19:46:45,828 [INFO] Approved file detected: facebook_post_new2.md
+2026-02-27 19:46:45,838 [INFO] Created execution task: Needs_Action/approved_20260227_194645_facebook_post_new2.md
+2026-02-28 00:38:01,893 [INFO] Approved file detected: facebook_post_test_final.md
+2026-02-28 00:38:01,910 [INFO] Created execution task: Needs_Action/approved_20260228_003801_facebook_post_test_final.md
+2026-02-28 00:43:40,090 [INFO] Approved file detected: facebook_post_ai.md
+2026-02-28 00:43:40,110 [INFO] Created execution task: Needs_Action/approved_20260228_004340_facebook_post_ai.md
+2026-02-28 01:39:18,309 [INFO] Approved file detected: instagram_post_test2.md
+2026-02-28 01:39:18,330 [INFO] Created execution task: Needs_Action/approved_20260228_013918_instagram_post_test2.md
+2026-03-01 00:56:49,191 [INFO] Approved file detected: twitter_post_20260227_005610_social_test.md
+2026-03-01 00:56:49,220 [INFO] Created execution task: Needs_Action/approved_20260301_005649_twitter_post_20260227_005610_social_test.md
+2026-03-02 01:21:38,376 [INFO] Approved file detected: whatsapp_20260301_023352_whatsapp_test.md
+2026-03-02 01:21:38,425 [INFO] Created execution task: Needs_Action/approved_20260302_012138_whatsapp_20260301_023352_whatsapp_test.md
+2026-03-02 01:45:35,824 [INFO] Approved file detected: whatsapp_send_20260302_013500.md
+2026-03-02 01:45:35,864 [INFO] Created execution task: Needs_Action/approved_20260302_014535_whatsapp_send_20260302_013500.md
+2026-03-02 01:54:39,989 [INFO] Approved file detected: whatapp_sending_file.md
+2026-03-02 01:54:40,007 [INFO] Created execution task: Needs_Action/approved_20260302_015439_whatapp_sending_file.md
+2026-03-02 02:02:08,377 [INFO] Approved file detected: whatsapp_hello.md
+2026-03-02 02:02:08,391 [INFO] Created execution task: Needs_Action/approved_20260302_020208_whatsapp_hello.md

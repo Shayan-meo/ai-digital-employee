@@ -1,0 +1,195 @@
+2026-03-31 04:49:50,294  INFO     Browser opened with persistent profile.
+2026-03-31 04:50:09,621  INFO     Waiting for login... 5/30s
+2026-03-31 04:50:14,655  INFO     Waiting for login... 10/30s
+2026-03-31 04:50:19,954  INFO     Waiting for login... 15/30s
+2026-03-31 04:50:25,127  INFO     Waiting for login... 20/30s
+2026-03-31 04:50:30,409  INFO     Waiting for login... 25/30s
+2026-03-31 04:50:35,458  INFO     Waiting for login... 30/30s
+2026-03-31 04:50:35,459  ERROR    Login not detected within 30s.
+2026-03-31 04:50:37,528  INFO     Browser closed. Profile saved.
+2026-03-31 05:15:48,043  INFO     Browser opened with persistent profile.
+2026-03-31 05:16:08,867  INFO     Waiting for login... 5/30s
+2026-03-31 05:16:13,940  INFO     Waiting for login... 10/30s
+2026-03-31 05:16:19,167  INFO     Waiting for login... 15/30s
+2026-03-31 05:16:24,224  INFO     Waiting for login... 20/30s
+2026-03-31 05:16:29,434  INFO     Waiting for login... 25/30s
+2026-03-31 05:16:34,484  INFO     Waiting for login... 30/30s
+2026-03-31 05:16:34,484  ERROR    Login not detected within 30s.
+2026-03-31 05:17:12,905  INFO     Browser closed. Profile saved.
+2026-03-31 05:26:11,869  INFO     Browser opened with persistent profile.
+2026-03-31 05:26:24,469  INFO     Waiting for login... 5/60s
+2026-03-31 05:26:29,599  INFO     Waiting for login... 10/60s
+2026-03-31 05:26:35,289  INFO     Waiting for login... 15/60s
+2026-03-31 05:26:40,487  INFO     Waiting for login... 20/60s
+2026-03-31 05:26:45,581  INFO     Waiting for login... 25/60s
+2026-03-31 05:26:50,758  INFO     Waiting for login... 30/60s
+2026-03-31 05:26:55,827  INFO     Waiting for login... 35/60s
+2026-03-31 05:27:01,487  INFO     Waiting for login... 40/60s
+2026-03-31 05:27:06,974  INFO     Waiting for login... 45/60s
+2026-03-31 05:27:12,617  INFO     Waiting for login... 50/60s
+2026-03-31 05:27:17,767  INFO     Waiting for login... 55/60s
+2026-03-31 05:27:22,965  INFO     Waiting for login... 60/60s
+2026-03-31 05:27:22,966  ERROR    Login not detected within 60s.
+2026-03-31 05:27:24,354  INFO     Browser closed. Profile saved.
+2026-03-31 05:28:44,147  INFO     Browser opened with persistent profile.
+2026-03-31 05:28:51,654  INFO     Waiting for login... 5/120s
+2026-03-31 05:28:56,716  INFO     Waiting for login... 10/120s
+2026-03-31 05:29:01,836  INFO     Waiting for login... 15/120s
+2026-03-31 05:29:06,906  INFO     Waiting for login... 20/120s
+2026-03-31 05:29:11,973  INFO     Waiting for login... 25/120s
+2026-03-31 05:29:18,931  INFO     Waiting for login... 30/120s
+2026-03-31 05:29:23,978  INFO     Waiting for login... 35/120s
+2026-03-31 05:29:34,439  INFO     Waiting for login... 40/120s
+2026-03-31 05:29:39,482  INFO     Waiting for login... 45/120s
+2026-03-31 05:29:44,564  INFO     Waiting for login... 50/120s
+2026-03-31 05:29:53,925  INFO     Waiting for login... 55/120s
+2026-03-31 05:29:59,059  INFO     Waiting for login... 60/120s
+2026-03-31 05:30:04,113  INFO     Waiting for login... 65/120s
+2026-03-31 05:30:12,652  INFO     Waiting for login... 70/120s
+2026-03-31 05:30:17,734  INFO     Waiting for login... 75/120s
+2026-03-31 05:30:22,766  INFO     Waiting for login... 80/120s
+2026-03-31 05:30:32,276  INFO     Waiting for login... 85/120s
+2026-03-31 05:30:37,372  INFO     Waiting for login... 90/120s
+2026-03-31 05:30:49,229  INFO     Waiting for login... 95/120s
+2026-03-31 05:30:54,335  INFO     Waiting for login... 100/120s
+2026-03-31 05:31:05,713  INFO     Waiting for login... 105/120s
+2026-03-31 05:31:10,847  INFO     Waiting for login... 110/120s
+2026-03-31 05:31:15,889  INFO     Waiting for login... 115/120s
+2026-03-31 05:31:27,189  INFO     Waiting for login... 120/120s
+2026-03-31 05:31:27,189  ERROR    Login not detected within 120s.
+2026-03-31 05:31:28,496  INFO     Browser closed. Profile saved.
+2026-03-31 14:43:56,795  INFO     Browser opened with persistent profile.
+2026-03-31 14:44:41,350  INFO     Browser closed. Profile saved.
+2026-03-31 15:05:20,312  INFO     Browser opened with persistent profile.
+2026-03-31 15:07:49,766  INFO     Sending to: 03278448829
+2026-03-31 15:07:49,768  INFO     Opening chat via URL: phone=923278448829
+2026-03-31 15:08:15,108  WARNING  Compose box not found, trying anyway...
+2026-03-31 15:08:20,590  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 15:08:30,742  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 15:08:30,742  INFO     Waiting for message delivery...
+2026-03-31 15:08:33,787  INFO     Message delivered (compose box empty).
+2026-03-31 15:08:38,799  INFO     Message sent to 03278448829
+2026-03-31 15:08:42,161  INFO     Browser closed. Profile saved.
+2026-03-31 15:09:35,635  INFO     Browser opened with persistent profile.
+2026-03-31 15:09:55,211  INFO     Sending to: 03278448829
+2026-03-31 15:09:55,212  INFO     Opening chat via URL: phone=923278448829
+2026-03-31 15:10:09,623  INFO     Chat opened for 923278448829
+2026-03-31 15:10:14,708  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 15:10:24,331  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 15:10:24,331  INFO     Waiting for message delivery...
+2026-03-31 15:10:27,366  INFO     Message delivered (compose box empty).
+2026-03-31 15:10:32,371  INFO     Message sent to 03278448829
+2026-03-31 15:10:34,356  INFO     Browser closed. Profile saved.
+2026-03-31 15:11:25,037  INFO     Browser opened with persistent profile.
+2026-03-31 15:12:01,155  INFO     Sending to: 032323260891
+2026-03-31 15:12:01,157  INFO     Opening chat via URL: phone=032323260891
+2026-03-31 15:12:26,134  WARNING  Compose box not found, trying anyway...
+2026-03-31 15:13:01,719  ERROR    Compose box NOT found. Editable elements:
+
+2026-03-31 15:13:01,719  ERROR    Error sending to 032323260891: Could not find compose box
+2026-03-31 15:13:03,775  INFO     Browser closed. Profile saved.
+2026-03-31 15:24:17,766  INFO     Browser opened with persistent profile.
+2026-03-31 15:24:35,167  INFO     Sending to: 03278448829
+2026-03-31 15:24:35,168  INFO     Opening chat via URL: phone=923278448829
+2026-03-31 15:24:48,274  INFO     Chat opened for 923278448829
+2026-03-31 15:24:53,390  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 15:25:03,666  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 15:25:03,667  INFO     Waiting for message delivery...
+2026-03-31 15:25:06,727  INFO     Message delivered (compose box empty).
+2026-03-31 15:25:11,732  INFO     Message sent to 03278448829
+2026-03-31 15:25:12,268  INFO     Browser closed. Profile saved.
+2026-03-31 15:25:35,875  INFO     Browser opened with persistent profile.
+2026-03-31 15:25:58,682  INFO     Sending to: 032323260891
+2026-03-31 15:25:58,683  INFO     Opening chat via URL: phone=032323260891
+2026-03-31 15:26:22,697  WARNING  Compose box not found, trying anyway...
+2026-03-31 15:26:58,122  ERROR    Compose box NOT found. Editable elements:
+
+2026-03-31 15:26:58,123  ERROR    Error sending to 032323260891: Could not find compose box
+2026-03-31 15:27:02,275  INFO     Browser closed. Profile saved.
+2026-03-31 15:29:05,383  INFO     Browser opened with persistent profile.
+2026-03-31 15:29:30,082  INFO     Sending to: test
+2026-03-31 15:30:04,153  INFO     Search opened via Ctrl+F
+2026-03-31 15:30:08,991  INFO     Browser closed. Profile saved.
+2026-03-31 15:30:17,340  ERROR    Error sending to test: Could not find search box
+2026-03-31 15:30:29,678  INFO     Browser closed. Profile saved.
+2026-03-31 15:59:52,757  INFO     Browser opened with persistent profile.
+2026-03-31 16:00:12,457  INFO     Sending to: 03278448829
+2026-03-31 16:00:12,458  INFO     Opening chat via URL: phone=923278448829
+2026-03-31 16:00:29,059  INFO     Chat opened for 923278448829
+2026-03-31 16:00:34,102  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 16:00:47,695  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 16:00:47,695  INFO     Waiting for message delivery...
+2026-03-31 16:00:50,786  INFO     Message delivered (compose box empty).
+2026-03-31 16:00:55,793  INFO     Message sent to 03278448829
+2026-03-31 16:00:56,569  INFO     Browser closed. Profile saved.
+2026-03-31 16:49:14,919  INFO     Browser opened with persistent profile.
+2026-03-31 16:49:38,895  INFO     Sending to: 03278448829
+2026-03-31 16:49:38,896  INFO     Opening chat via URL: phone=923278448829
+2026-03-31 16:50:02,600  INFO     Chat opened for 923278448829
+2026-03-31 16:50:08,416  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 16:50:20,862  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 16:50:20,862  INFO     Waiting for message delivery...
+2026-03-31 16:50:24,010  INFO     Message delivered (compose box empty).
+2026-03-31 16:50:29,021  INFO     Message sent to 03278448829
+2026-03-31 16:50:33,728  INFO     Browser closed. Profile saved.
+2026-03-31 16:51:51,484  INFO     Browser opened with persistent profile.
+2026-03-31 16:52:24,108  INFO     Sending to: 03278448829
+2026-03-31 16:52:24,109  INFO     Opening chat via URL: phone=923278448829
+2026-03-31 16:52:49,026  INFO     Chat opened for 923278448829
+2026-03-31 16:52:54,058  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 16:53:03,041  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 16:53:03,041  INFO     Waiting for message delivery...
+2026-03-31 16:53:06,182  INFO     Message delivered (compose box empty).
+2026-03-31 16:53:11,327  INFO     Message sent to 03278448829
+2026-03-31 16:53:12,382  INFO     Browser closed. Profile saved.
+2026-03-31 16:53:57,765  INFO     Browser opened with persistent profile.
+2026-03-31 16:54:33,961  INFO     Sending to: 03232360891
+2026-03-31 16:54:33,962  INFO     Opening chat via URL: phone=923232360891
+2026-03-31 16:54:54,246  INFO     Chat opened for 923232360891
+2026-03-31 16:55:00,669  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 16:55:08,984  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 16:55:08,984  INFO     Waiting for message delivery...
+2026-03-31 16:55:12,037  INFO     Message delivered (compose box empty).
+2026-03-31 16:55:17,087  INFO     Message sent to 03232360891
+2026-03-31 16:55:21,811  INFO     Browser closed. Profile saved.
+2026-03-31 17:04:55,870  INFO     Browser opened with persistent profile.
+2026-03-31 17:05:27,064  INFO     Sending to: 03232360891
+2026-03-31 17:05:27,065  INFO     Opening chat via URL: phone=923232360891
+2026-03-31 17:05:58,616  INFO     Chat opened for 923232360891
+2026-03-31 17:06:04,762  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 17:06:13,703  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 17:06:13,704  INFO     Waiting for message delivery...
+2026-03-31 17:06:16,762  INFO     Message delivered (compose box empty).
+2026-03-31 17:06:21,972  INFO     Message sent to 03232360891
+2026-03-31 17:06:25,194  INFO     Browser closed. Profile saved.
+2026-03-31 17:07:29,931  INFO     Browser opened with persistent profile.
+2026-03-31 17:07:58,578  INFO     Sending to: 03232360891
+2026-03-31 17:07:58,581  INFO     Opening chat via URL: phone=923232360891
+2026-03-31 17:08:46,369  WARNING  Compose box not found, trying anyway...
+2026-03-31 17:09:21,666  ERROR    Compose box NOT found. Editable elements:
+
+2026-03-31 17:09:21,667  ERROR    Error sending to 03232360891: Could not find compose box
+2026-03-31 17:09:54,189  INFO     Browser closed. Profile saved.
+2026-03-31 18:38:13,346  INFO     Browser opened with persistent profile.
+2026-03-31 18:38:24,253  INFO     Waiting for login... 5/60s
+2026-03-31 18:38:33,901  INFO     Waiting for login... 10/60s
+2026-03-31 18:38:40,274  INFO     Logged in from saved profile.
+2026-03-31 18:38:40,274  INFO     Sending to: 03232360891
+2026-03-31 18:38:40,275  INFO     Opening chat via URL: phone=923232360891
+2026-03-31 18:38:56,496  INFO     Chat opened for 923232360891
+2026-03-31 18:39:01,953  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 18:39:10,933  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 18:39:10,934  INFO     Waiting for message delivery...
+2026-03-31 18:39:14,128  INFO     Message delivered (compose box empty).
+2026-03-31 18:39:19,138  INFO     Message sent to 03232360891
+2026-03-31 18:39:46,712  INFO     Browser closed. Profile saved.
+2026-03-31 18:46:44,792  INFO     Browser opened with persistent profile.
+2026-03-31 18:47:03,683  INFO     Sending to: 03232360891
+2026-03-31 18:47:03,690  INFO     Opening chat via URL: phone=923232360891
+2026-03-31 18:47:30,918  WARNING  Compose box not found, trying anyway...
+2026-03-31 18:47:36,071  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-31 18:47:44,266  INFO     Send clicked: button[aria-label="Send"]
+2026-03-31 18:47:44,267  INFO     Waiting for message delivery...
+2026-03-31 18:47:47,620  INFO     Message delivered (compose box empty).
+2026-03-31 18:47:52,627  INFO     Message sent to 03232360891
+2026-03-31 18:47:53,691  INFO     Browser closed. Profile saved.

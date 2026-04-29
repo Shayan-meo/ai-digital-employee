@@ -1,0 +1,20 @@
+2026-03-09 22:04:19,713 [WARNING] Service DOWN: cloud_watcher
+2026-03-09 22:04:19,714 [INFO] Restarting cloud_watcher: pm2 restart cloud_watcher
+2026-03-09 22:04:19,748 [ERROR] cloud_watcher restart failed: 'pm2' is not recognized as an internal or external command,
+operable program or batch file.
+
+2026-03-09 22:04:19,748 [ERROR] CRITICAL: cloud_watcher is DOWN and restart failed
+2026-03-09 22:04:19,909 [WARNING] Service DOWN: scheduler
+2026-03-09 22:04:19,909 [INFO] Restarting scheduler: pm2 restart scheduler
+2026-03-09 22:04:19,935 [ERROR] scheduler restart failed: 'pm2' is not recognized as an internal or external command,
+operable program or batch file.
+
+2026-03-09 22:04:19,936 [ERROR] CRITICAL: scheduler is DOWN and restart failed
+2026-03-09 22:04:20,089 [WARNING] Service DOWN: vault_sync
+2026-03-09 22:04:20,089 [INFO] Restarting vault_sync: pm2 restart vault_sync
+2026-03-09 22:04:20,133 [ERROR] vault_sync restart failed: 'pm2' is not recognized as an internal or external command,
+operable program or batch file.
+
+2026-03-09 22:04:21,827 [INFO] Service OK: odoo
+2026-03-09 22:04:25,887 [WARNING] Service DOWN: health_endpoint
+2026-03-09 22:04:25,892 [INFO] Alert file created: health_alert_20260309_220425.md

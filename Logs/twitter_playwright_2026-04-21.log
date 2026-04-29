@@ -1,0 +1,37 @@
+2026-04-21 15:39:49,406 [WARNING] playwright_stealth not installed — running without stealth.
+2026-04-21 15:39:49,744 [INFO] Browser started. Session: restored.
+2026-04-21 15:40:16,619 [INFO] Logged in — on x.com (no login redirect).
+2026-04-21 15:40:16,620 [INFO] Already logged in (session restored).
+2026-04-21 15:40:16,620 [INFO] Login test passed!
+2026-04-21 15:40:16,895 [INFO] Session saved to .twitter_session
+2026-04-21 15:40:17,716 [INFO] Browser closed.
+2026-04-21 15:55:18,376 [INFO] Claude generated tweet (84 chars): You said "about this:" but didn't include the topic. What should the tweet be ab...
+2026-04-21 15:55:40,359 [WARNING] Stealth not applied: Stealth.__init__() takes 1 positional argument but 2 were given
+2026-04-21 15:56:02,808 [INFO] Browser started. Session: restored.
+2026-04-21 15:56:28,147 [INFO] Logged in — on x.com (no login redirect).
+2026-04-21 15:56:28,148 [INFO] Already logged in (session restored).
+2026-04-21 15:56:28,148 [INFO] Posting tweet (84 chars)...
+2026-04-21 15:56:28,148 [INFO] Navigating to home page...
+2026-04-21 15:57:40,080 [INFO] Trying compose/post URL...
+2026-04-21 15:58:52,529 [INFO] Trying compose button clicks...
+2026-04-21 15:59:24,687 [INFO] Composer not found. Open it manually in browser (3 min)...
+2026-04-21 16:08:12,187 [WARNING] Stealth skipped: 'Stealth' object has no attribute 'apply'
+2026-04-21 16:08:12,733 [INFO] Browser started. Session: fresh.
+2026-04-21 16:08:12,733 [INFO] Starting Twitter login...
+2026-04-21 16:09:05,792 [INFO] Entering username...
+2026-04-21 16:09:22,337 [INFO] Challenge 1: sign in to x sign in to x sign in to x sign in with apple sign in with apple phone, email, or userna
+2026-04-21 16:09:22,338 [INFO]   Trying: DevLogicX
+2026-04-21 16:09:28,518 [INFO] Challenge 2: sign in to x sign in to x sign in to x sign in with apple sign in with apple phone, email, or userna
+2026-04-21 16:09:28,522 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-21 16:09:34,592 [INFO] Challenge 3: sign in to x sign in to x sign in to x sign in with google sign in with google. opens in new tab sig
+2026-04-21 16:09:34,592 [INFO]   Trying: DevLogicX
+2026-04-21 16:09:40,560 [INFO] Challenge 4: sign in to x sign in to x sign in to x sign in with apple sign in with apple phone, email, or userna
+2026-04-21 16:09:40,560 [INFO]   Trying: DevLogicX
+2026-04-21 16:09:46,746 [INFO] Challenge 5: sign in to x sign in to x sign in to x sign in with apple sign in with apple phone, email, or userna
+2026-04-21 16:09:46,746 [INFO]   Trying: DevLogicX
+2026-04-21 16:09:52,752 [INFO] Entering password...
+2026-04-21 16:10:13,437 [WARNING] Password field not found, retrying...
+2026-04-21 16:10:28,442 [ERROR] Page load timed out.
+2026-04-21 16:10:28,443 [ERROR] Login failed.
+2026-04-21 16:10:28,930 [INFO] Session saved.
+2026-04-21 16:10:30,410 [INFO] Browser closed.

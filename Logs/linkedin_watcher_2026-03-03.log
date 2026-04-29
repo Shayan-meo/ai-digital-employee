@@ -1,0 +1,4 @@
+2026-03-03 01:55:07,424 [INFO] LinkedIn Watcher started (Silver Tier)
+2026-03-03 01:55:07,425 [INFO] Watching: D:\AI_Employee_Vault\Needs_Action
+2026-03-03 01:55:07,425 [INFO] Poll interval: 120s
+2026-03-03 01:55:07,425 [WARNING] LINKEDIN_EMAIL or LINKEDIN_PASSWORD not set in environment. Post drafting will work but MCP posting tools may not authenticate. Set these in your .env file.

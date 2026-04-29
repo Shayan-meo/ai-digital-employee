@@ -1,0 +1,13 @@
+2026-03-04 00:41:00,919 [INFO] Filesystem Watcher starting...
+2026-03-04 00:41:00,921 [INFO] Watching: D:\AI_Employee_Vault\Inbox
+2026-03-04 00:41:00,932 [INFO] Filesystem Watcher running. Press Ctrl+C to stop.
+2026-03-04 00:43:31,831 [INFO] New inbox file detected: silver_test.md
+2026-03-04 00:43:31,833 [INFO] Moved silver_test.md -> Needs_Action/silver_test.md
+2026-03-04 00:45:52,788 [INFO] Filesystem Watcher starting...
+2026-03-04 00:45:52,788 [INFO] Watching: D:\AI_Employee_Vault\Inbox
+2026-03-04 00:45:52,791 [INFO] Filesystem Watcher running. Press Ctrl+C to stop.
+2026-03-04 03:18:45,789 [INFO] Filesystem Watcher starting...
+2026-03-04 03:18:45,791 [INFO] Watching: D:\AI_Employee_Vault\Inbox
+2026-03-04 03:18:45,862 [INFO] Filesystem Watcher running. Press Ctrl+C to stop.
+2026-03-04 03:27:49,154 [INFO] Shutdown signal received. Stopping watcher...
+2026-03-04 03:27:49,244 [INFO] Filesystem Watcher stopped.

@@ -1,0 +1,15 @@
+2026-03-04 03:18:45,664 [INFO] ============================================================
+2026-03-04 03:18:45,664 [INFO] Scheduler starting
+2026-03-04 03:18:45,665 [INFO] Vault root: D:\AI_Employee_Vault
+2026-03-04 03:18:45,665 [INFO] ============================================================
+2026-03-04 03:18:45,665 [INFO] Scheduled jobs:
+2026-03-04 03:18:45,666 [INFO]   - Gmail check: every 5 minutes
+2026-03-04 03:18:45,666 [INFO]   - Daily summary: every day at 09:00
+2026-03-04 03:18:45,666 [INFO]   - CEO Briefing: every Sunday at 22:00 (Gold Tier)
+2026-03-04 03:18:45,666 [INFO] Running initial daily summary...
+2026-03-04 03:18:45,666 [INFO] Scheduled job: Daily summary
+2026-03-04 03:18:45,669 [INFO] Created daily summary task: daily_summary_20260304_031845.md
+2026-03-04 03:18:45,669 [INFO] Scheduler running. Press Ctrl+C to stop.
+2026-03-04 03:23:45,876 [INFO] Scheduled job: Gmail check
+2026-03-04 03:23:55,692 [ERROR] Gmail check failed: cannot import name 'poll_cycle' from 'gmail_watcher' (D:\AI_Employee_Vault\gmail_watcher.py)
+2026-03-04 03:27:49,139 [INFO] Scheduler stopped by user.

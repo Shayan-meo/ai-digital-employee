@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2026-03-09T17:00:25.851177",
+    "action_type": "test",
+    "actor": "audit_logger",
+    "parameters": {
+      "test": true
+    },
+    "result": "success",
+    "details": "Audit logger test entry"
+  },
+  {
+    "timestamp": "2026-03-09T17:00:25.852101",
+    "action_type": "post",
+    "actor": "linkedin_playwright",
+    "parameters": {
+      "platform": "linkedin",
+      "chars": 707
+    },
+    "result": "success",
+    "details": "Posted AI article to LinkedIn"
+  },
+  {
+    "timestamp": "2026-03-09T17:00:25.865477",
+    "action_type": "email",
+    "actor": "gmail_watcher",
+    "parameters": {
+      "from": "client@example.com",
+      "subject": "Invoice"
+    },
+    "result": "queued",
+    "details": "Routed to Pending_Approval"
+  },
+  {
+    "timestamp": "2026-03-09T22:01:50.709577",
+    "action_type": "queue",
+    "actor": "retry_handler",
+    "parameters": {
+      "task_name": "dead_service",
+      "error": "Service unavailable",
+      "retries": 3
+    },
+    "result": "queued",
+    "details": "Task queued after 3 failed retries"
+  },
+  {
+    "timestamp": "2026-03-09T22:04:25.897645",
+    "action_type": "health_check",
+    "actor": "health_monitor",
+    "parameters": {
+      "cloud_watcher": "down",
+      "scheduler": "down",
+      "vault_sync": "down",
+      "odoo": "healthy",
+      "health_endpoint": "down"
+    },
+    "result": "degraded",
+    "details": "Health: degraded"
+  }
+]

@@ -1,0 +1,17 @@
+2026-03-04 03:18:45,685 [INFO] LinkedIn Watcher started (Silver Tier)
+2026-03-04 03:18:45,685 [INFO] Watching: D:\AI_Employee_Vault\Needs_Action
+2026-03-04 03:18:45,685 [INFO] Poll interval: 120s
+2026-03-04 03:18:45,686 [WARNING] LINKEDIN_EMAIL or LINKEDIN_PASSWORD not set in environment. Post drafting will work but MCP posting tools may not authenticate. Set these in your .env file.
+2026-03-04 03:18:45,688 [INFO] LinkedIn task detected: daily_summary_20260303_015507.md
+2026-03-04 03:18:45,689 [INFO] Drafting LinkedIn post via Claude MCP...
+2026-03-04 03:18:45,757 [ERROR] Claude CLI not found — make sure 'claude' is on PATH
+2026-03-04 03:18:45,758 [INFO] Approval request created: linkedin_post_20260304_031845_daily_summary_20260303_015507.md
+2026-03-04 03:18:45,760 [INFO] Task archived to Done: daily_summary_20260303_015507.md
+2026-03-04 03:18:45,761 [INFO] LinkedIn post queued for approval: daily_summary_20260303_015507.md
+2026-03-04 03:18:45,797 [INFO] LinkedIn task detected: daily_summary_20260304_031845.md
+2026-03-04 03:18:45,798 [INFO] Drafting LinkedIn post via Claude MCP...
+2026-03-04 03:18:45,820 [ERROR] Claude CLI not found — make sure 'claude' is on PATH
+2026-03-04 03:18:45,821 [INFO] Approval request created: linkedin_post_20260304_031845_daily_summary_20260304_031845.md
+2026-03-04 03:18:45,823 [INFO] Task archived to Done: daily_summary_20260304_031845.md
+2026-03-04 03:18:45,823 [INFO] LinkedIn post queued for approval: daily_summary_20260304_031845.md
+2026-03-04 03:18:45,823 [INFO] Poll complete: 2 LinkedIn task(s) processed

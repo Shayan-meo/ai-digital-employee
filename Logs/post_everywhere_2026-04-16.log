@@ -1,0 +1,61 @@
+2026-04-16 17:14:24,842 [INFO] Post Everywhere — Starting
+2026-04-16 17:14:24,842 [INFO] Platforms: facebook, twitter
+2026-04-16 17:14:24,842 [INFO] Text: Building my AI-powered personal assistant that handles emails, social media, and...
+2026-04-16 17:14:24,843 [INFO] Image: (none)
+2026-04-16 17:14:24,843 [INFO] ==================================================
+2026-04-16 17:14:24,843 [INFO] FACEBOOK — Starting...
+2026-04-16 17:14:41,287 [INFO] Facebook: already logged in.
+2026-04-16 17:14:41,287 [INFO] Navigating to Facebook home...
+2026-04-16 17:14:51,605 [INFO] Opening post composer...
+2026-04-16 17:14:56,819 [INFO] Clicked composer: [aria-label='Create a post']
+2026-04-16 17:15:01,826 [INFO] Finding the LAST (active) dialog...
+2026-04-16 17:15:01,833 [INFO] Found 2 dialog(s) on page
+2026-04-16 17:15:01,834 [INFO] Finding textbox in LAST dialog...
+2026-04-16 17:15:01,859 [INFO] Found textbox: [role='dialog'] div[contenteditable='true'][role='textbox'] [last of 1] (attempt 1)
+2026-04-16 17:15:01,859 [INFO] Focusing textbox in LAST dialog and typing text...
+2026-04-16 17:15:03,411 [INFO] Textbox clicked with force (last dialog)
+2026-04-16 17:15:18,225 [INFO] Text verified in LAST dialog (206 chars)
+2026-04-16 17:15:18,225 [INFO] Clicking Post button in LAST dialog...
+2026-04-16 17:15:18,391 [INFO] Clicked Post: div[aria-label='Post'][role='button'] [last of 1]
+2026-04-16 17:15:23,419 [INFO] Post published successfully!
+2026-04-16 17:15:23,420 [INFO] FACEBOOK — Posted successfully!
+2026-04-16 17:15:23,670 [INFO] Session saved.
+2026-04-16 17:15:26,552 [INFO] ==================================================
+2026-04-16 17:15:26,552 [INFO] TWITTER/X — Starting...
+2026-04-16 17:15:40,042 [INFO] Session check URL: https://x.com/
+2026-04-16 17:15:48,083 [INFO] Twitter: already logged in.
+2026-04-16 17:15:48,083 [INFO] Posting tweet (206 chars)...
+2026-04-16 17:16:25,376 [ERROR] Tweet composer not found
+2026-04-16 17:16:25,803 [ERROR] TWITTER/X — Post failed.
+2026-04-16 17:16:26,599 [INFO] Session saved.
+2026-04-16 17:16:28,617 [INFO] ==================================================
+2026-04-16 17:16:28,617 [INFO] RESULTS:
+2026-04-16 17:16:28,618 [INFO]   facebook     OK
+2026-04-16 17:16:28,618 [INFO]   twitter      FAILED
+2026-04-16 17:16:28,618 [INFO] Total: 1/2 platforms posted successfully.
+2026-04-16 17:56:41,424 [INFO] Post Everywhere — Starting
+2026-04-16 17:56:41,426 [INFO] Platforms: instagram
+2026-04-16 17:56:41,427 [INFO] Text: Building my AI-powered personal assistant that handles emails, social media, and...
+2026-04-16 17:56:41,427 [INFO] Image: D:/AI_Employee_Vault/Media/AI.jpg
+2026-04-16 17:56:41,428 [INFO] ==================================================
+2026-04-16 17:56:41,429 [INFO] INSTAGRAM — Starting...
+2026-04-16 17:56:55,143 [INFO] Instagram: already logged in.
+2026-04-16 17:56:55,143 [INFO] Navigating to Instagram...
+2026-04-16 17:57:01,533 [INFO] Looking for Create post button...
+2026-04-16 17:57:02,057 [INFO] Clicked create: svg[aria-label='New post']
+2026-04-16 17:57:04,919 [INFO] Image resized to 1080x1080.
+2026-04-16 17:57:04,919 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-04-16 17:57:07,975 [INFO] Image uploaded.
+2026-04-16 17:57:10,542 [INFO] Clicked Next (crop)
+2026-04-16 17:57:13,680 [INFO] Clicked Next (filters)
+2026-04-16 17:57:13,717 [INFO] Looking for caption input...
+2026-04-16 17:57:28,898 [INFO] Found caption: div[contenteditable='true']
+2026-04-16 17:57:39,062 [INFO] Clicking Share button...
+2026-04-16 17:57:39,275 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-04-16 17:57:44,289 [INFO] Post published successfully!
+2026-04-16 17:57:44,290 [INFO] INSTAGRAM — Posted successfully!
+2026-04-16 17:57:44,942 [INFO] Session saved.
+2026-04-16 17:57:48,142 [INFO] ==================================================
+2026-04-16 17:57:48,142 [INFO] RESULTS:
+2026-04-16 17:57:48,142 [INFO]   instagram    OK
+2026-04-16 17:57:48,143 [INFO] Total: 1/1 platforms posted successfully.

@@ -1,0 +1,158 @@
+2026-02-28 02:21:02,015 [ERROR] TWITTER_USERNAME or TWITTER_PASSWORD not set in .env
+2026-02-28 02:22:09,085 [INFO] Logging in to Twitter/X...
+2026-02-28 02:22:54,400 [ERROR] Login timed out.
+2026-02-28 02:22:54,401 [ERROR] Login failed. Exiting.
+2026-02-28 02:22:54,652 [INFO] Session saved.
+2026-02-28 02:25:59,046 [INFO] Logging in to Twitter/X...
+2026-02-28 02:26:39,699 [ERROR] Login timed out.
+2026-02-28 02:26:39,700 [ERROR] Login failed. Exiting.
+2026-02-28 02:26:40,031 [INFO] Session saved.
+2026-02-28 02:28:04,048 [INFO] Logging in to Twitter/X...
+2026-02-28 02:28:51,168 [ERROR] Login timed out.
+2026-02-28 02:28:51,169 [ERROR] Login failed. Exiting.
+2026-02-28 02:28:51,568 [INFO] Session saved.
+2026-02-28 02:43:45,928 [INFO] Logging in to Twitter/X...
+2026-02-28 02:44:29,326 [ERROR] Login timed out.
+2026-02-28 02:44:29,327 [ERROR] Login failed. Exiting.
+2026-02-28 02:44:29,747 [INFO] Session saved.
+2026-02-28 02:46:51,105 [INFO] Logging in to Twitter/X...
+2026-02-28 02:47:07,146 [INFO] Waiting for password field...
+2026-02-28 02:47:37,162 [ERROR] Login timed out.
+2026-02-28 02:47:37,163 [ERROR] Login failed. Exiting.
+2026-02-28 02:47:37,458 [INFO] Session saved.
+2026-02-28 02:50:10,942 [INFO] Logging in to Twitter/X...
+2026-02-28 02:50:22,366 [INFO] Waiting for password field... (check browser if stuck)
+2026-02-28 02:52:22,384 [ERROR] Login timed out.
+2026-02-28 02:52:22,401 [ERROR] Login failed. Exiting.
+2026-02-28 02:52:23,242 [INFO] Session saved.
+2026-02-28 03:03:16,049 [INFO] Logging in to Twitter/X...
+2026-02-28 03:03:27,598 [INFO] Clicked Next after username.
+2026-02-28 03:03:31,610 [INFO] Waiting for next step...
+2026-02-28 03:04:01,632 [INFO] Waiting for password field...
+2026-02-28 03:04:31,642 [ERROR] Login timed out.
+2026-02-28 03:04:31,643 [ERROR] Login failed. Exiting.
+2026-02-28 03:04:32,100 [INFO] Session saved.
+2026-02-28 03:05:56,247 [INFO] Logging in to Twitter/X...
+2026-02-28 03:06:03,462 [INFO] Clicked Next after username.
+2026-02-28 03:06:07,469 [INFO] Waiting for next step...
+2026-02-28 03:06:37,511 [INFO] Waiting for password field... complete any verification in browser
+2026-02-28 03:08:37,523 [ERROR] Login timed out.
+2026-02-28 03:08:37,523 [ERROR] Login failed. Exiting.
+2026-02-28 03:08:37,845 [INFO] Session saved.
+2026-02-28 03:11:00,507 [INFO] Logging in to Twitter/X...
+2026-02-28 03:11:08,004 [INFO] Clicked Next after username.
+2026-02-28 03:11:12,020 [INFO] Waiting for next step...
+2026-02-28 03:11:28,432 [INFO] Waiting for password field... complete any verification in browser
+2026-02-28 03:11:28,547 [ERROR] Login error: Page.wait_for_selector: Target page, context or browser has been closed
+2026-02-28 03:11:28,556 [ERROR] Login failed. Exiting.
+2026-02-28 03:11:29,230 [INFO] Session saved.
+2026-02-28 03:16:34,141 [INFO] Logging in to Twitter/X...
+2026-02-28 03:16:46,132 [INFO] Clicked Next after username.
+2026-02-28 03:16:50,182 [INFO] Waiting for next step...
+2026-02-28 03:17:20,214 [INFO] Waiting for password field... complete any verification in browser
+2026-02-28 03:19:20,227 [ERROR] Login timed out.
+2026-02-28 03:19:20,227 [ERROR] Login failed. Exiting.
+2026-02-28 03:19:20,474 [INFO] Session saved.
+2026-02-28 03:33:40,968 [INFO] Opening Twitter/X login page...
+2026-02-28 03:33:40,975 [INFO] ==================================================
+2026-02-28 03:33:40,975 [INFO] Please LOGIN MANUALLY in the browser window.
+2026-02-28 03:33:40,975 [INFO] Script will wait up to 3 minutes for you to complete login.
+2026-02-28 03:33:40,976 [INFO] ==================================================
+2026-02-28 03:33:46,706 [INFO] Waiting for manual login... (3 min timeout)
+2026-02-28 03:34:18,771 [INFO] Still waiting... (30 sec elapsed)
+2026-02-28 03:34:48,816 [INFO] Still waiting... (60 sec elapsed)
+2026-02-28 03:35:18,834 [INFO] Still waiting... (90 sec elapsed)
+2026-02-28 03:35:48,888 [INFO] Still waiting... (120 sec elapsed)
+2026-02-28 03:36:18,915 [INFO] Still waiting... (150 sec elapsed)
+2026-02-28 03:36:46,928 [ERROR] Login not completed within 3 minutes.
+2026-02-28 03:36:46,929 [ERROR] Login failed. Exiting.
+2026-02-28 03:36:47,336 [INFO] Session saved.
+2026-02-28 03:37:43,344 [INFO] Already logged in (session restored).
+2026-02-28 03:37:43,351 [INFO] Processing: twitter_post_test.md
+2026-02-28 03:37:43,357 [INFO] Tweet (208 chars): AI Employee is live! 🚀
+
+My autonomous AI system can now post on Twitter/X automa...
+2026-02-28 03:37:43,358 [INFO] Navigating to Twitter/X home...
+2026-02-28 03:37:49,080 [INFO] Looking for tweet composer...
+2026-02-28 03:37:50,284 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-02-28 03:38:05,656 [INFO] Clicking Tweet/Post button...
+2026-02-28 03:39:05,864 [ERROR] Could not find Post button — saving screenshot
+2026-02-28 03:39:06,288 [INFO] Archived to Done: tw_posted_20260228_033906_twitter_post_test.md
+2026-02-28 03:39:06,299 [INFO] Done. Posted 0 tweet(s).
+2026-02-28 03:39:06,312 [INFO] Session saved.
+2026-02-28 03:44:46,793 [INFO] Already logged in (session restored).
+2026-02-28 03:44:46,795 [INFO] Processing: twitter_post_test2.md
+2026-02-28 03:44:46,798 [INFO] Tweet (111 chars): Testing AI Employee Twitter automation! 🤖
+
+Automated posting via Playwright is w...
+2026-02-28 03:44:46,798 [INFO] Navigating to Twitter/X home...
+2026-02-28 03:44:53,011 [INFO] Looking for tweet composer...
+2026-02-28 03:44:53,397 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-02-28 03:45:04,237 [INFO] Clicking Tweet/Post button...
+2026-02-28 03:45:35,466 [WARNING] tweetButtonInline failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button role="button" type="button" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    49 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+
+2026-02-28 03:45:38,484 [WARNING] tweetButton failed: Locator.wait_for: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButton']").last to be visible
+
+2026-02-28 03:46:11,552 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-02-28 03:46:41,578 [WARNING] Ctrl+Enter failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetTextarea_0']").first
+    - locator resolved to <div tabindex="0" role="textbox" spellcheck="true" aria-multiline="true" aria-label="Post text" contenteditable="true" aria-autocomplete="list" data-testid="tweetTextarea_0" no-focustrapview-refocus="true" aria-describedby="placeholder-5ctgd" aria-controls="typeaheadDropdownWrapped-1" class="notranslate public-DraftEditor-content" aria-activedescendant="typeaheadFocus-0.42054587525986376">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-02-28 03:46:41,578 [ERROR] Could not find Post button — saving screenshot
+2026-02-28 03:46:42,143 [INFO] Archived to Done: tw_posted_20260228_034642_twitter_post_test2.md
+2026-02-28 03:46:42,143 [INFO] Done. Posted 0 tweet(s).
+2026-02-28 03:46:42,166 [INFO] Session saved.

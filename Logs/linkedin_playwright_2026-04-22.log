@@ -1,0 +1,14 @@
+2026-04-22 11:32:51,257 [INFO] Logging in to LinkedIn...
+2026-04-22 11:33:00,905 [ERROR] Login error: Page.goto: Navigation to "https://www.linkedin.com/login" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://www.linkedin.com/login", waiting until "domcontentloaded"
+
+2026-04-22 11:33:01,555 [INFO] Session saved.
+2026-04-22 11:37:48,799 [INFO] Already logged in (session restored).
+2026-04-22 11:37:48,801 [INFO] Login test successful!
+2026-04-22 11:37:50,568 [INFO] Session saved.
+2026-04-22 11:39:46,182 [INFO] Navigating to LinkedIn feed...
+2026-04-22 11:40:02,745 [ERROR] Post error: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"
+

@@ -1,0 +1,65 @@
+2026-03-04 03:19:01,905  INFO     Browser opened with persistent profile.
+2026-03-04 03:20:21,180  INFO     Browser closed. Profile saved.
+2026-03-04 03:20:32,545  INFO     Browser opened with persistent profile.
+2026-03-04 03:20:42,617  INFO     Waiting for login... 5/40s
+2026-03-04 03:20:47,710  INFO     Waiting for login... 10/40s
+2026-03-04 03:20:52,846  INFO     Waiting for login... 15/40s
+2026-03-04 03:20:58,158  INFO     Waiting for login... 20/40s
+2026-03-04 03:21:03,242  INFO     Waiting for login... 25/40s
+2026-03-04 03:21:08,329  INFO     Waiting for login... 30/40s
+2026-03-04 03:21:13,543  INFO     Waiting for login... 35/40s
+2026-03-04 03:21:18,682  INFO     Waiting for login... 40/40s
+2026-03-04 03:21:18,683  ERROR    Login not detected within 40s.
+2026-03-04 03:21:19,448  ERROR    Not logged in. Run: python whatsapp_playwright.py --setup
+2026-03-04 03:21:24,811  INFO     Browser closed. Profile saved.
+2026-03-04 03:21:35,327  INFO     Browser opened with persistent profile.
+2026-03-04 03:21:46,016  INFO     Waiting for login... 5/40s
+2026-03-04 03:21:51,103  INFO     Waiting for login... 10/40s
+2026-03-04 03:21:56,236  INFO     Waiting for login... 15/40s
+2026-03-04 03:22:01,346  INFO     Waiting for login... 20/40s
+2026-03-04 03:22:06,416  INFO     Waiting for login... 25/40s
+2026-03-04 03:22:11,474  INFO     Waiting for login... 30/40s
+2026-03-04 03:22:16,739  INFO     Waiting for login... 35/40s
+2026-03-04 03:22:21,959  INFO     Waiting for login... 40/40s
+2026-03-04 03:22:21,959  ERROR    Login not detected within 40s.
+2026-03-04 03:22:22,502  ERROR    Not logged in. Run: python whatsapp_playwright.py --setup
+2026-03-04 03:22:24,370  INFO     Browser closed. Profile saved.
+2026-03-04 03:22:35,463  INFO     Browser opened with persistent profile.
+2026-03-04 03:22:43,262  INFO     Waiting for login... 5/40s
+2026-03-04 03:22:48,709  INFO     Waiting for login... 10/40s
+2026-03-04 03:22:53,851  INFO     Logged in from saved profile.
+2026-03-04 03:22:53,851  INFO     WhatsApp ready.
+2026-03-04 03:22:53,851  INFO     Mode: send | Polling every 30s
+2026-03-04 03:22:53,854  ERROR    Cannot parse To/Message in whatsapp_test_message.md
+2026-03-04 03:22:53,856  INFO     Archived → Done/wa_20260304_032253_whatsapp_test_message.md
+2026-03-04 03:27:49,191  INFO     Stopped by user.
+2026-03-04 03:27:50,220  ERROR    Task was destroyed but it is pending!
+task: <Task pending name='Task-19' coro=<BrowserContext.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:584> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-04 16:20:39,442  INFO     Browser opened with persistent profile.
+2026-03-04 16:20:47,293  INFO     Waiting for login... 5/40s
+2026-03-04 16:20:52,606  INFO     Waiting for login... 10/40s
+2026-03-04 16:20:58,366  INFO     Logged in from saved profile.
+2026-03-04 16:20:58,367  INFO     WhatsApp ready.
+2026-03-04 16:20:58,367  INFO     Mode: send | Polling every 30s
+2026-03-04 16:20:58,369  INFO     Sending to: 03278448829
+2026-03-04 16:20:58,370  INFO     Opening chat via URL: phone=923278448829
+2026-03-04 16:21:17,449  INFO     Chat opened for 923278448829
+2026-03-04 16:21:23,773  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-04 16:21:55,101  INFO     Send clicked: button[aria-label="Send"]
+2026-03-04 16:21:57,112  INFO     Message sent to 03278448829
+2026-03-04 16:21:57,114  INFO     Archived → Done/wa_20260304_162157_whatsapp_test_ai_msg.md
+2026-03-04 16:21:57,115  INFO     Sent 1 outgoing message(s).
+2026-03-04 16:24:19,185  INFO     Browser opened with persistent profile.
+2026-03-04 16:24:34,245  INFO     Waiting for login... 5/40s
+2026-03-04 16:24:40,165  INFO     Waiting for login... 10/40s
+2026-03-04 16:24:45,489  INFO     Logged in from saved profile.
+2026-03-04 16:24:45,490  INFO     WhatsApp ready.
+2026-03-04 16:24:45,491  INFO     Mode: send | Polling every 30s
+2026-03-04 16:24:45,501  INFO     Sending to: 03232360891
+2026-03-04 16:24:45,506  INFO     Opening chat via URL: phone=923232360891
+2026-03-04 16:25:10,409  WARNING  Compose box not found, trying anyway...
+2026-03-04 16:25:17,630  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-04 16:25:31,527  INFO     Send clicked: button[aria-label="Send"]
+2026-03-04 16:25:33,551  INFO     Message sent to 03232360891
+2026-03-04 16:25:33,553  INFO     Archived → Done/wa_20260304_162533_whatsapp_test_03232360891.md
+2026-03-04 16:25:33,553  INFO     Sent 1 outgoing message(s).

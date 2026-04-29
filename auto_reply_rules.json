@@ -1,0 +1,14 @@
+[
+  {
+    "keyword": "hello",
+    "reply": "Hi! Thanks for your message. I'll get back to you soon."
+  },
+  {
+    "keyword": "hi",
+    "reply": "Hello! Thanks for reaching out. I'll respond shortly."
+  },
+  {
+    "keyword": "*",
+    "reply": "Thanks for your message! I'll get back to you soon."
+  }
+]

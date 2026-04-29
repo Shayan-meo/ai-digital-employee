@@ -1,0 +1,53 @@
+2026-04-19 02:25:56,511 [INFO] Session saved.
+2026-04-19 02:41:15,444 [INFO] Session check URL: https://x.com/
+2026-04-19 02:41:23,506 [INFO] Already logged in (session restored).
+2026-04-19 02:41:23,506 [INFO] Login test passed!
+2026-04-19 02:41:24,168 [INFO] Session saved.
+2026-04-19 02:44:41,896 [INFO] Session check URL: https://x.com/
+2026-04-19 02:44:50,034 [INFO] Already logged in (session restored).
+2026-04-19 02:44:50,035 [INFO] Posting tweet (301 chars)...
+2026-04-19 02:44:50,035 [INFO] Navigating to home page first...
+2026-04-19 02:45:01,337 [INFO] Home page loaded, looking for inline composer...
+2026-04-19 02:46:01,668 [INFO] Navigating to compose/post URL...
+2026-04-19 02:47:12,464 [INFO] Trying compose button clicks...
+2026-04-19 02:47:50,950 [INFO] ==================================================
+2026-04-19 02:47:50,950 [INFO] Composer not found automatically.
+2026-04-19 02:47:50,955 [INFO] MANUAL MODE: Open the tweet composer in the browser.
+2026-04-19 02:47:50,955 [INFO] You have 3 minutes. Click the compose button or
+2026-04-19 02:47:50,956 [INFO] navigate to x.com/compose/post manually.
+2026-04-19 02:47:50,956 [INFO] ==================================================
+2026-04-19 02:54:22,554 [INFO]   Still waiting... (30s / 180s)
+2026-04-19 03:00:53,841 [INFO]   Still waiting... (60s / 180s)
+2026-04-19 03:07:24,724 [INFO]   Still waiting... (90s / 180s)
+2026-04-19 03:13:55,746 [INFO]   Still waiting... (120s / 180s)
+2026-04-19 03:20:26,598 [INFO]   Still waiting... (150s / 180s)
+2026-04-19 03:30:01,258 [INFO]   Still waiting... (180s / 180s)
+2026-04-19 03:30:01,258 [ERROR] Tweet composer not found — timed out after 3 min manual wait
+2026-04-19 03:30:01,422 [ERROR] Tweet failed.
+2026-04-19 03:30:01,997 [INFO] Session saved.
+2026-04-19 03:51:39,771 [INFO] Session check URL: https://x.com/
+2026-04-19 03:51:47,816 [INFO] Already logged in (session restored).
+2026-04-19 03:51:47,816 [INFO] Login test passed!
+2026-04-19 03:51:47,918 [INFO] Browser disconnected.
+2026-04-19 03:54:47,556 [INFO] Session check URL: https://x.com/
+2026-04-19 03:54:55,588 [INFO] Already logged in (session restored).
+2026-04-19 03:54:55,589 [INFO] Posting tweet (301 chars)...
+2026-04-19 03:54:55,589 [INFO] Navigating to home page first...
+2026-04-19 03:55:17,846 [INFO] Home page loaded, looking for inline composer...
+2026-04-19 03:56:18,138 [INFO] Navigating to compose/post URL...
+2026-04-19 03:57:29,722 [INFO] Trying compose button clicks...
+2026-04-19 03:58:07,844 [INFO] ==================================================
+2026-04-19 03:58:07,844 [INFO] Composer not found automatically.
+2026-04-19 03:58:07,845 [INFO] MANUAL MODE: Open the tweet composer in the browser.
+2026-04-19 03:58:07,845 [INFO] You have 3 minutes. Click the compose button or
+2026-04-19 03:58:07,845 [INFO] navigate to x.com/compose/post manually.
+2026-04-19 03:58:07,845 [INFO] ==================================================
+2026-04-19 04:04:39,621 [INFO]   Still waiting... (30s / 180s)
+2026-04-19 04:11:11,250 [INFO]   Still waiting... (60s / 180s)
+2026-04-19 04:17:42,217 [INFO]   Still waiting... (90s / 180s)
+2026-04-19 04:24:13,079 [INFO]   Still waiting... (120s / 180s)
+2026-04-19 04:30:43,963 [INFO]   Still waiting... (150s / 180s)
+2026-04-19 04:37:14,945 [INFO]   Still waiting... (180s / 180s)
+2026-04-19 04:37:14,960 [ERROR] Tweet composer not found — timed out after 3 min manual wait
+2026-04-19 04:37:15,403 [ERROR] Tweet failed.
+2026-04-19 04:37:15,569 [INFO] Browser disconnected.

@@ -1,0 +1,90 @@
+2026-03-24 08:34:27,878 [INFO] Post Everywhere — Starting
+2026-03-24 08:34:27,879 [INFO] Platforms: linkedin, twitter, facebook, instagram
+2026-03-24 08:34:27,879 [INFO] Text: Built my own AI Employee that reads emails, manages tasks, and posts to social m...
+2026-03-24 08:34:27,880 [INFO] Image: D:/AI_Employee_Vault/Media/images.jpg
+2026-03-24 08:34:27,880 [INFO] ==================================================
+2026-03-24 08:34:27,880 [INFO] LINKEDIN — Starting...
+2026-03-24 08:35:14,229 [INFO] LinkedIn: already logged in.
+2026-03-24 08:35:14,230 [INFO] Navigating to LinkedIn feed...
+2026-03-24 08:35:27,090 [INFO] Opening post composer via feed click...
+2026-03-24 08:35:27,748 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-24 08:35:32,778 [INFO] Finding post editor...
+2026-03-24 08:36:07,978 [INFO] Editor not found on attempt 1, waiting...
+2026-03-24 08:36:22,790 [INFO] Found editor: [contenteditable='true'] (attempt 2)
+2026-03-24 08:36:22,791 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-24 08:36:24,218 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-24 08:36:27,142 [INFO] Image file selected for upload.
+2026-03-24 08:37:02,547 [INFO] Image preview selector not found, waiting 15s as fallback...
+2026-03-24 08:37:35,748 [INFO] Image upload and processing complete.
+2026-03-24 08:37:35,750 [INFO] Looking for image edit 'Done' button...
+2026-03-24 08:37:36,439 [INFO] Clicked image edit 'Done' button: button:has-text('Next') (attempt 1)
+2026-03-24 08:37:41,444 [INFO] Returned to post composer after image edit.
+2026-03-24 08:37:41,444 [INFO] Re-finding editor after image upload...
+2026-03-24 08:37:41,469 [INFO] Re-found editor: .ql-editor (attempt 1)
+2026-03-24 08:37:41,470 [INFO] Typing post text...
+2026-03-24 08:37:53,923 [INFO] Clicking Post button...
+2026-03-24 08:37:55,089 [INFO] Saved pre-click screenshot.
+2026-03-24 08:37:55,306 [INFO] Clicked post button (force): button.share-actions__primary-action (attempt 1)
+2026-03-24 08:37:58,375 [INFO] Composer still open after click, trying dispatch_event...
+2026-03-24 08:38:01,491 [INFO] Tried Ctrl+Enter to submit.
+2026-03-24 08:38:04,569 [INFO] Post submitted after fallback click.
+2026-03-24 08:38:15,010 [INFO] Saved post-click screenshot.
+2026-03-24 08:38:15,011 [INFO] Post published successfully!
+2026-03-24 08:38:15,011 [INFO] LINKEDIN — Posted successfully!
+2026-03-24 08:38:16,171 [INFO] Session saved.
+2026-03-24 08:38:19,560 [INFO] ==================================================
+2026-03-24 08:38:19,561 [INFO] TWITTER/X — Starting...
+2026-03-24 08:38:36,190 [INFO] Session check URL: https://x.com/home
+2026-03-24 08:38:37,058 [INFO] Twitter: already logged in.
+2026-03-24 08:38:37,058 [INFO] Posting tweet (189 chars)...
+2026-03-24 08:38:46,941 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-24 08:38:51,363 [INFO] Image uploaded.
+2026-03-24 08:39:34,211 [WARNING] Tweet may have posted (unverified)
+2026-03-24 08:39:34,212 [INFO] TWITTER/X — Posted successfully!
+2026-03-24 08:39:34,300 [INFO] Session saved.
+2026-03-24 08:39:37,428 [INFO] ==================================================
+2026-03-24 08:39:37,429 [INFO] FACEBOOK — Starting...
+2026-03-24 08:39:49,539 [INFO] Facebook: already logged in.
+2026-03-24 08:39:49,539 [INFO] Navigating to Facebook home...
+2026-03-24 08:39:56,536 [INFO] Opening post composer...
+2026-03-24 08:40:01,731 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-24 08:40:06,742 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-24 08:40:06,803 [INFO] Image uploaded via image file input
+2026-03-24 08:40:18,821 [INFO] Image upload done, dialog should be settled now
+2026-03-24 08:40:18,822 [INFO] Finding the LAST (active) dialog...
+2026-03-24 08:40:18,881 [INFO] Found 5 dialog(s) on page
+2026-03-24 08:40:18,882 [INFO] Finding textbox in LAST dialog...
+2026-03-24 08:40:18,947 [INFO] Found textbox: [role='dialog'] div[contenteditable='true'][role='textbox'] [last of 2] (attempt 1)
+2026-03-24 08:40:18,947 [INFO] Focusing textbox in LAST dialog and typing text...
+2026-03-24 08:40:20,555 [INFO] Textbox clicked with force (last dialog)
+2026-03-24 08:40:34,876 [INFO] Text verified in LAST dialog (189 chars)
+2026-03-24 08:40:34,877 [INFO] Clicking Post button in LAST dialog...
+2026-03-24 08:40:35,098 [INFO] Clicked Post: div[aria-label='Post'][role='button'] [last of 2]
+2026-03-24 08:40:40,107 [INFO] Post published successfully!
+2026-03-24 08:40:40,107 [INFO] FACEBOOK — Posted successfully!
+2026-03-24 08:40:40,334 [INFO] Session saved.
+2026-03-24 08:40:43,150 [INFO] ==================================================
+2026-03-24 08:40:43,151 [INFO] INSTAGRAM — Starting...
+2026-03-24 08:40:52,807 [INFO] Instagram: already logged in.
+2026-03-24 08:40:52,808 [INFO] Navigating to Instagram...
+2026-03-24 08:40:58,349 [INFO] Looking for Create post button...
+2026-03-24 08:40:58,947 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-24 08:41:01,880 [INFO] Image resized to 1080x1080.
+2026-03-24 08:41:01,881 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-24 08:41:04,931 [INFO] Image uploaded.
+2026-03-24 08:41:07,444 [INFO] Clicked Next (crop)
+2026-03-24 08:41:09,606 [INFO] Clicked Next (filters)
+2026-03-24 08:41:09,615 [INFO] Looking for caption input...
+2026-03-24 08:41:24,688 [INFO] Found caption: div[contenteditable='true']
+2026-03-24 08:41:34,602 [INFO] Clicking Share button...
+2026-03-24 08:41:34,754 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-24 08:41:39,771 [INFO] Post published successfully!
+2026-03-24 08:41:39,772 [INFO] INSTAGRAM — Posted successfully!
+2026-03-24 08:41:40,288 [INFO] Session saved.
+2026-03-24 08:41:43,104 [INFO] ==================================================
+2026-03-24 08:41:43,105 [INFO] RESULTS:
+2026-03-24 08:41:43,106 [INFO]   linkedin     OK
+2026-03-24 08:41:43,107 [INFO]   twitter      OK
+2026-03-24 08:41:43,107 [INFO]   facebook     OK
+2026-03-24 08:41:43,108 [INFO]   instagram    OK
+2026-03-24 08:41:43,108 [INFO] Total: 4/4 platforms posted successfully.

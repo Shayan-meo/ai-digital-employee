@@ -1,0 +1,140 @@
+2026-02-27 15:51:39,249 [INFO] Logging in to Facebook...
+2026-02-27 15:52:12,267 [ERROR] Login timed out.
+2026-02-27 15:52:12,268 [ERROR] Login failed. Exiting.
+2026-02-27 15:52:13,044 [INFO] Session saved.
+2026-02-27 15:59:44,494 [INFO] Already logged in (session restored).
+2026-02-27 15:59:44,496 [INFO] Done. Published 0 post(s).
+2026-02-27 15:59:44,799 [INFO] Session saved.
+2026-02-27 16:00:27,493 [INFO] Already logged in (session restored).
+2026-02-27 16:00:27,547 [INFO] Watch mode — scanning /Approved every 30s
+2026-02-27 16:06:27,691 [INFO] Processing: facebook_post_test2.md
+2026-02-27 16:06:27,695 [INFO] Post text (46 chars): Hello from AI Employee! This is a test post. 🤖...
+2026-02-27 16:06:27,696 [INFO] Navigating to Facebook home...
+2026-02-27 16:06:34,930 [INFO] Looking for post composer box...
+2026-02-27 16:06:40,232 [INFO] Clicked composer: [aria-label='Create a post']
+2026-02-27 16:06:42,239 [INFO] Finding text input area...
+2026-02-27 16:06:42,282 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-02-27 16:06:42,284 [INFO] Typing post text...
+2026-02-27 16:06:46,758 [INFO] Clicking Post button...
+2026-02-27 16:06:47,011 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-02-27 16:06:51,025 [INFO] Post published successfully!
+2026-02-27 16:06:51,030 [INFO] Archived to Done: fb_posted_20260227_160651_facebook_post_test2.md
+2026-02-27 16:06:51,031 [INFO] Published 1 post(s)
+2026-02-27 16:17:14,964 [INFO] Stopped by user.
+2026-02-27 16:17:36,905 [INFO] Already logged in (session restored).
+2026-02-27 16:17:36,906 [INFO] Watch mode — scanning /Approved every 30s
+2026-02-27 16:45:11,889 [INFO] Stopped by user.
+2026-02-27 16:45:12,157 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<BrowserContext.storage_state() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:619> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-02-27 16:45:27,252 [INFO] Already logged in (session restored).
+2026-02-27 16:45:27,258 [INFO] Watch mode — scanning /Approved every 30s
+2026-02-27 16:45:27,261 [INFO] Processing: approved_20260227_155810_facebook_post_test.md
+2026-02-27 16:45:27,279 [ERROR] Could not extract post text from approved_20260227_155810_facebook_post_test.md
+2026-02-27 16:45:27,287 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_155810_facebook_post_test.md
+2026-02-27 16:45:27,304 [INFO] Processing: approved_20260227_155915_facebook_post_test.md
+2026-02-27 16:45:27,315 [ERROR] Could not extract post text from approved_20260227_155915_facebook_post_test.md
+2026-02-27 16:45:27,323 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_155915_facebook_post_test.md
+2026-02-27 16:45:27,334 [INFO] Processing: approved_20260227_160102_facebook_post_test.md
+2026-02-27 16:45:27,336 [ERROR] Could not extract post text from approved_20260227_160102_facebook_post_test.md
+2026-02-27 16:45:27,465 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_160102_facebook_post_test.md
+2026-02-27 16:45:27,468 [INFO] Processing: approved_20260227_160107_facebook_post_test.md
+2026-02-27 16:45:27,609 [ERROR] Could not extract post text from approved_20260227_160107_facebook_post_test.md
+2026-02-27 16:45:27,664 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_160107_facebook_post_test.md
+2026-02-27 16:45:27,756 [INFO] Processing: approved_20260227_160111_facebook_post_test.md
+2026-02-27 16:45:27,786 [ERROR] Could not extract post text from approved_20260227_160111_facebook_post_test.md
+2026-02-27 16:45:27,837 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_160111_facebook_post_test.md
+2026-02-27 16:45:27,843 [INFO] Processing: approved_20260227_160138_facebook_post_test.md
+2026-02-27 16:45:27,848 [ERROR] Could not extract post text from approved_20260227_160138_facebook_post_test.md
+2026-02-27 16:45:27,865 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_160138_facebook_post_test.md
+2026-02-27 16:45:27,881 [INFO] Processing: approved_20260227_160856_facebook_post_1.md
+2026-02-27 16:45:27,885 [ERROR] Could not extract post text from approved_20260227_160856_facebook_post_1.md
+2026-02-27 16:45:27,900 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_160856_facebook_post_1.md
+2026-02-27 16:45:27,904 [INFO] Processing: approved_20260227_161019_approved_facebook_post_1.md
+2026-02-27 16:45:27,914 [ERROR] Could not extract post text from approved_20260227_161019_approved_facebook_post_1.md
+2026-02-27 16:45:27,966 [INFO] Archived to Done: fb_posted_20260227_164527_approved_20260227_161019_approved_facebook_post_1.md
+2026-02-27 16:45:28,016 [INFO] Processing: approved_20260227_161120_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:45:28,085 [INFO] Post text (316 chars): [AUTO-DRAFT — Facebook]
+
+# Social Media Post Request
+
+Please post the following ...
+2026-02-27 16:45:28,110 [INFO] Navigating to Facebook home...
+2026-02-27 16:45:35,214 [INFO] Looking for post composer box...
+2026-02-27 16:45:40,581 [INFO] Clicked composer: [aria-label='Create a post']
+2026-02-27 16:45:42,591 [INFO] Finding text input area...
+2026-02-27 16:45:42,618 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-02-27 16:45:42,620 [INFO] Typing post text...
+2026-02-27 16:45:54,911 [INFO] Clicking Post button...
+2026-02-27 16:45:55,046 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-02-27 16:45:59,074 [INFO] Post published successfully!
+2026-02-27 16:45:59,076 [INFO] Archived to Done: fb_posted_20260227_164559_approved_20260227_161120_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:45:59,077 [INFO] Processing: approved_20260227_161617_approved_approved_facebook_post_1.md
+2026-02-27 16:45:59,079 [ERROR] Could not extract post text from approved_20260227_161617_approved_approved_facebook_post_1.md
+2026-02-27 16:45:59,081 [INFO] Archived to Done: fb_posted_20260227_164559_approved_20260227_161617_approved_approved_facebook_post_1.md
+2026-02-27 16:45:59,084 [INFO] Processing: approved_20260227_161803_approved_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:45:59,086 [INFO] Post text (316 chars): [AUTO-DRAFT — Facebook]
+
+# Social Media Post Request
+
+Please post the following ...
+2026-02-27 16:45:59,087 [INFO] Navigating to Facebook home...
+2026-02-27 16:46:05,893 [INFO] Looking for post composer box...
+2026-02-27 16:46:11,034 [INFO] Clicked composer: [aria-label='Create a post']
+2026-02-27 16:46:13,040 [INFO] Finding text input area...
+2026-02-27 16:46:13,054 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-02-27 16:46:13,056 [INFO] Typing post text...
+2026-02-27 16:46:25,470 [INFO] Clicking Post button...
+2026-02-27 16:47:16,662 [INFO] Clicked post button: div[role='button']:has-text('Post')
+2026-02-27 16:47:20,669 [INFO] Post published successfully!
+2026-02-27 16:47:20,672 [INFO] Archived to Done: fb_posted_20260227_164720_approved_20260227_161803_approved_facebook_post_20260227_005612_social_test.md
+2026-02-27 16:47:20,672 [INFO] Processing: approved_20260227_162210_facebook_post_1.md
+2026-02-27 16:47:20,675 [INFO] Post text (316 chars): [AUTO-DRAFT — Facebook]
+
+# Social Media Post Request
+
+Please post the following ...
+2026-02-27 16:47:20,676 [INFO] Navigating to Facebook home...
+2026-02-27 16:47:26,877 [INFO] Looking for post composer box...
+2026-02-27 16:47:32,119 [INFO] Clicked composer: [aria-label='Create a post']
+2026-02-27 16:47:34,129 [INFO] Finding text input area...
+2026-02-27 16:47:34,178 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-02-27 16:47:34,185 [INFO] Typing post text...
+2026-02-27 16:47:47,022 [INFO] Clicking Post button...
+2026-02-27 16:48:36,624 [INFO] Clicked post button: div[role='button']:has-text('Post')
+2026-02-27 16:48:40,682 [INFO] Post published successfully!
+2026-02-27 16:48:40,685 [INFO] Archived to Done: fb_posted_20260227_164840_approved_20260227_162210_facebook_post_1.md
+2026-02-27 16:48:40,686 [INFO] Processing: approved_20260227_162319_facebook_post_2.md
+2026-02-27 16:48:40,692 [INFO] Post text (316 chars): [AUTO-DRAFT — Facebook]
+
+# Social Media Post Request
+
+Please post the following ...
+2026-02-27 16:48:40,692 [INFO] Navigating to Facebook home...
+2026-02-27 16:48:47,041 [INFO] Looking for post composer box...
+2026-02-27 16:48:52,226 [INFO] Clicked composer: [aria-label='Create a post']
+2026-02-27 16:48:54,284 [INFO] Finding text input area...
+2026-02-27 16:48:54,341 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-02-27 16:48:54,343 [INFO] Typing post text...
+2026-02-27 16:49:08,342 [INFO] Clicking Post button...
+2026-02-27 16:49:19,549 [INFO] Stopped by user.
+2026-02-27 16:49:19,874 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-79' coro=<BrowserContext.storage_state() running at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:619> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111]>
+2026-02-27 16:49:19,884 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-78' coro=<Locator.click() running at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_locator.py:162> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-02-27 19:21:40,590 [INFO] Already logged in (session restored).
+2026-02-27 19:21:40,591 [INFO] Watch mode — scanning /Approved every 30s
+2026-02-27 19:23:10,606 [INFO] Processing: approved_20260227_192242_facebook_post_new.md
+2026-02-27 19:23:10,737 [ERROR] Could not extract post text from approved_20260227_192242_facebook_post_new.md
+2026-02-27 19:23:10,742 [INFO] Archived to Done: fb_posted_20260227_192310_approved_20260227_192242_facebook_post_new.md
+2026-02-27 19:42:10,901 [INFO] Processing: approved_20260227_194158_facebook_post_new.md
+2026-02-27 19:42:10,927 [ERROR] Could not extract post text from approved_20260227_194158_facebook_post_new.md
+2026-02-27 19:42:10,931 [INFO] Archived to Done: fb_posted_20260227_194210_approved_20260227_194158_facebook_post_new.md
+2026-02-27 19:47:10,961 [INFO] Processing: approved_20260227_194645_facebook_post_new2.md
+2026-02-27 19:47:11,013 [ERROR] Could not extract post text from approved_20260227_194645_facebook_post_new2.md
+2026-02-27 19:47:11,019 [INFO] Archived to Done: fb_posted_20260227_194711_approved_20260227_194645_facebook_post_new2.md
+2026-02-27 20:03:41,115 [INFO] Processing: facebook_post_new2.md
+2026-02-27 20:03:41,127 [ERROR] Could not extract post text from facebook_post_new2.md
+2026-02-27 20:03:41,136 [INFO] Archived to Done: fb_posted_20260227_200341_facebook_post_new2.md
+2026-02-28 00:34:54,860 [INFO] Stopped by user.
+2026-02-28 00:34:55,450 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-10' coro=<BrowserContext.storage_state() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:619> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>

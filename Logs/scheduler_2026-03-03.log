@@ -1,0 +1,15 @@
+2026-03-03 01:48:08,834 [INFO] Scheduled job: Daily summary
+2026-03-03 01:48:08,842 [INFO] Created daily summary task: daily_summary_20260303_014808.md
+2026-03-03 01:55:07,680 [INFO] ============================================================
+2026-03-03 01:55:07,681 [INFO] Scheduler starting
+2026-03-03 01:55:07,681 [INFO] Vault root: D:\AI_Employee_Vault
+2026-03-03 01:55:07,681 [INFO] ============================================================
+2026-03-03 01:55:07,682 [INFO] Scheduled jobs:
+2026-03-03 01:55:07,682 [INFO]   - Gmail check: every 5 minutes
+2026-03-03 01:55:07,682 [INFO]   - Daily summary: every day at 09:00
+2026-03-03 01:55:07,682 [INFO]   - CEO Briefing: every Sunday at 22:00 (Gold Tier)
+2026-03-03 01:55:07,683 [INFO] Running initial daily summary...
+2026-03-03 01:55:07,683 [INFO] Scheduled job: Daily summary
+2026-03-03 01:55:07,685 [INFO] Created daily summary task: daily_summary_20260303_015507.md
+2026-03-03 01:55:07,686 [INFO] Scheduler running. Press Ctrl+C to stop.
+2026-03-03 01:56:40,736 [INFO] Scheduler stopped by user.

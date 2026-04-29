@@ -1,0 +1,7 @@
+2026-04-11 01:42:12,120 [INFO] Logging in to Instagram...
+2026-04-11 01:42:56,022 [ERROR] Login timed out.
+2026-04-11 01:42:56,024 [ERROR] Login failed. Exiting.
+2026-04-11 01:42:56,529 [INFO] Session saved.
+2026-04-11 06:57:50,578 [INFO] Already logged in (session restored).
+2026-04-11 06:57:50,598 [INFO] Login test successful!
+2026-04-11 06:58:22,512 [INFO] Session saved.

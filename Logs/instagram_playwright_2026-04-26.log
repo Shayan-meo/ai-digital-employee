@@ -1,0 +1,42 @@
+2026-04-26 10:20:00,170 [INFO] Navigating to Instagram...
+2026-04-26 10:20:05,357 [INFO] Looking for Create post button...
+2026-04-26 10:20:15,818 [INFO] Clicked create: [aria-label='New post']
+2026-04-26 10:20:19,002 [INFO] Image resized to 1080x1080.
+2026-04-26 10:20:19,002 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-04-26 10:20:22,045 [INFO] Image uploaded.
+2026-04-26 10:20:24,321 [INFO] Clicked Next (crop)
+2026-04-26 10:20:26,523 [INFO] Clicked Next (filters)
+2026-04-26 10:20:31,550 [INFO] Looking for caption input...
+2026-04-26 10:20:31,563 [INFO] Found caption: div[aria-label='Write a caption...']
+2026-04-26 10:21:00,474 [INFO] Clicking Share button...
+2026-04-26 10:21:00,840 [INFO] Clicked share via role selector
+2026-04-26 10:21:05,862 [INFO] Post published successfully!
+2026-04-26 10:21:07,122 [INFO] Session saved.
+2026-04-26 11:07:59,096 [INFO] Navigating to Instagram...
+2026-04-26 11:08:06,471 [INFO] Looking for Create post button...
+2026-04-26 11:08:17,268 [INFO] Clicked create: [aria-label='New post']
+2026-04-26 11:08:19,544 [INFO] Image resized to 1080x1080.
+2026-04-26 11:08:19,545 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-04-26 11:08:22,609 [INFO] Image uploaded.
+2026-04-26 11:08:25,247 [INFO] Clicked Next (crop)
+2026-04-26 11:08:27,747 [INFO] Clicked Next (filters)
+2026-04-26 11:08:33,078 [INFO] Looking for caption input...
+2026-04-26 11:08:33,152 [INFO] Found caption: div[aria-label='Write a caption...']
+2026-04-26 11:09:20,175 [INFO] Clicking Share button...
+2026-04-26 11:09:20,483 [INFO] Clicked share via role selector
+2026-04-26 11:09:25,501 [INFO] Post published successfully!
+2026-04-26 11:09:26,623 [INFO] Session saved.
+2026-04-26 11:27:55,722 [INFO] Navigating to Instagram...
+2026-04-26 11:28:01,552 [INFO] Looking for Create post button...
+2026-04-26 11:28:12,240 [INFO] Clicked create: [aria-label='New post']
+2026-04-26 11:28:14,563 [INFO] Image resized to 1080x1080.
+2026-04-26 11:28:14,564 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-04-26 11:28:17,629 [INFO] Image uploaded.
+2026-04-26 11:28:20,180 [INFO] Clicked Next (crop)
+2026-04-26 11:28:22,378 [INFO] Clicked Next (filters)
+2026-04-26 11:28:27,419 [INFO] Looking for caption input...
+2026-04-26 11:28:27,444 [INFO] Found caption: div[aria-label='Write a caption...']
+2026-04-26 11:28:54,821 [INFO] Clicking Share button...
+2026-04-26 11:28:55,133 [INFO] Clicked share via role selector
+2026-04-26 11:29:00,155 [INFO] Post published successfully!
+2026-04-26 11:29:01,388 [INFO] Session saved.

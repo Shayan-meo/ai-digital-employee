@@ -1,0 +1,152 @@
+2026-03-09 04:59:29,511 [INFO] Already logged in (session restored).
+2026-03-09 04:59:29,515 [INFO] Processing: linkedin_post_20260309.md
+2026-03-09 04:59:29,517 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 04:59:29,518 [INFO] Post text (707 chars): The future isn't coming — it's already here. 🤖
+
+AI is no longer a concept from s...
+2026-03-09 04:59:29,519 [INFO] Navigating to LinkedIn feed...
+2026-03-09 04:59:38,228 [INFO] Opening post composer via feed click...
+2026-03-09 04:59:43,107 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 04:59:48,120 [INFO] Finding post editor...
+2026-03-09 04:59:48,444 [INFO] Found editor: .ql-editor (attempt 1)
+2026-03-09 04:59:48,444 [INFO] Typing post text...
+2026-03-09 05:00:18,312 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 05:00:18,614 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 05:00:20,687 [INFO] Image file selected for upload.
+2026-03-09 05:00:43,737 [INFO] Clicking Post button...
+2026-03-09 05:01:14,561 [INFO] Clicked post button: .share-box-footer button.artdeco-button--primary
+2026-03-09 05:01:22,571 [INFO] Post published successfully!
+2026-03-09 05:01:22,579 [INFO] Archived to Done: posted_20260309_050122_linkedin_post_20260309.md
+2026-03-09 05:01:22,580 [INFO] Done. Published 1 post(s).
+2026-03-09 05:01:23,443 [INFO] Session saved.
+2026-03-09 05:06:18,986 [INFO] Already logged in (session restored).
+2026-03-09 05:06:18,992 [INFO] Processing: linkedin_post_20260309.md
+2026-03-09 05:06:18,997 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 05:06:18,997 [INFO] Post text (707 chars): The future isn't coming — it's already here. 🤖
+
+AI is no longer a concept from s...
+2026-03-09 05:06:18,999 [INFO] Navigating to LinkedIn feed...
+2026-03-09 05:06:32,320 [INFO] Opening post composer via feed click...
+2026-03-09 05:06:43,590 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 05:06:48,598 [INFO] Finding post editor...
+2026-03-09 05:06:57,284 [INFO] Found editor: [contenteditable='true'][role='textbox'] (attempt 1)
+2026-03-09 05:06:57,285 [INFO] Typing post text...
+2026-03-09 05:07:28,655 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 05:07:29,396 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 05:07:31,463 [INFO] Image file selected for upload.
+2026-03-09 05:08:09,529 [INFO] Clicking Post button...
+2026-03-09 05:08:40,634 [INFO] Clicked post button: .share-box-footer button.artdeco-button--primary (attempt 1)
+2026-03-09 05:08:48,656 [INFO] Post published successfully!
+2026-03-09 05:08:48,666 [INFO] Archived to Done: posted_20260309_050848_linkedin_post_20260309.md
+2026-03-09 05:08:48,667 [INFO] Done. Published 1 post(s).
+2026-03-09 05:08:50,326 [INFO] Session saved.
+2026-03-09 16:06:34,193 [INFO] Already logged in (session restored).
+2026-03-09 16:06:34,196 [INFO] Processing: linkedin_post_20260309.md
+2026-03-09 16:06:34,199 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:06:34,199 [INFO] Post text (707 chars): The future isn't coming — it's already here. 🤖
+
+AI is no longer a concept from s...
+2026-03-09 16:06:34,200 [INFO] Navigating to LinkedIn feed...
+2026-03-09 16:06:44,909 [INFO] Opening post composer via feed click...
+2026-03-09 16:06:50,224 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 16:06:55,234 [INFO] Finding post editor...
+2026-03-09 16:06:57,272 [INFO] Found editor: .ql-editor (attempt 1)
+2026-03-09 16:06:57,272 [INFO] Typing post text...
+2026-03-09 16:07:22,342 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:07:22,598 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 16:07:24,662 [INFO] Image file selected for upload.
+2026-03-09 16:08:02,736 [INFO] Clicking Post button...
+2026-03-09 16:08:04,113 [INFO] Saved pre-click screenshot.
+2026-03-09 16:08:04,402 [INFO] Clicked post button (force): button:has-text('Post') (attempt 1)
+2026-03-09 16:08:09,207 [INFO] Post submitted — composer closed.
+2026-03-09 16:08:21,025 [INFO] Saved post-click screenshot.
+2026-03-09 16:08:21,025 [INFO] Post published successfully!
+2026-03-09 16:08:21,030 [INFO] Archived to Done: posted_20260309_160821_linkedin_post_20260309.md
+2026-03-09 16:08:21,030 [INFO] Done. Published 1 post(s).
+2026-03-09 16:08:22,548 [INFO] Session saved.
+2026-03-09 16:17:43,914 [INFO] Already logged in (session restored).
+2026-03-09 16:17:43,920 [INFO] Processing: linkedin_post_20260309.md
+2026-03-09 16:17:43,924 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:17:43,924 [INFO] Post text (707 chars): The future isn't coming — it's already here. 🤖
+
+AI is no longer a concept from s...
+2026-03-09 16:17:43,925 [INFO] Navigating to LinkedIn feed...
+2026-03-09 16:17:53,671 [INFO] Opening post composer via feed click...
+2026-03-09 16:17:54,464 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 16:17:59,474 [INFO] Finding post editor...
+2026-03-09 16:18:00,186 [INFO] Found editor: .ql-editor (attempt 1)
+2026-03-09 16:18:00,186 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:18:00,531 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 16:18:02,591 [INFO] Image file selected for upload.
+2026-03-09 16:18:38,923 [INFO] Image preview selector not found, waiting 15s as fallback...
+2026-03-09 16:19:11,983 [INFO] Image upload and processing complete.
+2026-03-09 16:19:11,984 [INFO] Typing post text...
+2026-03-09 16:19:41,996 [ERROR] Post timed out: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".ql-editor").first
+
+2026-03-09 16:19:42,000 [INFO] Archived to Done: posted_20260309_161941_linkedin_post_20260309.md
+2026-03-09 16:19:42,000 [INFO] Done. Published 0 post(s).
+2026-03-09 16:19:42,746 [INFO] Session saved.
+2026-03-09 16:22:36,461 [INFO] Already logged in (session restored).
+2026-03-09 16:22:36,463 [INFO] Processing: linkedin_post_20260309.md
+2026-03-09 16:22:36,465 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:22:36,466 [INFO] Post text (707 chars): The future isn't coming — it's already here. 🤖
+
+AI is no longer a concept from s...
+2026-03-09 16:22:36,468 [INFO] Navigating to LinkedIn feed...
+2026-03-09 16:22:47,328 [INFO] Opening post composer via feed click...
+2026-03-09 16:22:52,260 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 16:22:57,272 [INFO] Finding post editor...
+2026-03-09 16:22:57,643 [INFO] Found editor: .ql-editor (attempt 1)
+2026-03-09 16:22:57,643 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:22:58,143 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 16:23:00,240 [INFO] Image file selected for upload.
+2026-03-09 16:23:36,123 [INFO] Image preview selector not found, waiting 15s as fallback...
+2026-03-09 16:24:09,184 [INFO] Image upload and processing complete.
+2026-03-09 16:24:09,184 [INFO] Re-finding editor after image upload...
+2026-03-09 16:24:09,307 [INFO] Editor not found on re-find attempt 1, waiting...
+2026-03-09 16:24:12,902 [INFO] Editor not found on re-find attempt 2, waiting...
+2026-03-09 16:24:16,094 [INFO] Editor not found on re-find attempt 3, waiting...
+2026-03-09 16:24:19,278 [INFO] Editor not found on re-find attempt 4, waiting...
+2026-03-09 16:24:22,392 [INFO] Editor not found on re-find attempt 5, waiting...
+2026-03-09 16:24:25,421 [ERROR] Could not re-find editor after image upload
+2026-03-09 16:24:27,090 [INFO] Archived to Done: posted_20260309_162427_linkedin_post_20260309.md
+2026-03-09 16:24:27,091 [INFO] Done. Published 0 post(s).
+2026-03-09 16:24:28,234 [INFO] Session saved.
+2026-03-09 16:26:52,370 [INFO] Already logged in (session restored).
+2026-03-09 16:26:52,372 [INFO] Done. Published 0 post(s).
+2026-03-09 16:26:55,038 [INFO] Session saved.
+2026-03-09 16:29:29,257 [INFO] Already logged in (session restored).
+2026-03-09 16:29:29,260 [INFO] Processing: linkedin_post_20260309.md
+2026-03-09 16:29:29,265 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:29:29,265 [INFO] Post text (707 chars): The future isn't coming — it's already here. 🤖
+
+AI is no longer a concept from s...
+2026-03-09 16:29:29,266 [INFO] Navigating to LinkedIn feed...
+2026-03-09 16:29:39,103 [INFO] Opening post composer via feed click...
+2026-03-09 16:29:44,083 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 16:29:49,099 [INFO] Finding post editor...
+2026-03-09 16:29:49,184 [INFO] Found editor: .ql-editor (attempt 1)
+2026-03-09 16:29:49,184 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 16:29:49,799 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 16:29:51,870 [INFO] Image file selected for upload.
+2026-03-09 16:30:28,019 [INFO] Image preview selector not found, waiting 15s as fallback...
+2026-03-09 16:31:01,080 [INFO] Image upload and processing complete.
+2026-03-09 16:31:01,081 [INFO] Looking for image edit 'Done' button...
+2026-03-09 16:31:01,745 [INFO] Clicked image edit 'Done' button: button:has-text('Next') (attempt 1)
+2026-03-09 16:31:06,764 [INFO] Returned to post composer after image edit.
+2026-03-09 16:31:06,764 [INFO] Re-finding editor after image upload...
+2026-03-09 16:31:06,780 [INFO] Re-found editor: .ql-editor (attempt 1)
+2026-03-09 16:31:06,780 [INFO] Typing post text...
+2026-03-09 16:31:40,337 [INFO] Clicking Post button...
+2026-03-09 16:31:42,231 [INFO] Saved pre-click screenshot.
+2026-03-09 16:31:42,522 [INFO] Clicked post button (force): button.share-actions__primary-action (attempt 1)
+2026-03-09 16:31:45,603 [INFO] Composer still open after click, trying dispatch_event...
+2026-03-09 16:31:48,694 [INFO] Tried Ctrl+Enter to submit.
+2026-03-09 16:31:51,726 [INFO] Post submitted after fallback click.
+2026-03-09 16:32:02,080 [INFO] Saved post-click screenshot.
+2026-03-09 16:32:02,080 [INFO] Post published successfully!
+2026-03-09 16:32:02,082 [INFO] Archived to Done: posted_20260309_163202_linkedin_post_20260309.md
+2026-03-09 16:32:02,082 [INFO] Done. Published 1 post(s).
+2026-03-09 16:32:03,463 [INFO] Session saved.

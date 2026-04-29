@@ -1,0 +1,11 @@
+2026-02-28 00:37:21,896 [INFO] ============================================================
+2026-02-28 00:37:21,897 [INFO] Approval Watcher starting
+2026-02-28 00:37:21,898 [INFO] Vault root: D:\AI_Employee_Vault
+2026-02-28 00:37:21,898 [INFO] Watching:   D:\AI_Employee_Vault\Approved
+2026-02-28 00:37:21,898 [INFO] ============================================================
+2026-02-28 00:37:21,902 [INFO] Approval Watcher running. Move reply files to /Approved to send.
+2026-02-28 00:38:01,841 [INFO] Approved file detected: facebook_post_test_final.md
+2026-02-28 00:38:01,842 [INFO] Social/messaging file — leaving for dedicated watcher: facebook_post_test_final.md
+2026-02-28 00:43:40,090 [INFO] Approved file detected: facebook_post_ai.md
+2026-02-28 00:43:40,098 [INFO] Social/messaging file — leaving for dedicated watcher: facebook_post_ai.md
+2026-02-28 01:02:42,281 [INFO] Approval Watcher stopped by user.

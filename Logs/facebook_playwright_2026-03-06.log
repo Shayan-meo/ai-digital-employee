@@ -1,0 +1,219 @@
+2026-03-06 02:45:44,033 [INFO] Navigating to Facebook home...
+2026-03-06 02:45:52,476 [INFO] Looking for post composer box...
+2026-03-06 02:45:57,674 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 02:45:59,683 [INFO] Finding text input area...
+2026-03-06 02:46:01,172 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-06 02:46:01,172 [INFO] Typing post text...
+2026-03-06 02:46:24,223 [INFO] Uploading image: Media\AI.jpg
+2026-03-06 02:46:54,324 [INFO] Photo button not found, trying direct file input...
+2026-03-06 02:46:56,368 [INFO] Image file selected for upload.
+2026-03-06 02:47:01,383 [INFO] Clicking Post button...
+2026-03-06 02:47:01,541 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-06 02:47:05,561 [INFO] Post published successfully!
+2026-03-06 02:47:05,998 [INFO] Session saved.
+2026-03-06 02:51:24,746 [INFO] Navigating to Facebook home...
+2026-03-06 02:51:31,784 [INFO] Looking for post composer box...
+2026-03-06 02:51:36,967 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 02:51:38,971 [INFO] Finding text input area...
+2026-03-06 02:51:38,986 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-06 02:51:38,986 [INFO] Uploading image FIRST: Media\AI.jpg
+2026-03-06 02:52:09,051 [INFO] Photo button not found, trying direct file input...
+2026-03-06 02:52:11,105 [INFO] Image file selected for upload.
+2026-03-06 02:52:19,120 [INFO] Typing post text...
+2026-03-06 02:52:49,148 [ERROR] Post timed out: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true'][role='textbox']").first
+    - locator resolved to <div tabindex="0" role="textbox" spellcheck="true" contenteditable="true" data-lexical-editor="true" aria-placeholder="What's on your mind, Shayan?" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw x9f619 x1lliihq x5yr21d xh8yej3 notranslate">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x1qjc9v5 xozqiw3 x1q0g3np xpdmqnj x1g0dm76 x18d9i69 xexx8yu x1ws5yxj xw01apr x4cne27 xifccgj">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x1qjc9v5 xozqiw3 x1q0g3np xpdmqnj x1g0dm76 x18d9i69 xexx8yu x1ws5yxj xw01apr x4cne27 xifccgj">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x1qjc9v5 xozqiw3 x1q0g3np xpdmqnj x1g0dm76 x18d9i69 xexx8yu x1ws5yxj xw01apr x4cne27 xifccgj">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-03-06 02:52:52,437 [INFO] Session saved.
+2026-03-06 02:54:32,228 [INFO] Navigating to Facebook home...
+2026-03-06 02:54:38,070 [INFO] Looking for post composer box...
+2026-03-06 02:54:43,253 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 02:54:45,261 [INFO] Finding text input area...
+2026-03-06 02:54:45,277 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-06 02:54:45,278 [INFO] Uploading image FIRST: Media\AI.jpg
+2026-03-06 02:55:15,374 [INFO] Photo button not found, trying direct file input...
+2026-03-06 02:55:17,430 [INFO] Image file selected for upload.
+2026-03-06 02:55:25,434 [INFO] Typing post text...
+2026-03-06 02:55:37,561 [INFO] Clicking Post button...
+2026-03-06 02:55:37,756 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-06 02:55:41,760 [INFO] Post published successfully!
+2026-03-06 02:55:42,514 [INFO] Session saved.
+2026-03-06 03:04:52,941 [INFO] Navigating to Facebook home...
+2026-03-06 03:04:59,160 [INFO] Looking for post composer box...
+2026-03-06 03:05:04,455 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 03:05:06,466 [INFO] Finding text input area...
+2026-03-06 03:05:06,485 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-06 03:05:06,486 [INFO] Uploading image FIRST: Media\AI.jpg
+2026-03-06 03:05:36,556 [INFO] Photo button not found, trying direct file input...
+2026-03-06 03:05:38,602 [INFO] Image file selected for upload.
+2026-03-06 03:05:46,613 [INFO] Typing post text...
+2026-03-06 03:05:58,983 [INFO] Clicking Post button...
+2026-03-06 03:05:59,133 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-06 03:06:03,148 [INFO] Post published successfully!
+2026-03-06 03:06:03,475 [INFO] Session saved.
+2026-03-06 03:12:28,720 [INFO] Session saved.
+2026-03-06 03:21:57,673 [INFO] Already logged in (session restored).
+2026-03-06 03:21:57,675 [INFO] Processing: facebook_post_ai_tech.md
+2026-03-06 03:21:57,680 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 03:21:57,681 [INFO] Post text (467 chars): The future satisfies no one who doesn't participate in creating it. 🚀
+
+AI is not...
+2026-03-06 03:21:57,684 [INFO] Navigating to Facebook home...
+2026-03-06 03:22:02,948 [INFO] Looking for post composer box...
+2026-03-06 03:22:08,204 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 03:22:10,218 [INFO] Finding text input area...
+2026-03-06 03:22:10,241 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-06 03:22:10,241 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 03:22:40,327 [INFO] Photo button not found, trying direct file input...
+2026-03-06 03:22:42,369 [INFO] Image file selected for upload.
+2026-03-06 03:22:50,394 [INFO] Typing post text...
+2026-03-06 03:22:55,939 [INFO] Text confirmed in editor (461 chars)
+2026-03-06 03:22:55,939 [INFO] Clicking Post button...
+2026-03-06 03:22:56,097 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-06 03:23:00,113 [INFO] Post published successfully!
+2026-03-06 03:23:00,115 [INFO] Archived to Done: fb_posted_20260306_032300_facebook_post_ai_tech.md
+2026-03-06 03:23:00,115 [INFO] Done. Published 1 post(s).
+2026-03-06 03:23:00,314 [INFO] Session saved.
+2026-03-06 03:32:19,784 [INFO] Already logged in (session restored).
+2026-03-06 03:32:19,787 [INFO] Processing: facebook_post_ai_tech.md
+2026-03-06 03:32:19,791 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 03:32:19,791 [INFO] Post text (467 chars): The future satisfies no one who doesn't participate in creating it. 🚀
+
+AI is not...
+2026-03-06 03:32:19,794 [INFO] Navigating to Facebook home...
+2026-03-06 03:32:25,178 [INFO] Looking for post composer box...
+2026-03-06 03:32:30,545 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 03:32:34,654 [INFO] Found dialog: div[aria-label='Create post']
+2026-03-06 03:32:34,654 [INFO] Finding text input area inside dialog...
+2026-03-06 03:32:49,725 [ERROR] Could not find text editor — saving screenshot
+2026-03-06 03:32:51,982 [INFO] Archived to Done: fb_posted_20260306_033251_facebook_post_ai_tech.md
+2026-03-06 03:32:51,982 [INFO] Done. Published 0 post(s).
+2026-03-06 03:32:52,476 [INFO] Session saved.
+2026-03-06 03:36:10,936 [INFO] Already logged in (session restored).
+2026-03-06 03:36:10,940 [INFO] Processing: facebook_post_ai_tech.md
+2026-03-06 03:36:10,941 [INFO] Image found: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 03:36:10,942 [INFO] Post text (467 chars): The future satisfies no one who doesn't participate in creating it. 🚀
+
+AI is not...
+2026-03-06 03:36:10,942 [INFO] Navigating to Facebook home...
+2026-03-06 03:36:16,359 [INFO] Looking for post composer box...
+2026-03-06 03:36:21,618 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 03:36:25,687 [INFO] Found dialog: div[aria-label='Create post']
+2026-03-06 03:36:25,691 [INFO] Finding text input area...
+2026-03-06 03:36:25,707 [INFO] Found editor in page: div[contenteditable='true'][role='textbox']
+2026-03-06 03:36:25,707 [INFO] Typing post text FIRST...
+2026-03-06 03:36:42,888 [INFO] Text typed.
+2026-03-06 03:36:42,889 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 03:36:45,955 [INFO] Image file selected for upload.
+2026-03-06 03:36:55,012 [INFO] Found active dialog with Post button
+2026-03-06 03:36:55,020 [INFO] Text confirmed in active dialog (461 chars)
+2026-03-06 03:36:55,020 [INFO] Clicking Post button...
+2026-03-06 03:37:55,283 [INFO] Clicked post button (page scope): div[aria-label='Post'][role='button']
+2026-03-06 03:37:59,294 [INFO] Post published successfully!
+2026-03-06 03:37:59,296 [INFO] Archived to Done: fb_posted_20260306_033759_facebook_post_ai_tech.md
+2026-03-06 03:37:59,296 [INFO] Done. Published 1 post(s).
+2026-03-06 03:37:59,649 [INFO] Session saved.
+2026-03-06 03:53:06,181 [INFO] Already logged in (session restored).
+2026-03-06 03:53:06,184 [INFO] Processing: facebook_post_ai_tech.md
+2026-03-06 03:53:06,188 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 03:53:06,188 [INFO] Text (710 chars): 🚀 The Future of AI is Here!
+
+Artificial Intelligence is no longer just a buzzwor...
+2026-03-06 03:53:06,191 [INFO] Navigating to Facebook home...
+2026-03-06 03:53:12,950 [INFO] Opening post composer...
+2026-03-06 03:53:18,151 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 03:53:21,159 [INFO] Finding textbox...
+2026-03-06 03:53:36,198 [ERROR] Could not find textbox
+2026-03-06 03:53:36,873 [INFO] Archived to Done: fb_posted_20260306_035336_facebook_post_ai_tech.md
+2026-03-06 03:53:36,873 [INFO] Done. Published 0 post(s).
+2026-03-06 03:53:37,185 [INFO] Session saved.
+2026-03-06 04:17:47,119 [INFO] Already logged in (session restored).
+2026-03-06 04:17:47,122 [INFO] Processing: facebook_post_ai_tech.md
+2026-03-06 04:17:47,141 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 04:17:47,141 [INFO] Text (710 chars): 🚀 The Future of AI is Here!
+
+Artificial Intelligence is no longer just a buzzwor...
+2026-03-06 04:17:47,142 [INFO] Navigating to Facebook home...
+2026-03-06 04:17:52,408 [INFO] Opening post composer...
+2026-03-06 04:17:57,586 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 04:18:02,590 [INFO] Finding textbox...
+2026-03-06 04:18:02,610 [INFO] Found textbox: div[contenteditable='true'][role='textbox'] (attempt 1)
+2026-03-06 04:18:02,610 [INFO] Typing text...
+2026-03-06 04:18:28,841 [INFO] Text typed successfully
+2026-03-06 04:18:28,841 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 04:18:28,881 [INFO] Image uploaded via image file input
+2026-03-06 04:18:36,896 [INFO] Text still present after image upload (710 chars)
+2026-03-06 04:18:36,896 [INFO] Clicking Post button...
+2026-03-06 04:18:37,054 [INFO] Clicked Post: div[aria-label='Post'][role='button']
+2026-03-06 04:18:42,063 [INFO] Post published successfully!
+2026-03-06 04:18:42,065 [INFO] Archived to Done: fb_posted_20260306_041842_facebook_post_ai_tech.md
+2026-03-06 04:18:42,065 [INFO] Done. Published 1 post(s).
+2026-03-06 04:18:42,402 [INFO] Session saved.
+2026-03-06 04:33:26,652 [INFO] Already logged in (session restored).
+2026-03-06 04:33:26,658 [INFO] Processing: facebook_post_ai_tech.md
+2026-03-06 04:33:26,661 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 04:33:26,661 [INFO] Text (710 chars): 🚀 The Future of AI is Here!
+
+Artificial Intelligence is no longer just a buzzwor...
+2026-03-06 04:33:26,663 [INFO] Navigating to Facebook home...
+2026-03-06 04:33:31,826 [INFO] Opening post composer...
+2026-03-06 04:33:37,028 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-06 04:33:42,035 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-06 04:33:42,079 [INFO] Image uploaded via image file input
+2026-03-06 04:33:50,089 [INFO] Image upload done, dialog should be settled now
+2026-03-06 04:33:50,089 [INFO] Finding textbox in active dialog...
+2026-03-06 04:33:50,105 [INFO] Found textbox: div[contenteditable='true'][role='textbox'] (attempt 1)
+2026-03-06 04:33:50,105 [INFO] Typing text into active dialog...
+2026-03-06 04:34:20,127 [ERROR] Post error: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true'][role='textbox']").first
+    - locator resolved to <div tabindex="0" role="textbox" spellcheck="true" contenteditable="true" data-lexical-editor="true" aria-placeholder="What's on your mind, Shayan?" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw x9f619 x1lliihq x5yr21d xh8yej3 notranslate">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x1qjc9v5 xozqiw3 x1q0g3np xpdmqnj x1g0dm76 x18d9i69 xexx8yu x1ws5yxj xw01apr x4cne27 xifccgj">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x1qjc9v5 xozqiw3 x1q0g3np xpdmqnj x1g0dm76 x18d9i69 xexx8yu x1ws5yxj xw01apr x4cne27 xifccgj">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x1qjc9v5 xozqiw3 x1q0g3np xpdmqnj x1g0dm76 x18d9i69 xexx8yu x1ws5yxj xw01apr x4cne27 xifccgj">…</div> from <div class="__fb-light-mode x1n2onr6 xzkaem6">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-03-06 04:34:20,646 [INFO] Archived to Done: fb_posted_20260306_043420_facebook_post_ai_tech.md
+2026-03-06 04:34:20,646 [INFO] Done. Published 0 post(s).
+2026-03-06 04:34:20,857 [INFO] Session saved.

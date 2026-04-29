@@ -1,0 +1,257 @@
+2026-03-03 04:34:52,854 [INFO] Post Everywhere — Starting
+2026-03-03 04:34:52,855 [INFO] Platforms: linkedin, twitter, facebook, instagram
+2026-03-03 04:34:52,855 [INFO] Text: Building my Personal AI Employee — a fully autonomous Digital FTE that manages e...
+2026-03-03 04:34:52,856 [INFO] Image: (none)
+2026-03-03 04:34:52,856 [INFO] ==================================================
+2026-03-03 04:34:52,856 [INFO] LINKEDIN — Starting...
+2026-03-03 04:35:15,927 [INFO] LinkedIn: already logged in.
+2026-03-03 04:35:15,927 [INFO] Navigating to LinkedIn feed...
+2026-03-03 04:35:22,774 [INFO] Opening post composer via direct URL...
+2026-03-03 04:35:32,795 [INFO] Direct URL redirected, trying feed click approach...
+2026-03-03 04:35:47,557 [INFO] Finding post editor...
+2026-03-03 04:35:51,381 [INFO] Found editor: .ql-editor
+2026-03-03 04:35:51,381 [INFO] Typing post text...
+2026-03-03 04:36:08,579 [INFO] Clicking Post button...
+2026-03-03 04:36:08,703 [INFO] Clicked post button: button.share-actions__primary-action
+2026-03-03 04:36:12,708 [INFO] Post published successfully!
+2026-03-03 04:36:12,708 [INFO] LINKEDIN — Posted successfully!
+2026-03-03 04:36:14,215 [INFO] Session saved.
+2026-03-03 04:36:17,605 [INFO] ==================================================
+2026-03-03 04:36:17,606 [INFO] TWITTER/X — Starting...
+2026-03-03 04:36:36,258 [INFO] Opening Twitter/X login page...
+2026-03-03 04:36:36,258 [INFO] ==================================================
+2026-03-03 04:36:36,259 [INFO] Please LOGIN MANUALLY in the browser window.
+2026-03-03 04:36:36,259 [INFO] Script will wait up to 3 minutes for you to complete login.
+2026-03-03 04:36:36,259 [INFO] ==================================================
+2026-03-03 04:37:36,266 [ERROR] Page load timed out.
+2026-03-03 04:37:36,266 [ERROR] Twitter login failed.
+2026-03-03 04:37:36,435 [INFO] Session saved.
+2026-03-03 04:37:39,123 [INFO] ==================================================
+2026-03-03 04:37:39,124 [INFO] FACEBOOK — Starting...
+2026-03-03 04:37:56,808 [INFO] Facebook: already logged in.
+2026-03-03 04:37:56,808 [INFO] Navigating to Facebook home...
+2026-03-03 04:38:00,534 [INFO] Looking for post composer box...
+2026-03-03 04:38:15,936 [INFO] Clicked composer: div[role='button']:has-text("What's on your mind")
+2026-03-03 04:38:17,952 [INFO] Finding text input area...
+2026-03-03 04:38:18,046 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-03 04:38:18,047 [INFO] Typing post text...
+2026-03-03 04:38:35,541 [INFO] Clicking Post button...
+2026-03-03 04:38:35,682 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-03 04:38:39,691 [INFO] Post published successfully!
+2026-03-03 04:38:39,691 [INFO] FACEBOOK — Posted successfully!
+2026-03-03 04:38:39,866 [INFO] Session saved.
+2026-03-03 04:38:43,132 [INFO] ==================================================
+2026-03-03 04:38:43,132 [INFO] INSTAGRAM — Starting...
+2026-03-03 04:38:43,134 [INFO] Using image from Media: AI.jpg
+2026-03-03 04:38:54,360 [INFO] Instagram: already logged in.
+2026-03-03 04:38:54,361 [INFO] Navigating to Instagram...
+2026-03-03 04:38:59,257 [INFO] Looking for Create post button...
+2026-03-03 04:38:59,565 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-03 04:39:01,921 [INFO] Image resized to 1080x1080.
+2026-03-03 04:39:01,922 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-03 04:39:04,974 [INFO] Image uploaded.
+2026-03-03 04:39:07,317 [INFO] Clicked Next (crop)
+2026-03-03 04:39:09,438 [INFO] Clicked Next (filters)
+2026-03-03 04:39:09,448 [INFO] Looking for caption input...
+2026-03-03 04:39:24,496 [INFO] Found caption: div[contenteditable='true']
+2026-03-03 04:39:43,328 [INFO] Clicking Share button...
+2026-03-03 04:39:43,461 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-03 04:39:48,488 [INFO] Post published successfully!
+2026-03-03 04:39:48,489 [INFO] INSTAGRAM — Posted successfully!
+2026-03-03 04:39:48,918 [INFO] Session saved.
+2026-03-03 04:39:51,832 [INFO] ==================================================
+2026-03-03 04:39:51,833 [INFO] RESULTS:
+2026-03-03 04:39:51,833 [INFO]   linkedin     OK
+2026-03-03 04:39:51,833 [INFO]   twitter      FAILED
+2026-03-03 04:39:51,833 [INFO]   facebook     OK
+2026-03-03 04:39:51,833 [INFO]   instagram    OK
+2026-03-03 04:39:51,834 [INFO] Total: 3/4 platforms posted successfully.
+2026-03-03 04:47:47,270 [INFO] Post Everywhere — Starting
+2026-03-03 04:47:47,270 [INFO] Platforms: twitter
+2026-03-03 04:47:47,270 [INFO] Text: Building my Personal AI Employee — a fully autonomous Digital FTE that manages e...
+2026-03-03 04:47:47,271 [INFO] Image: (none)
+2026-03-03 04:47:47,271 [INFO] ==================================================
+2026-03-03 04:47:47,271 [INFO] TWITTER/X — Starting...
+2026-03-03 04:48:01,603 [INFO] Opening Twitter/X login page...
+2026-03-03 04:48:01,603 [INFO] ==================================================
+2026-03-03 04:48:01,604 [INFO] Please LOGIN MANUALLY in the browser window.
+2026-03-03 04:48:01,614 [INFO] Script will wait up to 3 minutes for you to complete login.
+2026-03-03 04:48:01,615 [INFO] ==================================================
+2026-03-03 04:48:01,764 [ERROR] Login error: Page.goto: Target page, context or browser has been closed
+2026-03-03 04:48:01,765 [ERROR] Twitter login failed.
+2026-03-03 04:48:02,613 [INFO] Session saved.
+2026-03-03 04:48:05,976 [INFO] ==================================================
+2026-03-03 04:48:05,977 [INFO] RESULTS:
+2026-03-03 04:48:05,977 [INFO]   twitter      FAILED
+2026-03-03 04:48:05,977 [INFO] Total: 0/1 platforms posted successfully.
+2026-03-03 04:50:42,761 [INFO] Post Everywhere — Starting
+2026-03-03 04:50:42,761 [INFO] Platforms: linkedin, twitter, facebook, instagram
+2026-03-03 04:50:42,761 [INFO] Text: Building my Personal AI Employee — a fully autonomous Digital FTE that manages e...
+2026-03-03 04:50:42,762 [INFO] Image: Media/AI.jpg
+2026-03-03 04:50:42,762 [INFO] ==================================================
+2026-03-03 04:50:42,762 [INFO] LINKEDIN — Starting...
+2026-03-03 04:50:57,236 [INFO] LinkedIn: already logged in.
+2026-03-03 04:50:57,236 [INFO] Navigating to LinkedIn feed...
+2026-03-03 04:51:04,534 [INFO] Opening post composer via direct URL...
+2026-03-03 04:51:14,818 [INFO] Direct URL redirected, trying feed click approach...
+2026-03-03 04:51:33,252 [INFO] Finding post editor...
+2026-03-03 04:51:41,403 [INFO] Found editor: [contenteditable='true']
+2026-03-03 04:51:41,403 [INFO] Typing post text...
+2026-03-03 04:52:07,669 [INFO] Clicking Post button...
+2026-03-03 04:52:08,104 [INFO] Clicked post button: button.share-actions__primary-action
+2026-03-03 04:52:12,117 [INFO] Post published successfully!
+2026-03-03 04:52:12,117 [INFO] LINKEDIN — Posted successfully!
+2026-03-03 04:52:14,336 [INFO] Session saved.
+2026-03-03 04:52:18,480 [INFO] ==================================================
+2026-03-03 04:52:18,480 [INFO] TWITTER/X — Starting...
+2026-03-03 04:52:33,994 [INFO] Twitter: already logged in.
+2026-03-03 04:52:33,995 [INFO] Navigating to Twitter/X home...
+2026-03-03 04:52:42,264 [INFO] Looking for tweet composer...
+2026-03-03 04:52:42,347 [INFO] Found composer: [data-testid='tweetTextarea_0']
+2026-03-03 04:52:42,347 [INFO] Uploading image: Media\AI.jpg
+2026-03-03 04:52:45,402 [INFO] Image uploaded.
+2026-03-03 04:52:45,402 [WARNING] Tweet truncated to 280 chars (was 485)
+2026-03-03 04:53:06,980 [INFO] Clicking Tweet/Post button...
+2026-03-03 04:53:09,004 [INFO] Disabled overlay pointer events
+2026-03-03 04:53:10,873 [INFO] Debug screenshot saved: tw_debug_before_post.png
+2026-03-03 04:53:10,956 [INFO] JS document.click(): tweetButtonInline
+2026-03-03 04:53:15,980 [WARNING] JS click done but composer still visible
+2026-03-03 04:53:26,022 [WARNING] Playwright click failed: Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetButtonInline']").last
+    - locator resolved to <button disabled role="button" tabindex="-1" type="button" aria-disabled="true" data-testid="tweetButtonInline" class="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-1cwvpvk r-2yi16 r-1qi8awa r-3pj75a r-o7ynqc r-6416eg r-icoktb r-1ny4l3l">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    19 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+2026-03-03 04:53:26,022 [INFO] Trying Ctrl+Enter keyboard shortcut...
+2026-03-03 04:53:56,058 [WARNING] Ctrl+Enter failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid='tweetTextarea_0']").first
+    - locator resolved to <div tabindex="0" role="textbox" spellcheck="true" aria-multiline="true" aria-label="Post text" contenteditable="true" aria-autocomplete="list" data-testid="tweetTextarea_0" no-focustrapview-refocus="true" aria-describedby="placeholder-9hm82" aria-controls="typeaheadDropdownWrapped-3" class="notranslate public-DraftEditor-content" aria-activedescendant="typeaheadFocus-0.05424881260740533">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div data-testid="mask" class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-1ffj0ar"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  14 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div class="css-175oi2r r-1awozwy r-16y2uox r-1777fci r-13qz1uu">…</div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-testid="mask" class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-1ffj0ar"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div data-testid="mask" class="css-175oi2r r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af r-1ffj0ar"></div> from <div id="layers" class="r-zchlnj r-1d2f490 r-u8s1d r-ipm5af">…</div> subtree intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2026-03-03 04:53:56,059 [ERROR] Could not find Post button — saving screenshot
+2026-03-03 04:53:56,400 [ERROR] TWITTER/X — Post failed.
+2026-03-03 04:53:56,685 [INFO] Session saved.
+2026-03-03 04:53:59,923 [INFO] ==================================================
+2026-03-03 04:53:59,923 [INFO] FACEBOOK — Starting...
+2026-03-03 04:54:09,878 [INFO] Facebook: already logged in.
+2026-03-03 04:54:09,878 [INFO] Navigating to Facebook home...
+2026-03-03 04:54:15,390 [INFO] Looking for post composer box...
+2026-03-03 04:54:20,550 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-03 04:54:22,557 [INFO] Finding text input area...
+2026-03-03 04:54:22,571 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-03 04:54:22,571 [INFO] Typing post text...
+2026-03-03 04:54:39,970 [INFO] Clicking Post button...
+2026-03-03 04:55:40,070 [ERROR] Could not find Post button — saving screenshot
+2026-03-03 04:55:40,585 [ERROR] FACEBOOK — Post failed.
+2026-03-03 04:55:40,846 [INFO] Session saved.
+2026-03-03 04:55:43,986 [INFO] ==================================================
+2026-03-03 04:55:43,986 [INFO] INSTAGRAM — Starting...
+2026-03-03 04:55:54,523 [INFO] Instagram: already logged in.
+2026-03-03 04:55:54,523 [INFO] Navigating to Instagram...
+2026-03-03 04:55:59,654 [INFO] Looking for Create post button...
+2026-03-03 04:56:00,202 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-03 04:56:02,458 [INFO] Image resized to 1080x1080.
+2026-03-03 04:56:02,458 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-03 04:56:05,507 [INFO] Image uploaded.
+2026-03-03 04:56:07,838 [INFO] Clicked Next (crop)
+2026-03-03 04:56:09,944 [INFO] Clicked Next (filters)
+2026-03-03 04:56:09,954 [INFO] Looking for caption input...
+2026-03-03 04:56:25,034 [INFO] Found caption: div[contenteditable='true']
+2026-03-03 04:56:44,454 [INFO] Clicking Share button...
+2026-03-03 04:56:44,613 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-03 04:56:49,632 [INFO] Post published successfully!
+2026-03-03 04:56:49,632 [INFO] INSTAGRAM — Posted successfully!
+2026-03-03 04:56:50,029 [INFO] Session saved.
+2026-03-03 04:56:53,347 [INFO] ==================================================
+2026-03-03 04:56:53,347 [INFO] RESULTS:
+2026-03-03 04:56:53,347 [INFO]   linkedin     OK
+2026-03-03 04:56:53,348 [INFO]   twitter      FAILED
+2026-03-03 04:56:53,348 [INFO]   facebook     FAILED
+2026-03-03 04:56:53,348 [INFO]   instagram    OK
+2026-03-03 04:56:53,348 [INFO] Total: 2/4 platforms posted successfully.
+2026-03-03 06:26:36,354 [INFO] Post Everywhere — Starting
+2026-03-03 06:26:36,355 [INFO] Platforms: linkedin
+2026-03-03 06:26:36,355 [INFO] Text: Building my Personal AI Employee — a fully autonomous Digital FTE that manages e...
+2026-03-03 06:26:36,355 [INFO] Image: Media/AI.jpg
+2026-03-03 06:26:36,356 [INFO] ==================================================
+2026-03-03 06:26:36,356 [INFO] LINKEDIN — Starting...
+2026-03-03 06:26:56,151 [INFO] LinkedIn: already logged in.
+2026-03-03 06:26:56,152 [INFO] Navigating to LinkedIn feed...
+2026-03-03 06:27:10,165 [INFO] Opening post composer via direct URL...
+2026-03-03 06:27:31,768 [INFO] Direct URL redirected, trying feed click approach...
+2026-03-03 06:27:50,160 [INFO] Finding post editor...
+2026-03-03 06:28:08,466 [INFO] Found editor: [data-placeholder]
+2026-03-03 06:28:08,466 [INFO] Typing post text...
+2026-03-03 06:28:42,929 [INFO] Uploading image: Media\AI.jpg
+2026-03-03 06:28:43,595 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-03 06:28:46,018 [INFO] Image file selected for upload.
+2026-03-03 06:28:51,032 [INFO] Clicking Post button...
+2026-03-03 06:29:21,370 [ERROR] Could not find Post button — saving screenshot
+2026-03-03 06:29:23,144 [ERROR] LINKEDIN — Post failed.
+2026-03-03 06:29:24,656 [INFO] Session saved.
+2026-03-03 06:30:13,242 [INFO] ==================================================
+2026-03-03 06:30:13,243 [INFO] RESULTS:
+2026-03-03 06:30:13,243 [INFO]   linkedin     FAILED
+2026-03-03 06:30:13,243 [INFO] Total: 0/1 platforms posted successfully.

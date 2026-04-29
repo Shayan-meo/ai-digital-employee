@@ -1,0 +1,9 @@
+2026-04-25 19:50:23,589 [INFO] Stealth applied.
+2026-04-25 19:50:24,346 [INFO] Browser started. Session: restored.
+2026-04-25 19:50:33,277 [INFO] Logged in (on x.com, no login redirect).
+2026-04-25 19:50:33,277 [INFO] Posting tweet (536 chars)...
+2026-04-25 19:50:52,492 [WARNING] Auto-open failed — open composer manually in browser (60s)...
+2026-04-25 19:51:53,421 [ERROR] Composer not found.
+2026-04-25 19:51:53,555 [ERROR] Tweet error: Page.screenshot: Target page, context or browser has been closed
+2026-04-25 19:51:54,902 [INFO] Session saved.
+2026-04-25 19:51:56,236 [INFO] Browser closed.

@@ -1,0 +1,337 @@
+2026-03-04 02:50:07,274 [INFO] Post Everywhere — Starting
+2026-03-04 02:50:07,276 [INFO] Platforms: linkedin
+2026-03-04 02:50:07,276 [INFO] Text: Facebook
+2026-03-04 02:50:07,278 [INFO] Image: d:\AI_Employee_Vault\Media\AI.jpg
+2026-03-04 02:50:07,288 [INFO] ==================================================
+2026-03-04 02:50:07,289 [INFO] LINKEDIN — Starting...
+2026-03-04 02:50:32,747 [INFO] LinkedIn: already logged in.
+2026-03-04 02:50:32,788 [INFO] Navigating to LinkedIn feed...
+2026-03-04 02:50:39,187 [INFO] Opening post composer via direct URL...
+2026-03-04 02:50:49,674 [INFO] Direct URL redirected, trying feed click approach...
+2026-03-04 02:51:04,582 [INFO] Finding post editor...
+2026-03-04 02:51:08,653 [INFO] Found editor: .ql-editor
+2026-03-04 02:51:08,686 [INFO] Typing post text...
+2026-03-04 02:51:11,993 [INFO] Uploading image: d:\AI_Employee_Vault\Media\AI.jpg
+2026-03-04 02:51:12,290 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-04 02:51:14,356 [INFO] Image file selected for upload.
+2026-03-04 02:51:19,364 [INFO] Clicking Post button...
+2026-03-04 02:51:49,549 [ERROR] Could not find Post button — saving screenshot
+2026-03-04 02:51:50,457 [ERROR] LINKEDIN — Post failed.
+2026-03-04 02:51:51,852 [INFO] Session saved.
+2026-03-04 02:51:55,557 [INFO] ==================================================
+2026-03-04 02:51:55,558 [INFO] RESULTS:
+2026-03-04 02:51:55,559 [INFO]   linkedin     FAILED
+2026-03-04 02:51:55,559 [INFO] Total: 0/1 platforms posted successfully.
+2026-03-04 02:53:59,636 [INFO] Post Everywhere — Starting
+2026-03-04 02:53:59,638 [INFO] Platforms: facebook
+2026-03-04 02:53:59,638 [INFO] Text: i am a devaloper
+2026-03-04 02:53:59,639 [INFO] Image: d:\AI_Employee_Vault\Media\AI.jpg
+2026-03-04 02:53:59,639 [INFO] ==================================================
+2026-03-04 02:53:59,640 [INFO] FACEBOOK — Starting...
+2026-03-04 02:54:12,268 [INFO] Facebook: already logged in.
+2026-03-04 02:54:12,283 [INFO] Navigating to Facebook home...
+2026-03-04 02:54:18,575 [INFO] Looking for post composer box...
+2026-03-04 02:54:23,701 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-04 02:54:25,711 [INFO] Finding text input area...
+2026-03-04 02:54:25,723 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-04 02:54:25,724 [INFO] Typing post text...
+2026-03-04 02:54:28,854 [INFO] Uploading image: d:\AI_Employee_Vault\Media\AI.jpg
+2026-03-04 02:54:58,916 [INFO] Photo button not found, trying direct file input...
+2026-03-04 02:55:00,953 [INFO] Image file selected for upload.
+2026-03-04 02:55:05,969 [INFO] Clicking Post button...
+2026-03-04 02:55:06,102 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-04 02:55:10,110 [INFO] Post published successfully!
+2026-03-04 02:55:10,111 [INFO] FACEBOOK — Posted successfully!
+2026-03-04 02:55:10,378 [INFO] Session saved.
+2026-03-04 02:55:13,333 [INFO] ==================================================
+2026-03-04 02:55:13,334 [INFO] RESULTS:
+2026-03-04 02:55:13,334 [INFO]   facebook     OK
+2026-03-04 02:55:13,334 [INFO] Total: 1/1 platforms posted successfully.
+2026-03-04 02:56:54,168 [INFO] Post Everywhere — Starting
+2026-03-04 02:56:54,168 [INFO] Platforms: instagram
+2026-03-04 02:56:54,169 [INFO] Text: i am delvalopter
+2026-03-04 02:56:54,169 [INFO] Image: d:\AI_Employee_Vault\Media\images.jpg
+2026-03-04 02:56:54,170 [INFO] ==================================================
+2026-03-04 02:56:54,170 [INFO] INSTAGRAM — Starting...
+2026-03-04 02:57:04,412 [INFO] Instagram: already logged in.
+2026-03-04 02:57:04,424 [INFO] Navigating to Instagram...
+2026-03-04 02:57:11,373 [INFO] Looking for Create post button...
+2026-03-04 02:57:11,885 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-04 02:57:14,906 [INFO] Image resized to 1080x1080.
+2026-03-04 02:57:14,908 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-04 02:57:17,962 [INFO] Image uploaded.
+2026-03-04 02:57:20,309 [INFO] Clicked Next (crop)
+2026-03-04 02:57:22,442 [INFO] Clicked Next (filters)
+2026-03-04 02:57:22,452 [INFO] Looking for caption input...
+2026-03-04 02:57:37,503 [INFO] Found caption: div[contenteditable='true']
+2026-03-04 02:57:40,688 [INFO] Clicking Share button...
+2026-03-04 02:57:40,823 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-04 02:57:45,887 [INFO] Post published successfully!
+2026-03-04 02:57:45,891 [INFO] INSTAGRAM — Posted successfully!
+2026-03-04 02:57:46,378 [INFO] Session saved.
+2026-03-04 02:57:51,412 [INFO] ==================================================
+2026-03-04 02:57:51,412 [INFO] RESULTS:
+2026-03-04 02:57:51,413 [INFO]   instagram    OK
+2026-03-04 02:57:51,413 [INFO] Total: 1/1 platforms posted successfully.
+2026-03-04 16:39:40,704 [INFO] Post Everywhere — Starting
+2026-03-04 16:39:40,705 [INFO] Platforms: facebook, twitter, instagram, linkedin
+2026-03-04 16:39:40,706 [INFO] Text: ## Image
+Media/AI.jpg
+
+## Post
+The Future is AI-Powered
+
+Artificial Intelligence...
+2026-03-04 16:39:40,707 [INFO] Image: Media/AI.jpg
+2026-03-04 16:39:40,707 [INFO] ==================================================
+2026-03-04 16:39:40,707 [INFO] FACEBOOK — Starting...
+2026-03-04 16:39:54,774 [INFO] Facebook: already logged in.
+2026-03-04 16:39:54,774 [INFO] Navigating to Facebook home...
+2026-03-04 16:40:04,787 [INFO] Looking for post composer box...
+2026-03-04 16:40:09,937 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-04 16:40:11,946 [INFO] Finding text input area...
+2026-03-04 16:40:15,599 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-04 16:40:15,599 [INFO] Typing post text...
+2026-03-04 16:40:41,016 [INFO] Uploading image: Media\AI.jpg
+2026-03-04 16:41:11,210 [INFO] Photo button not found, trying direct file input...
+2026-03-04 16:41:13,256 [INFO] Image file selected for upload.
+2026-03-04 16:41:18,264 [INFO] Clicking Post button...
+2026-03-04 16:41:18,389 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-04 16:41:22,402 [INFO] Post published successfully!
+2026-03-04 16:41:22,402 [INFO] FACEBOOK — Posted successfully!
+2026-03-04 16:41:22,894 [INFO] Session saved.
+2026-03-04 16:41:26,994 [INFO] ==================================================
+2026-03-04 16:41:26,995 [INFO] TWITTER/X — Starting...
+2026-03-04 16:41:45,755 [INFO] Opening Twitter/X login page...
+2026-03-04 16:41:45,756 [INFO] ==================================================
+2026-03-04 16:41:45,756 [INFO] Please LOGIN MANUALLY in the browser window.
+2026-03-04 16:41:45,756 [INFO] Script will wait up to 3 minutes for you to complete login.
+2026-03-04 16:41:45,756 [INFO] ==================================================
+2026-03-04 16:41:49,298 [INFO] Waiting for manual login... (3 min timeout)
+2026-03-04 16:42:21,372 [INFO] Still waiting... (30 sec elapsed)
+2026-03-04 16:42:51,424 [INFO] Still waiting... (60 sec elapsed)
+2026-03-04 16:43:21,528 [INFO] Still waiting... (90 sec elapsed)
+2026-03-04 16:43:51,612 [INFO] Still waiting... (120 sec elapsed)
+2026-03-04 16:44:22,045 [INFO] Still waiting... (150 sec elapsed)
+2026-03-04 16:44:50,610 [ERROR] Login not completed within 3 minutes.
+2026-03-04 16:44:50,610 [ERROR] Twitter login failed.
+2026-03-04 16:45:47,026 [INFO] Session saved.
+2026-03-04 16:45:50,983 [INFO] ==================================================
+2026-03-04 16:45:50,983 [INFO] INSTAGRAM — Starting...
+2026-03-04 16:46:02,844 [INFO] Instagram: already logged in.
+2026-03-04 16:46:02,844 [INFO] Navigating to Instagram...
+2026-03-04 16:46:08,406 [INFO] Looking for Create post button...
+2026-03-04 16:46:08,899 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-04 16:46:11,828 [INFO] Image resized to 1080x1080.
+2026-03-04 16:46:11,828 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-04 16:46:14,875 [INFO] Image uploaded.
+2026-03-04 16:46:17,024 [INFO] Clicked Next (crop)
+2026-03-04 16:46:19,190 [INFO] Clicked Next (filters)
+2026-03-04 16:46:19,207 [INFO] Looking for caption input...
+2026-03-04 16:46:34,262 [INFO] Found caption: div[contenteditable='true']
+2026-03-04 16:47:02,846 [INFO] Clicking Share button...
+2026-03-04 16:47:03,010 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-04 16:47:08,018 [INFO] Post published successfully!
+2026-03-04 16:47:08,018 [INFO] INSTAGRAM — Posted successfully!
+2026-03-04 16:47:08,718 [INFO] Session saved.
+2026-03-04 16:47:12,118 [INFO] ==================================================
+2026-03-04 16:47:12,118 [INFO] LINKEDIN — Starting...
+2026-03-04 16:47:26,776 [INFO] LinkedIn: already logged in.
+2026-03-04 16:47:26,777 [INFO] Navigating to LinkedIn feed...
+2026-03-04 16:47:33,622 [INFO] Opening post composer via direct URL...
+2026-03-04 16:47:45,100 [INFO] Direct URL redirected, trying feed click approach...
+2026-03-04 16:48:01,032 [INFO] Finding post editor...
+2026-03-04 16:48:05,853 [INFO] Found editor: .ql-editor
+2026-03-04 16:48:05,854 [INFO] Typing post text...
+2026-03-04 16:48:38,297 [INFO] Uploading image: Media\AI.jpg
+2026-03-04 16:48:38,583 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-04 16:48:40,729 [INFO] Image file selected for upload.
+2026-03-04 16:48:45,740 [INFO] Clicking Post button...
+2026-03-04 16:49:15,989 [ERROR] Could not find Post button — saving screenshot
+2026-03-04 16:49:19,392 [ERROR] LINKEDIN — Post failed.
+2026-03-04 16:49:21,294 [INFO] Session saved.
+2026-03-04 16:49:47,685 [INFO] ==================================================
+2026-03-04 16:49:47,685 [INFO] RESULTS:
+2026-03-04 16:49:47,685 [INFO]   facebook     OK
+2026-03-04 16:49:47,685 [INFO]   twitter      FAILED
+2026-03-04 16:49:47,685 [INFO]   instagram    OK
+2026-03-04 16:49:47,685 [INFO]   linkedin     FAILED
+2026-03-04 16:49:47,685 [INFO] Total: 2/4 platforms posted successfully.
+2026-03-04 19:48:11,407 [INFO] Post Everywhere — Starting
+2026-03-04 19:48:11,408 [INFO] Platforms: facebook, twitter, instagram, linkedin
+2026-03-04 19:48:11,409 [INFO] Text: ## Image
+Media/AI.jpg
+
+## Post
+The Future is AI-Powered
+
+Artificial Intelligence...
+2026-03-04 19:48:11,409 [INFO] Image: (none)
+2026-03-04 19:48:11,409 [INFO] ==================================================
+2026-03-04 19:48:11,409 [INFO] FACEBOOK — Starting...
+2026-03-04 19:48:27,945 [INFO] Facebook: already logged in.
+2026-03-04 19:48:27,945 [INFO] Navigating to Facebook home...
+2026-03-04 19:48:35,341 [INFO] Looking for post composer box...
+2026-03-04 19:48:40,584 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-04 19:48:42,588 [INFO] Finding text input area...
+2026-03-04 19:48:42,605 [INFO] Found editor: div[contenteditable='true'][role='textbox']
+2026-03-04 19:48:42,605 [INFO] Typing post text...
+2026-03-04 19:49:07,953 [INFO] Clicking Post button...
+2026-03-04 19:49:08,110 [INFO] Clicked post button: div[aria-label='Post'][role='button']
+2026-03-04 19:49:12,120 [INFO] Post published successfully!
+2026-03-04 19:49:12,121 [INFO] FACEBOOK — Posted successfully!
+2026-03-04 19:49:12,475 [INFO] Session saved.
+2026-03-04 19:49:19,782 [INFO] ==================================================
+2026-03-04 19:49:19,782 [INFO] TWITTER/X — Starting...
+2026-03-04 19:49:37,047 [INFO] Opening Twitter/X login page...
+2026-03-04 19:49:42,909 [INFO] Entering username...
+2026-03-04 19:49:55,676 [INFO] Twitter security check — entering email for verification...
+2026-03-04 19:49:59,958 [INFO] Entering password...
+2026-03-04 19:50:10,055 [ERROR] Page load timed out.
+2026-03-04 19:50:10,056 [ERROR] Twitter login failed.
+2026-03-04 19:50:10,527 [INFO] Session saved.
+2026-03-04 19:50:13,509 [INFO] ==================================================
+2026-03-04 19:50:13,509 [INFO] INSTAGRAM — Starting...
+2026-03-04 19:50:13,518 [INFO] Using image from Media: AI.jpg
+2026-03-04 19:50:25,824 [INFO] Instagram: already logged in.
+2026-03-04 19:50:25,824 [INFO] Navigating to Instagram...
+2026-03-04 19:50:32,338 [INFO] Looking for Create post button...
+2026-03-04 19:50:32,620 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-04 19:50:34,957 [INFO] Image resized to 1080x1080.
+2026-03-04 19:50:34,958 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-04 19:50:38,010 [INFO] Image uploaded.
+2026-03-04 19:50:40,330 [INFO] Clicked Next (crop)
+2026-03-04 19:50:42,493 [INFO] Clicked Next (filters)
+2026-03-04 19:50:42,547 [INFO] Looking for caption input...
+2026-03-04 19:50:57,618 [INFO] Found caption: div[contenteditable='true']
+2026-03-04 19:51:23,910 [INFO] Clicking Share button...
+2026-03-04 19:51:24,049 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-04 19:51:29,069 [INFO] Post published successfully!
+2026-03-04 19:51:29,069 [INFO] INSTAGRAM — Posted successfully!
+2026-03-04 19:51:29,412 [INFO] Session saved.
+2026-03-04 19:51:32,531 [INFO] ==================================================
+2026-03-04 19:51:32,532 [INFO] LINKEDIN — Starting...
+2026-03-04 19:51:53,906 [INFO] LinkedIn: already logged in.
+2026-03-04 19:51:53,906 [INFO] Navigating to LinkedIn feed...
+2026-03-04 19:52:00,713 [INFO] Opening post composer via direct URL...
+2026-03-04 19:52:12,708 [INFO] Direct URL redirected, trying feed click approach...
+2026-03-04 19:52:27,010 [INFO] Finding post editor...
+2026-03-04 19:52:32,667 [INFO] Found editor: [contenteditable='true']
+2026-03-04 19:52:32,668 [INFO] Typing post text...
+2026-03-04 19:53:05,819 [INFO] Clicking Post button...
+2026-03-04 19:53:05,971 [INFO] Clicked post button: button.share-actions__primary-action
+2026-03-04 19:53:09,979 [INFO] Post published successfully!
+2026-03-04 19:53:09,979 [INFO] LINKEDIN — Posted successfully!
+2026-03-04 19:53:11,989 [INFO] Session saved.
+2026-03-04 19:53:16,667 [INFO] ==================================================
+2026-03-04 19:53:16,667 [INFO] RESULTS:
+2026-03-04 19:53:16,668 [INFO]   facebook     OK
+2026-03-04 19:53:16,670 [INFO]   twitter      FAILED
+2026-03-04 19:53:16,670 [INFO]   instagram    OK
+2026-03-04 19:53:16,670 [INFO]   linkedin     OK
+2026-03-04 19:53:16,672 [INFO] Total: 3/4 platforms posted successfully.
+2026-03-04 19:57:15,119 [INFO] Post Everywhere — Starting
+2026-03-04 19:57:15,119 [INFO] Platforms: twitter
+2026-03-04 19:57:15,119 [INFO] Text: ## Image
+Media/AI.jpg
+
+## Post
+The Future is AI-Powered
+
+Artificial Intelligence...
+2026-03-04 19:57:15,119 [INFO] Image: (none)
+2026-03-04 19:57:15,119 [INFO] ==================================================
+2026-03-04 19:57:15,120 [INFO] TWITTER/X — Starting...
+2026-03-04 19:57:31,539 [INFO] Opening Twitter/X login page...
+2026-03-04 19:57:40,114 [INFO] Entering username...
+2026-03-04 19:57:46,850 [INFO] Entering password...
+2026-03-04 19:58:01,862 [ERROR] Page load timed out.
+2026-03-04 19:58:01,862 [ERROR] Twitter login failed.
+2026-03-04 19:58:02,468 [INFO] Session saved.
+2026-03-04 19:58:06,511 [INFO] ==================================================
+2026-03-04 19:58:06,511 [INFO] RESULTS:
+2026-03-04 19:58:06,511 [INFO]   twitter      FAILED
+2026-03-04 19:58:06,511 [INFO] Total: 0/1 platforms posted successfully.
+2026-03-04 19:58:42,156 [INFO] Post Everywhere — Starting
+2026-03-04 19:58:42,157 [INFO] Platforms: twitter
+2026-03-04 19:58:42,157 [INFO] Text: ## Image
+Media/AI.jpg
+
+## Post
+The Future is AI-Powered
+
+Artificial Intelligence...
+2026-03-04 19:58:42,157 [INFO] Image: (none)
+2026-03-04 19:58:42,158 [INFO] ==================================================
+2026-03-04 19:58:42,158 [INFO] TWITTER/X — Starting...
+2026-03-04 19:58:56,960 [INFO] Opening Twitter/X login page...
+2026-03-04 19:59:05,806 [INFO] Entering username...
+2026-03-04 19:59:12,407 [INFO] Entering password...
+2026-03-04 19:59:12,816 [INFO] Saved debug screenshot: debug_twitter_pre_password.png
+2026-03-04 19:59:27,981 [WARNING] Password field not found with standard selectors, trying broader search...
+2026-03-04 19:59:27,987 [INFO] Found 1 input elements on page
+2026-03-04 19:59:28,010 [INFO]   Input 0: type=text, name=text, visible=True
+2026-03-04 19:59:28,011 [ERROR] Page load timed out.
+2026-03-04 19:59:28,011 [ERROR] Twitter login failed.
+2026-03-04 19:59:28,599 [INFO] Session saved.
+2026-03-04 19:59:31,986 [INFO] ==================================================
+2026-03-04 19:59:31,986 [INFO] RESULTS:
+2026-03-04 19:59:31,986 [INFO]   twitter      FAILED
+2026-03-04 19:59:31,986 [INFO] Total: 0/1 platforms posted successfully.
+2026-03-04 20:09:06,668 [INFO] Post Everywhere — Starting
+2026-03-04 20:09:06,669 [INFO] Platforms: twitter
+2026-03-04 20:09:06,670 [INFO] Text: ## Image
+Media/AI.jpg
+
+## Post
+The Future is AI-Powered
+
+Artificial Intelligence...
+2026-03-04 20:09:06,670 [INFO] Image: (none)
+2026-03-04 20:09:06,670 [INFO] ==================================================
+2026-03-04 20:09:06,670 [INFO] TWITTER/X — Starting...
+2026-03-04 20:09:22,016 [INFO] Opening Twitter/X login page...
+2026-03-04 20:09:30,546 [INFO] Entering username...
+2026-03-04 20:09:37,108 [INFO] Twitter security check — entering email for verification...
+2026-03-04 20:09:42,877 [INFO] Entering password...
+2026-03-04 20:09:43,256 [INFO] Saved debug screenshot: debug_twitter_pre_password.png
+2026-03-04 20:09:58,485 [WARNING] Password field not found with standard selectors, trying broader search...
+2026-03-04 20:09:58,491 [INFO] Found 1 input elements on page
+2026-03-04 20:09:58,536 [INFO]   Input 0: type=text, name=text, visible=True
+2026-03-04 20:09:58,536 [ERROR] Page load timed out.
+2026-03-04 20:09:58,536 [ERROR] Twitter login failed.
+2026-03-04 20:09:59,403 [INFO] Session saved.
+2026-03-04 20:10:03,229 [INFO] ==================================================
+2026-03-04 20:10:03,229 [INFO] RESULTS:
+2026-03-04 20:10:03,229 [INFO]   twitter      FAILED
+2026-03-04 20:10:03,229 [INFO] Total: 0/1 platforms posted successfully.
+2026-03-04 20:11:52,035 [INFO] Post Everywhere — Starting
+2026-03-04 20:11:52,035 [INFO] Platforms: twitter
+2026-03-04 20:11:52,036 [INFO] Text: ## Image
+Media/AI.jpg
+
+## Post
+The Future is AI-Powered
+
+Artificial Intelligence...
+2026-03-04 20:11:52,036 [INFO] Image: (none)
+2026-03-04 20:11:52,036 [INFO] ==================================================
+2026-03-04 20:11:52,036 [INFO] TWITTER/X — Starting...
+2026-03-04 20:12:07,887 [INFO] Opening Twitter/X login page...
+2026-03-04 20:12:18,734 [INFO] Entering username...
+2026-03-04 20:12:25,449 [INFO] Twitter security check — entering: shayanrehan386@gmail.com
+2026-03-04 20:12:31,359 [INFO] Challenge value rejected, trying next...
+2026-03-04 20:12:31,373 [INFO] Twitter security check — entering: DevLogicX
+2026-03-04 20:12:37,324 [INFO] Challenge value rejected, trying next...
+2026-03-04 20:12:37,325 [INFO] Entering password...
+2026-03-04 20:12:37,871 [INFO] Saved debug screenshot: debug_twitter_pre_password.png
+2026-03-04 20:12:53,027 [WARNING] Password field not found with standard selectors, trying broader search...
+2026-03-04 20:12:53,040 [INFO] Found 1 input elements on page
+2026-03-04 20:12:53,080 [INFO]   Input 0: type=text, name=text, visible=True
+2026-03-04 20:12:53,080 [ERROR] Page load timed out.
+2026-03-04 20:12:53,081 [ERROR] Twitter login failed.
+2026-03-04 20:12:53,681 [INFO] Session saved.
+2026-03-04 20:12:57,510 [INFO] ==================================================
+2026-03-04 20:12:57,510 [INFO] RESULTS:
+2026-03-04 20:12:57,511 [INFO]   twitter      FAILED
+2026-03-04 20:12:57,511 [INFO] Total: 0/1 platforms posted successfully.

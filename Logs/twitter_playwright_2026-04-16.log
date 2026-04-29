@@ -1,0 +1,29 @@
+2026-04-16 01:40:40,355 [INFO] Session check URL: https://x.com/
+2026-04-16 01:40:48,408 [INFO] Opening Twitter/X login...
+2026-04-16 01:40:57,062 [INFO] Entering username...
+2026-04-16 01:41:14,295 [INFO] Challenge 1: sign in to x
+2026-04-16 01:41:14,296 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-16 01:41:20,212 [INFO]   Accepted, moved to next screen.
+2026-04-16 01:41:20,240 [INFO] Challenge 2: sign in to x
+2026-04-16 01:41:20,240 [INFO]   Trying: DevLogicX
+2026-04-16 01:41:26,141 [INFO]   Accepted, moved to next screen.
+2026-04-16 01:41:26,186 [INFO] Challenge 3: sign in to x
+2026-04-16 01:41:26,187 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-16 01:41:32,068 [INFO]   Accepted, moved to next screen.
+2026-04-16 01:41:32,092 [INFO] Challenge 4: sign in to x
+2026-04-16 01:41:32,092 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-16 01:41:38,026 [INFO]   Accepted, moved to next screen.
+2026-04-16 01:41:38,109 [INFO] Challenge 5: sign in to x
+2026-04-16 01:41:38,109 [INFO]   Trying: shayanrehan386@gmail.com
+2026-04-16 01:41:44,120 [INFO]   Accepted, moved to next screen.
+2026-04-16 01:41:44,120 [INFO] Entering password...
+2026-04-16 01:41:45,015 [INFO] Screenshot saved: tw_pre_password.png
+2026-04-16 01:42:10,253 [WARNING] Password not found, checking page state...
+2026-04-16 01:42:10,298 [INFO]   Input 0: type=text, name=text, visible=True
+2026-04-16 01:42:25,315 [ERROR] Page load timed out.
+2026-04-16 01:42:25,316 [ERROR] Login failed.
+2026-04-16 01:42:26,237 [INFO] Session saved.
+2026-04-16 02:03:59,628 [INFO] Session check URL: https://x.com/
+2026-04-16 02:04:07,712 [INFO] Already logged in (session restored).
+2026-04-16 02:04:07,712 [INFO] Login test passed!
+2026-04-16 02:04:08,877 [INFO] Session saved.

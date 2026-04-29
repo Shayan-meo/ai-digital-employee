@@ -1,0 +1,52 @@
+2026-03-03 01:55:05  Vault root: D:\AI_Employee_Vault
+2026-03-03 01:55:05  Guardian started for: Filesystem
+2026-03-03 01:55:05  Guardian started for: Gmail
+2026-03-03 01:55:05  Guardian started for: Approval
+2026-03-03 01:55:05  [Filesystem] Started (PID 4176), restarts so far: 0
+2026-03-03 01:55:05  [Gmail] Started (PID 1304), restarts so far: 0
+2026-03-03 01:55:05  Guardian started for: LinkedIn
+2026-03-03 01:55:05  [Approval] Started (PID 9624), restarts so far: 0
+2026-03-03 01:55:05  [LinkedIn] Started (PID 11860), restarts so far: 0
+2026-03-03 01:55:05  Guardian started for: Scheduler
+2026-03-03 01:55:06  Guardian started for: Dashboard
+2026-03-03 01:55:05  [Scheduler] Started (PID 9736), restarts so far: 0
+2026-03-03 01:55:06  [Dashboard] Started (PID 5560), restarts so far: 0
+2026-03-03 01:55:06  Guardian started for: LinkedIn
+2026-03-03 01:55:06  [LinkedIn] Started (PID 6876), restarts so far: 0
+2026-03-03 01:55:06  Guardian started for: SocialMedia
+2026-03-03 01:55:06  Guardian started for: WhatsApp
+2026-03-03 01:55:06  [SocialMedia] Started (PID 4988), restarts so far: 0
+2026-03-03 01:55:06  Guardian started for: WhatsAppSend
+2026-03-03 01:55:06  [WhatsApp] Started (PID 476), restarts so far: 0
+2026-03-03 01:55:06  Guardian started for: FacebookSend
+2026-03-03 01:55:06  [FacebookSend] Started (PID 11320), restarts so far: 0
+2026-03-03 01:55:06  [WhatsAppSend] Started (PID 2340), restarts so far: 0
+2026-03-03 01:56:08  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-03 01:56:40  Received shutdown signal.
+2026-03-03 01:56:40  [Scheduler] Crashed (exit 0). Restart 1/10.
+2026-03-03 01:56:40  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:40  [Scheduler] Guardian exiting (shutdown requested).
+2026-03-03 01:56:40  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:41  [LinkedIn] Stopped cleanly.
+2026-03-03 01:56:41  [Dashboard] Stopped cleanly.
+2026-03-03 01:56:41  [Filesystem] Stopped cleanly.
+2026-03-03 01:56:41  [SocialMedia] Stopped cleanly.
+2026-03-03 01:56:41  [WhatsApp] Stopped cleanly.
+2026-03-03 01:56:41  [LinkedIn] Stopped cleanly.
+2026-03-03 01:56:41  [FacebookSend] Stopped cleanly.
+2026-03-03 01:56:41  Received shutdown signal.
+2026-03-03 01:56:41  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:41  [Gmail] Stopped cleanly.
+2026-03-03 01:56:41  [WhatsAppSend] Stopped cleanly.
+2026-03-03 01:56:41  [Approval] Stopped cleanly.
+2026-03-03 01:56:42  Received shutdown signal.
+2026-03-03 01:56:42  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:42  Received shutdown signal.
+2026-03-03 01:56:42  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:43  Received shutdown signal.
+2026-03-03 01:56:43  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:43  Received shutdown signal.
+2026-03-03 01:56:43  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:43  Received shutdown signal.
+2026-03-03 01:56:43  Shutdown requested — stopping all watchers...
+2026-03-03 01:56:43  Orchestrator shutdown complete.

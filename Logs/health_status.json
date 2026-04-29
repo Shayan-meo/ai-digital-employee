@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-03-09T22:04:19.505263",
+  "overall": "degraded",
+  "services": {
+    "cloud_watcher": {
+      "status": "down",
+      "check_type": "process",
+      "critical": true,
+      "restarted": false,
+      "checked_at": "2026-03-09T22:04:19.505263"
+    },
+    "scheduler": {
+      "status": "down",
+      "check_type": "process",
+      "critical": true,
+      "restarted": false,
+      "checked_at": "2026-03-09T22:04:19.505263"
+    },
+    "vault_sync": {
+      "status": "down",
+      "check_type": "process",
+      "critical": false,
+      "restarted": false,
+      "checked_at": "2026-03-09T22:04:19.505263"
+    },
+    "odoo": {
+      "status": "healthy",
+      "check_type": "http",
+      "critical": true,
+      "restarted": false,
+      "checked_at": "2026-03-09T22:04:19.505263"
+    },
+    "health_endpoint": {
+      "status": "down",
+      "check_type": "http",
+      "critical": false,
+      "restarted": false,
+      "checked_at": "2026-03-09T22:04:19.505263"
+    }
+  },
+  "alerts": [
+    "CRITICAL: cloud_watcher is DOWN and restart failed",
+    "CRITICAL: scheduler is DOWN and restart failed"
+  ]
+}

@@ -1,0 +1,20 @@
+2026-04-18 17:03:16,950  INFO     Browser opened with persistent profile.
+2026-04-18 17:06:53,206  INFO     Sending to: 93278448829
+2026-04-18 17:06:53,208  INFO     Opening chat via URL: phone=93278448829
+2026-04-18 17:07:17,737  WARNING  Compose box not found, trying anyway...
+2026-04-18 17:07:52,962  ERROR    Compose box NOT found. Editable elements:
+
+2026-04-18 17:07:52,963  ERROR    Error sending to 93278448829: Could not find compose box
+2026-04-18 17:07:55,315  INFO     Browser closed. Profile saved.
+2026-04-18 17:25:46,096  INFO     Browser opened with persistent profile.
+2026-04-18 17:26:09,251  INFO     Browser closed. Profile saved.
+2026-04-18 17:26:37,149  INFO     Browser opened with persistent profile.
+2026-04-18 17:28:15,882  INFO     Sending to: 03278448829
+2026-04-18 17:28:15,883  INFO     Opening chat via URL: phone=923278448829
+2026-04-18 17:28:42,101  WARNING  Compose box not found, trying anyway...
+2026-04-18 17:28:58,980  INFO     Compose box found: footer div[contenteditable="true"]
+2026-04-18 17:29:07,299  INFO     Send clicked: button[aria-label="Send"]
+2026-04-18 17:29:07,299  INFO     Waiting for message delivery...
+2026-04-18 17:29:10,364  INFO     Message delivered (compose box empty).
+2026-04-18 17:29:15,368  INFO     Message sent to 03278448829
+2026-04-18 17:29:25,079  INFO     Browser closed. Profile saved.

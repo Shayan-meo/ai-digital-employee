@@ -1,0 +1,9 @@
+2026-03-03 01:55:51,745 [INFO] Logging in to LinkedIn...
+2026-03-03 01:56:35,486 [ERROR] Login error: Page.fill: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("#username")
+
+2026-03-03 01:56:35,487 [ERROR] Login failed. Exiting.
+2026-03-03 01:56:37,852 [INFO] Session saved.
+2026-03-03 01:56:41,112 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-12' coro=<Browser.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser.py:232> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>

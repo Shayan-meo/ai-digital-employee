@@ -1,0 +1,14 @@
+2026-04-22 11:33:11,377 [INFO] Navigating to Instagram...
+2026-04-22 11:33:16,654 [INFO] Looking for Create post button...
+2026-04-22 11:33:27,038 [INFO] Clicked create: [aria-label='New post']
+2026-04-22 11:33:30,064 [INFO] Image resized to 1080x1080.
+2026-04-22 11:33:30,065 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-04-22 11:33:33,132 [INFO] Image uploaded.
+2026-04-22 11:33:35,517 [INFO] Clicked Next (crop)
+2026-04-22 11:33:37,710 [INFO] Clicked Next (filters)
+2026-04-22 11:33:42,746 [INFO] Looking for caption input...
+2026-04-22 11:33:42,760 [INFO] Found caption: div[aria-label='Write a caption...']
+2026-04-22 11:33:45,869 [INFO] Clicking Share button...
+2026-04-22 11:33:46,004 [INFO] Clicked share via role selector
+2026-04-22 11:33:51,018 [INFO] Post published successfully!
+2026-04-22 11:33:51,497 [INFO] Session saved.

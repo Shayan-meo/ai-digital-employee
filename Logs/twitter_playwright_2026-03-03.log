@@ -1,0 +1,17 @@
+2026-03-03 04:43:34,626 [INFO] Opening Twitter/X login page...
+2026-03-03 04:43:34,631 [INFO] ==================================================
+2026-03-03 04:43:34,631 [INFO] Please LOGIN MANUALLY in the browser window.
+2026-03-03 04:43:34,631 [INFO] Script will wait up to 3 minutes for you to complete login.
+2026-03-03 04:43:34,631 [INFO] ==================================================
+2026-03-03 04:43:38,320 [INFO] Waiting for manual login... (3 min timeout)
+2026-03-03 04:44:10,650 [INFO] Still waiting... (30 sec elapsed)
+2026-03-03 04:44:40,856 [INFO] Still waiting... (60 sec elapsed)
+2026-03-03 04:45:10,919 [INFO] Still waiting... (90 sec elapsed)
+2026-03-03 04:45:41,006 [INFO] Still waiting... (120 sec elapsed)
+2026-03-03 04:46:11,028 [INFO] Still waiting... (150 sec elapsed)
+2026-03-03 04:46:39,083 [ERROR] Login not completed within 3 minutes.
+2026-03-03 04:46:39,083 [ERROR] Login failed. Exiting.
+2026-03-03 04:46:39,670 [INFO] Session saved.
+2026-03-03 04:47:13,801 [INFO] Already logged in (session restored).
+2026-03-03 04:47:13,802 [INFO] Login test successful!
+2026-03-03 04:47:14,089 [INFO] Session saved.

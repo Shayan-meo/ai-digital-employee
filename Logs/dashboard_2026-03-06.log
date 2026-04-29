@@ -1,0 +1,14 @@
+2026-03-06 00:13:46,510 [INFO] Starting AI Employee Dashboard on http://localhost:5000
+2026-03-06 00:13:46,652 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.103:5000
+2026-03-06 00:13:46,653 [INFO] [33mPress CTRL+C to quit[0m
+2026-03-06 00:30:47,382 [INFO] Starting AI Employee Dashboard on http://localhost:5000
+2026-03-06 00:30:47,452 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.103:5000
+2026-03-06 00:30:47,454 [INFO] [33mPress CTRL+C to quit[0m
+2026-03-06 00:34:44,897 [INFO] 127.0.0.1 - - [06/Mar/2026 00:34:44] "GET / HTTP/1.1" 200 -
+2026-03-06 00:34:54,211 [INFO] 127.0.0.1 - - [06/Mar/2026 00:34:54] "GET /api/vault-stats HTTP/1.1" 200 -

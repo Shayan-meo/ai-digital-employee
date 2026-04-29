@@ -1,0 +1,16 @@
+2026-04-22 02:58:12,723 [WARNING] Stealth skipped: 'Stealth' object has no attribute 'apply'
+2026-04-22 02:58:15,903 [INFO] Browser started. Session: restored.
+2026-04-22 02:58:27,152 [INFO] Logged in (on x.com, no login redirect).
+2026-04-22 02:58:27,152 [INFO] Already logged in (session restored).
+2026-04-22 02:58:27,152 [INFO] Login test passed!
+2026-04-22 02:58:27,464 [INFO] Session saved.
+2026-04-22 02:58:29,009 [INFO] Browser closed.
+2026-04-22 03:00:53,009 [INFO] Claude generated (280 chars): **Tweet:**
+
+"I built an AI digital employee that handles my social media, emails...
+2026-04-22 03:01:00,553 [INFO] Stealth applied.
+2026-04-22 03:01:02,493 [INFO] Browser started. Session: restored.
+2026-04-22 03:01:18,533 [INFO] Logged in (on x.com, no login redirect).
+2026-04-22 03:01:18,533 [INFO] Already logged in (session restored).
+2026-04-22 03:01:18,534 [INFO] Posting tweet (280 chars)...
+2026-04-22 03:02:35,269 [WARNING] Auto-open failed — open composer manually in browser (60s)...

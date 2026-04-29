@@ -1,0 +1,1587 @@
+2026-03-01 03:54:29,903  INFO     Browser opened with persistent profile.
+2026-03-01 03:54:37,484  INFO     >>> Scan the QR code on screen (3 min timeout) <<<
+2026-03-01 03:54:59,769  INFO     QR scanned! Session saved in browser profile.
+2026-03-01 03:54:59,771  INFO     Setup done! Profile saved — no QR needed next time.
+2026-03-01 03:55:01,781  INFO     Browser closed. Profile saved.
+2026-03-01 03:55:18,639  INFO     Created default auto_reply_rules.json
+2026-03-01 03:55:21,916  INFO     Browser opened with persistent profile.
+2026-03-01 03:55:29,449  INFO     Waiting for login... 5/40s
+2026-03-01 03:55:34,679  INFO     Logged in from saved profile.
+2026-03-01 03:55:34,680  INFO     WhatsApp ready.
+2026-03-01 03:55:34,681  INFO     Auto-reply ON — rules loaded from auto_reply_rules.json
+2026-03-01 03:55:34,681  INFO     Mode: send + receive + auto-reply | Polling every 30s
+2026-03-01 03:55:34,681  INFO     Scanning for unread messages...
+2026-03-01 03:55:40,114  INFO     No unread messages.
+2026-03-01 03:56:10,122  INFO     Scanning for unread messages...
+2026-03-01 03:56:15,216  INFO     No unread messages.
+2026-03-01 03:56:45,218  INFO     Scanning for unread messages...
+2026-03-01 03:56:50,313  INFO     No unread messages.
+2026-03-01 03:57:20,331  INFO     Scanning for unread messages...
+2026-03-01 03:57:26,054  INFO     No unread messages.
+2026-03-01 03:57:56,056  INFO     Scanning for unread messages...
+2026-03-01 03:58:01,826  INFO     No unread messages.
+2026-03-01 03:58:31,836  INFO     Scanning for unread messages...
+2026-03-01 03:58:36,974  INFO     No unread messages.
+2026-03-01 03:59:06,977  INFO     Scanning for unread messages...
+2026-03-01 03:59:12,386  INFO     No unread messages.
+2026-03-01 03:59:42,388  INFO     Scanning for unread messages...
+2026-03-01 03:59:47,500  INFO     No unread messages.
+2026-03-01 04:00:17,506  INFO     Scanning for unread messages...
+2026-03-01 04:00:22,597  INFO     No unread messages.
+2026-03-01 04:00:52,604  INFO     Scanning for unread messages...
+2026-03-01 04:00:57,652  INFO     No unread messages.
+2026-03-01 04:01:27,654  INFO     Scanning for unread messages...
+2026-03-01 04:01:32,942  INFO     No unread messages.
+2026-03-01 04:02:02,948  INFO     Scanning for unread messages...
+2026-03-01 04:02:08,376  INFO     No unread messages.
+2026-03-01 04:02:38,470  INFO     Scanning for unread messages...
+2026-03-01 04:02:43,597  INFO     No unread messages.
+2026-03-01 04:03:13,600  INFO     Scanning for unread messages...
+2026-03-01 04:03:18,658  INFO     No unread messages.
+2026-03-01 04:03:48,662  INFO     Scanning for unread messages...
+2026-03-01 04:03:53,732  INFO     No unread messages.
+2026-03-01 04:04:23,744  INFO     Scanning for unread messages...
+2026-03-01 04:04:29,052  INFO     No unread messages.
+2026-03-01 04:04:59,057  INFO     Scanning for unread messages...
+2026-03-01 04:05:04,125  INFO     No unread messages.
+2026-03-01 04:05:34,132  INFO     Scanning for unread messages...
+2026-03-01 04:05:39,225  INFO     No unread messages.
+2026-03-01 04:06:09,226  INFO     Scanning for unread messages...
+2026-03-01 04:06:14,297  INFO     No unread messages.
+2026-03-01 04:06:44,313  INFO     Scanning for unread messages...
+2026-03-01 04:06:49,435  INFO     No unread messages.
+2026-03-01 04:08:49,897  INFO     Scanning for unread messages...
+2026-03-01 04:08:55,518  INFO     No unread messages.
+2026-03-01 04:09:25,520  INFO     Scanning for unread messages...
+2026-03-01 04:09:30,603  INFO     No unread messages.
+2026-03-01 04:10:00,622  INFO     Scanning for unread messages...
+2026-03-01 04:10:05,803  INFO     No unread messages.
+2026-03-01 04:10:35,809  INFO     Scanning for unread messages...
+2026-03-01 04:10:41,020  INFO     No unread messages.
+2026-03-01 04:11:11,024  INFO     Scanning for unread messages...
+2026-03-01 04:11:16,470  INFO     No unread messages.
+2026-03-01 04:11:46,473  INFO     Scanning for unread messages...
+2026-03-01 04:11:51,556  INFO     No unread messages.
+2026-03-01 04:12:21,559  INFO     Scanning for unread messages...
+2026-03-01 04:12:26,631  INFO     No unread messages.
+2026-03-01 04:12:56,633  INFO     Scanning for unread messages...
+2026-03-01 04:13:01,702  INFO     No unread messages.
+2026-03-01 04:13:31,706  INFO     Scanning for unread messages...
+2026-03-01 04:13:36,788  INFO     No unread messages.
+2026-03-01 06:14:31,798  INFO     Scanning for unread messages...
+2026-03-01 06:14:38,589  INFO     No unread messages.
+2026-03-01 06:15:08,594  INFO     Scanning for unread messages...
+2026-03-01 06:15:14,033  INFO     No unread messages.
+2026-03-01 06:15:44,036  INFO     Scanning for unread messages...
+2026-03-01 06:15:49,073  INFO     No unread messages.
+2026-03-01 06:16:19,076  INFO     Scanning for unread messages...
+2026-03-01 06:16:24,270  INFO     No unread messages.
+2026-03-01 06:16:54,272  INFO     Scanning for unread messages...
+2026-03-01 06:16:59,380  INFO     No unread messages.
+2026-03-01 06:17:29,383  INFO     Scanning for unread messages...
+2026-03-01 06:17:34,530  INFO     No unread messages.
+2026-03-01 06:18:04,535  INFO     Scanning for unread messages...
+2026-03-01 06:18:09,704  INFO     No unread messages.
+2026-03-01 06:18:39,708  INFO     Scanning for unread messages...
+2026-03-01 06:18:44,846  INFO     No unread messages.
+2026-03-01 06:19:14,848  INFO     Scanning for unread messages...
+2026-03-01 06:19:19,969  INFO     No unread messages.
+2026-03-01 06:19:49,973  INFO     Scanning for unread messages...
+2026-03-01 06:19:55,092  INFO     No unread messages.
+2026-03-01 06:20:25,095  INFO     Scanning for unread messages...
+2026-03-01 06:20:30,194  INFO     No unread messages.
+2026-03-01 06:21:00,196  INFO     Scanning for unread messages...
+2026-03-01 06:21:05,305  INFO     No unread messages.
+2026-03-01 06:21:35,308  INFO     Scanning for unread messages...
+2026-03-01 06:21:40,362  INFO     No unread messages.
+2026-03-01 06:22:10,364  INFO     Scanning for unread messages...
+2026-03-01 06:22:15,415  INFO     No unread messages.
+2026-03-01 06:22:45,418  INFO     Scanning for unread messages...
+2026-03-01 06:22:50,488  INFO     No unread messages.
+2026-03-01 06:23:20,492  INFO     Scanning for unread messages...
+2026-03-01 06:23:25,579  INFO     No unread messages.
+2026-03-01 06:23:55,581  INFO     Scanning for unread messages...
+2026-03-01 06:24:00,630  INFO     No unread messages.
+2026-03-01 06:24:30,632  INFO     Scanning for unread messages...
+2026-03-01 06:24:35,711  INFO     No unread messages.
+2026-03-01 06:25:05,713  INFO     Scanning for unread messages...
+2026-03-01 06:25:10,801  INFO     No unread messages.
+2026-03-01 06:25:40,808  INFO     Scanning for unread messages...
+2026-03-01 06:25:45,929  INFO     No unread messages.
+2026-03-01 06:26:15,936  INFO     Scanning for unread messages...
+2026-03-01 06:26:21,019  INFO     No unread messages.
+2026-03-01 06:26:51,022  INFO     Scanning for unread messages...
+2026-03-01 06:26:56,180  INFO     No unread messages.
+2026-03-01 06:27:26,185  INFO     Scanning for unread messages...
+2026-03-01 06:27:31,346  INFO     No unread messages.
+2026-03-01 06:28:01,355  INFO     Scanning for unread messages...
+2026-03-01 06:28:06,467  INFO     No unread messages.
+2026-03-01 06:28:36,509  INFO     Scanning for unread messages...
+2026-03-01 06:28:41,683  INFO     No unread messages.
+2026-03-01 06:29:11,685  INFO     Scanning for unread messages...
+2026-03-01 06:29:16,739  INFO     No unread messages.
+2026-03-01 06:29:46,747  INFO     Scanning for unread messages...
+2026-03-01 06:29:51,839  INFO     No unread messages.
+2026-03-01 06:30:21,841  INFO     Scanning for unread messages...
+2026-03-01 06:30:26,958  INFO     No unread messages.
+2026-03-01 06:30:56,960  INFO     Scanning for unread messages...
+2026-03-01 06:31:02,063  INFO     No unread messages.
+2026-03-01 06:31:32,070  INFO     Scanning for unread messages...
+2026-03-01 06:31:37,246  INFO     No unread messages.
+2026-03-01 06:32:07,250  INFO     Scanning for unread messages...
+2026-03-01 06:32:12,422  INFO     No unread messages.
+2026-03-01 06:32:42,426  INFO     Scanning for unread messages...
+2026-03-01 06:32:47,558  INFO     No unread messages.
+2026-03-01 06:33:17,561  INFO     Scanning for unread messages...
+2026-03-01 06:33:22,652  INFO     No unread messages.
+2026-03-01 06:33:52,655  INFO     Scanning for unread messages...
+2026-03-01 06:33:57,779  INFO     No unread messages.
+2026-03-01 06:34:27,786  INFO     Scanning for unread messages...
+2026-03-01 06:34:32,853  INFO     No unread messages.
+2026-03-01 06:35:02,855  INFO     Scanning for unread messages...
+2026-03-01 06:35:07,928  INFO     No unread messages.
+2026-03-01 06:35:37,931  INFO     Scanning for unread messages...
+2026-03-01 06:35:43,067  INFO     No unread messages.
+2026-03-01 06:36:13,071  INFO     Scanning for unread messages...
+2026-03-01 06:36:18,190  INFO     No unread messages.
+2026-03-01 06:36:48,193  INFO     Scanning for unread messages...
+2026-03-01 06:36:53,306  INFO     No unread messages.
+2026-03-01 06:37:23,309  INFO     Scanning for unread messages...
+2026-03-01 06:37:28,387  INFO     No unread messages.
+2026-03-01 06:37:58,390  INFO     Scanning for unread messages...
+2026-03-01 06:38:03,490  INFO     No unread messages.
+2026-03-01 06:38:33,494  INFO     Scanning for unread messages...
+2026-03-01 06:38:38,565  INFO     No unread messages.
+2026-03-01 06:39:08,567  INFO     Scanning for unread messages...
+2026-03-01 06:39:13,749  INFO     No unread messages.
+2026-03-01 06:39:43,754  INFO     Scanning for unread messages...
+2026-03-01 06:39:48,905  INFO     No unread messages.
+2026-03-01 06:40:18,907  INFO     Scanning for unread messages...
+2026-03-01 06:40:24,071  INFO     No unread messages.
+2026-03-01 06:40:54,075  INFO     Scanning for unread messages...
+2026-03-01 06:40:59,144  INFO     No unread messages.
+2026-03-01 06:41:29,146  INFO     Scanning for unread messages...
+2026-03-01 06:41:34,343  INFO     No unread messages.
+2026-03-01 06:42:04,353  INFO     Scanning for unread messages...
+2026-03-01 06:42:09,511  INFO     No unread messages.
+2026-03-01 06:42:39,517  INFO     Scanning for unread messages...
+2026-03-01 06:42:44,714  INFO     No unread messages.
+2026-03-01 06:43:14,716  INFO     Scanning for unread messages...
+2026-03-01 06:43:19,798  INFO     No unread messages.
+2026-03-01 06:43:49,801  INFO     Scanning for unread messages...
+2026-03-01 06:43:54,904  INFO     No unread messages.
+2026-03-01 06:44:24,906  INFO     Scanning for unread messages...
+2026-03-01 06:44:30,051  INFO     No unread messages.
+2026-03-01 06:45:00,056  INFO     Scanning for unread messages...
+2026-03-01 06:45:05,121  INFO     No unread messages.
+2026-03-01 06:45:35,123  INFO     Scanning for unread messages...
+2026-03-01 06:45:40,217  INFO     No unread messages.
+2026-03-01 06:46:10,220  INFO     Scanning for unread messages...
+2026-03-01 06:46:15,284  INFO     No unread messages.
+2026-03-01 06:46:45,287  INFO     Scanning for unread messages...
+2026-03-01 06:46:50,369  INFO     No unread messages.
+2026-03-01 06:47:20,371  INFO     Scanning for unread messages...
+2026-03-01 06:47:25,453  INFO     No unread messages.
+2026-03-01 06:47:55,455  INFO     Scanning for unread messages...
+2026-03-01 06:48:00,540  INFO     No unread messages.
+2026-03-01 06:48:30,542  INFO     Scanning for unread messages...
+2026-03-01 06:48:35,740  INFO     No unread messages.
+2026-03-01 06:49:05,742  INFO     Scanning for unread messages...
+2026-03-01 06:49:10,814  INFO     No unread messages.
+2026-03-01 06:49:40,816  INFO     Scanning for unread messages...
+2026-03-01 06:49:45,921  INFO     No unread messages.
+2026-03-01 06:50:15,925  INFO     Scanning for unread messages...
+2026-03-01 06:50:21,027  INFO     No unread messages.
+2026-03-01 06:50:51,032  INFO     Scanning for unread messages...
+2026-03-01 06:50:56,108  INFO     No unread messages.
+2026-03-01 06:51:26,110  INFO     Scanning for unread messages...
+2026-03-01 06:51:31,157  INFO     No unread messages.
+2026-03-01 06:52:01,159  INFO     Scanning for unread messages...
+2026-03-01 06:52:06,237  INFO     No unread messages.
+2026-03-01 06:52:36,242  INFO     Scanning for unread messages...
+2026-03-01 06:52:41,302  INFO     No unread messages.
+2026-03-01 06:53:11,354  INFO     Scanning for unread messages...
+2026-03-01 06:53:16,641  INFO     No unread messages.
+2026-03-01 06:53:46,643  INFO     Scanning for unread messages...
+2026-03-01 06:53:51,761  INFO     No unread messages.
+2026-03-01 06:54:21,763  INFO     Scanning for unread messages...
+2026-03-01 06:54:27,027  INFO     No unread messages.
+2026-03-01 06:54:57,029  INFO     Scanning for unread messages...
+2026-03-01 06:55:02,083  INFO     No unread messages.
+2026-03-01 06:55:32,086  INFO     Scanning for unread messages...
+2026-03-01 06:55:37,217  INFO     No unread messages.
+2026-03-01 06:56:07,220  INFO     Scanning for unread messages...
+2026-03-01 06:56:12,302  INFO     No unread messages.
+2026-03-01 06:56:42,304  INFO     Scanning for unread messages...
+2026-03-01 06:56:47,410  INFO     No unread messages.
+2026-03-01 06:57:17,413  INFO     Scanning for unread messages...
+2026-03-01 06:57:22,482  INFO     No unread messages.
+2026-03-01 06:57:52,484  INFO     Scanning for unread messages...
+2026-03-01 06:57:57,552  INFO     No unread messages.
+2026-03-01 06:58:27,554  INFO     Scanning for unread messages...
+2026-03-01 06:58:32,614  INFO     No unread messages.
+2026-03-01 06:59:02,616  INFO     Scanning for unread messages...
+2026-03-01 06:59:07,738  INFO     No unread messages.
+2026-03-01 06:59:37,740  INFO     Scanning for unread messages...
+2026-03-01 06:59:42,863  INFO     No unread messages.
+2026-03-01 07:00:12,867  INFO     Scanning for unread messages...
+2026-03-01 07:00:17,956  INFO     No unread messages.
+2026-03-01 07:00:47,958  INFO     Scanning for unread messages...
+2026-03-01 07:00:53,068  INFO     No unread messages.
+2026-03-01 07:01:23,073  INFO     Scanning for unread messages...
+2026-03-01 07:01:28,147  INFO     No unread messages.
+2026-03-01 07:01:58,149  INFO     Scanning for unread messages...
+2026-03-01 07:02:03,284  INFO     No unread messages.
+2026-03-01 07:02:33,286  INFO     Scanning for unread messages...
+2026-03-01 07:02:38,368  INFO     No unread messages.
+2026-03-01 07:03:08,370  INFO     Scanning for unread messages...
+2026-03-01 07:03:13,477  INFO     No unread messages.
+2026-03-01 07:03:43,479  INFO     Scanning for unread messages...
+2026-03-01 07:03:48,526  INFO     No unread messages.
+2026-03-01 07:04:18,528  INFO     Scanning for unread messages...
+2026-03-01 07:04:23,625  INFO     No unread messages.
+2026-03-01 07:04:53,627  INFO     Scanning for unread messages...
+2026-03-01 07:04:58,675  INFO     No unread messages.
+2026-03-01 07:05:28,678  INFO     Scanning for unread messages...
+2026-03-01 07:05:33,882  INFO     No unread messages.
+2026-03-01 07:06:03,894  INFO     Scanning for unread messages...
+2026-03-01 07:06:09,043  INFO     No unread messages.
+2026-03-01 07:06:39,048  INFO     Scanning for unread messages...
+2026-03-01 07:06:44,201  INFO     No unread messages.
+2026-03-01 07:07:14,203  INFO     Scanning for unread messages...
+2026-03-01 07:07:19,247  INFO     No unread messages.
+2026-03-01 07:07:49,249  INFO     Scanning for unread messages...
+2026-03-01 07:07:54,393  INFO     No unread messages.
+2026-03-01 07:08:24,398  INFO     Scanning for unread messages...
+2026-03-01 07:08:29,559  INFO     No unread messages.
+2026-03-01 07:08:59,561  INFO     Scanning for unread messages...
+2026-03-01 07:09:04,777  INFO     No unread messages.
+2026-03-01 07:09:34,782  INFO     Scanning for unread messages...
+2026-03-01 07:09:40,010  INFO     No unread messages.
+2026-03-01 07:10:10,018  INFO     Scanning for unread messages...
+2026-03-01 07:10:15,160  INFO     No unread messages.
+2026-03-01 07:10:45,165  INFO     Scanning for unread messages...
+2026-03-01 07:10:50,872  INFO     No unread messages.
+2026-03-01 07:11:20,876  INFO     Scanning for unread messages...
+2026-03-01 07:11:25,934  INFO     No unread messages.
+2026-03-01 07:11:55,937  INFO     Scanning for unread messages...
+2026-03-01 07:12:01,074  INFO     No unread messages.
+2026-03-01 07:12:31,079  INFO     Scanning for unread messages...
+2026-03-01 07:12:36,305  INFO     No unread messages.
+2026-03-01 07:13:06,308  INFO     Scanning for unread messages...
+2026-03-01 07:13:11,439  INFO     No unread messages.
+2026-03-01 07:13:41,442  INFO     Scanning for unread messages...
+2026-03-01 07:13:46,550  INFO     No unread messages.
+2026-03-01 07:14:16,553  INFO     Scanning for unread messages...
+2026-03-01 07:14:21,748  INFO     No unread messages.
+2026-03-01 07:14:51,758  INFO     Scanning for unread messages...
+2026-03-01 07:14:56,798  INFO     No unread messages.
+2026-03-01 07:15:26,799  INFO     Scanning for unread messages...
+2026-03-01 07:15:31,950  INFO     No unread messages.
+2026-03-01 07:16:01,957  INFO     Scanning for unread messages...
+2026-03-01 07:16:07,109  INFO     No unread messages.
+2026-03-01 07:16:37,112  INFO     Scanning for unread messages...
+2026-03-01 07:16:42,224  INFO     No unread messages.
+2026-03-01 07:17:12,228  INFO     Scanning for unread messages...
+2026-03-01 07:17:17,414  INFO     No unread messages.
+2026-03-01 07:17:47,416  INFO     Scanning for unread messages...
+2026-03-01 07:17:52,466  INFO     No unread messages.
+2026-03-01 07:18:22,469  INFO     Scanning for unread messages...
+2026-03-01 07:18:27,693  INFO     No unread messages.
+2026-03-01 07:18:57,695  INFO     Scanning for unread messages...
+2026-03-01 07:19:02,748  INFO     No unread messages.
+2026-03-01 07:19:32,750  INFO     Scanning for unread messages...
+2026-03-01 07:19:37,801  INFO     No unread messages.
+2026-03-01 07:20:07,804  INFO     Scanning for unread messages...
+2026-03-01 07:20:12,907  INFO     No unread messages.
+2026-03-01 07:20:42,911  INFO     Scanning for unread messages...
+2026-03-01 07:20:47,992  INFO     No unread messages.
+2026-03-01 07:21:17,995  INFO     Scanning for unread messages...
+2026-03-01 07:21:23,092  INFO     No unread messages.
+2026-03-01 07:21:53,096  INFO     Scanning for unread messages...
+2026-03-01 07:21:58,181  INFO     No unread messages.
+2026-03-01 07:22:28,185  INFO     Scanning for unread messages...
+2026-03-01 07:22:33,275  INFO     No unread messages.
+2026-03-01 07:23:03,277  INFO     Scanning for unread messages...
+2026-03-01 07:23:08,412  INFO     No unread messages.
+2026-03-01 07:23:38,419  INFO     Scanning for unread messages...
+2026-03-01 07:23:43,524  INFO     No unread messages.
+2026-03-01 07:24:13,529  INFO     Scanning for unread messages...
+2026-03-01 07:24:18,680  INFO     No unread messages.
+2026-03-01 07:24:48,683  INFO     Scanning for unread messages...
+2026-03-01 07:24:53,814  INFO     No unread messages.
+2026-03-01 07:25:23,817  INFO     Scanning for unread messages...
+2026-03-01 07:25:28,892  INFO     No unread messages.
+2026-03-01 07:25:58,894  INFO     Scanning for unread messages...
+2026-03-01 07:26:04,066  INFO     No unread messages.
+2026-03-01 07:26:34,069  INFO     Scanning for unread messages...
+2026-03-01 07:26:39,116  INFO     No unread messages.
+2026-03-01 07:27:09,119  INFO     Scanning for unread messages...
+2026-03-01 07:27:14,415  INFO     No unread messages.
+2026-03-01 07:27:44,420  INFO     Scanning for unread messages...
+2026-03-01 07:27:49,577  INFO     No unread messages.
+2026-03-01 07:28:19,582  INFO     Scanning for unread messages...
+2026-03-01 07:28:24,689  INFO     No unread messages.
+2026-03-01 07:28:54,692  INFO     Scanning for unread messages...
+2026-03-01 07:28:59,783  INFO     No unread messages.
+2026-03-01 07:29:29,790  INFO     Scanning for unread messages...
+2026-03-01 07:29:34,882  INFO     No unread messages.
+2026-03-01 07:30:04,884  INFO     Scanning for unread messages...
+2026-03-01 07:30:09,965  INFO     No unread messages.
+2026-03-01 07:30:39,968  INFO     Scanning for unread messages...
+2026-03-01 07:30:47,322  INFO     No unread messages.
+2026-03-01 07:31:17,331  INFO     Scanning for unread messages...
+2026-03-01 07:31:22,508  INFO     No unread messages.
+2026-03-01 07:31:52,512  INFO     Scanning for unread messages...
+2026-03-01 07:31:57,654  INFO     No unread messages.
+2026-03-01 07:32:27,662  INFO     Scanning for unread messages...
+2026-03-01 07:32:32,855  INFO     No unread messages.
+2026-03-01 07:33:02,860  INFO     Scanning for unread messages...
+2026-03-01 07:33:08,060  INFO     No unread messages.
+2026-03-01 07:33:38,063  INFO     Scanning for unread messages...
+2026-03-01 07:33:43,184  INFO     No unread messages.
+2026-03-01 07:34:13,189  INFO     Scanning for unread messages...
+2026-03-01 07:34:19,188  INFO     No unread messages.
+2026-03-01 07:34:49,191  INFO     Scanning for unread messages...
+2026-03-01 07:34:54,305  INFO     No unread messages.
+2026-03-01 07:35:24,397  INFO     Scanning for unread messages...
+2026-03-01 07:35:29,683  INFO     No unread messages.
+2026-03-01 07:35:59,686  INFO     Scanning for unread messages...
+2026-03-01 07:36:04,836  INFO     No unread messages.
+2026-03-01 07:36:34,842  INFO     Scanning for unread messages...
+2026-03-01 07:36:39,927  INFO     No unread messages.
+2026-03-01 07:37:09,930  INFO     Scanning for unread messages...
+2026-03-01 07:37:15,117  INFO     No unread messages.
+2026-03-01 07:37:45,120  INFO     Scanning for unread messages...
+2026-03-01 07:37:50,198  INFO     No unread messages.
+2026-03-01 07:38:20,201  INFO     Scanning for unread messages...
+2026-03-01 07:38:25,258  INFO     No unread messages.
+2026-03-01 07:38:55,262  INFO     Scanning for unread messages...
+2026-03-01 07:39:00,347  INFO     No unread messages.
+2026-03-01 07:39:30,350  INFO     Scanning for unread messages...
+2026-03-01 07:39:35,526  INFO     No unread messages.
+2026-03-01 07:40:05,537  INFO     Scanning for unread messages...
+2026-03-01 07:40:10,653  INFO     No unread messages.
+2026-03-01 07:40:40,656  INFO     Scanning for unread messages...
+2026-03-01 07:40:45,838  INFO     No unread messages.
+2026-03-01 07:41:15,845  INFO     Scanning for unread messages...
+2026-03-01 07:41:20,990  INFO     No unread messages.
+2026-03-01 07:41:50,995  INFO     Scanning for unread messages...
+2026-03-01 07:41:56,069  INFO     No unread messages.
+2026-03-01 07:42:26,074  INFO     Scanning for unread messages...
+2026-03-01 07:42:31,223  INFO     No unread messages.
+2026-03-01 07:43:01,238  INFO     Scanning for unread messages...
+2026-03-01 07:43:06,383  INFO     No unread messages.
+2026-03-01 07:43:36,388  INFO     Scanning for unread messages...
+2026-03-01 07:43:41,518  INFO     No unread messages.
+2026-03-01 07:44:11,522  INFO     Scanning for unread messages...
+2026-03-01 07:44:16,671  INFO     No unread messages.
+2026-03-01 07:44:46,679  INFO     Scanning for unread messages...
+2026-03-01 15:54:20,964  INFO     No unread messages.
+2026-03-01 15:54:51,141  INFO     Scanning for unread messages...
+2026-03-01 15:54:56,466  INFO     No unread messages.
+2026-03-01 15:55:29,059  INFO     Scanning for unread messages...
+2026-03-01 15:55:34,118  INFO     No unread messages.
+2026-03-01 15:56:04,120  INFO     Scanning for unread messages...
+2026-03-01 15:56:09,218  INFO     No unread messages.
+2026-03-01 15:56:39,221  INFO     Scanning for unread messages...
+2026-03-01 15:56:44,305  INFO     No unread messages.
+2026-03-01 15:57:14,313  INFO     Scanning for unread messages...
+2026-03-01 15:57:19,378  INFO     No unread messages.
+2026-03-01 15:57:26,474  INFO     Stopped by user.
+2026-03-01 15:57:27,204  ERROR    Task was destroyed but it is pending!
+task: <Task pending name='Task-959' coro=<BrowserContext.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:584> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-01 15:57:32,549  INFO     Browser opened with persistent profile.
+2026-03-01 15:57:40,065  INFO     Waiting for login... 5/40s
+2026-03-01 15:57:47,548  INFO     Waiting for login... 10/40s
+2026-03-01 15:57:52,852  INFO     Logged in from saved profile.
+2026-03-01 15:57:53,012  INFO     WhatsApp ready.
+2026-03-01 15:57:53,012  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 15:57:53,013  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 15:57:53,013  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 15:57:53,019  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 15:57:53,020  INFO     Scanning for unread messages...
+2026-03-01 15:57:58,103  INFO     No unread messages.
+2026-03-01 15:58:28,111  INFO     Scanning for unread messages...
+2026-03-01 15:58:33,191  INFO     No unread messages.
+2026-03-01 15:59:03,196  INFO     Scanning for unread messages...
+2026-03-01 15:59:08,638  INFO     No unread messages.
+2026-03-01 15:59:38,809  INFO     Scanning for unread messages...
+2026-03-01 15:59:43,900  INFO     No unread messages.
+2026-03-01 16:00:13,902  INFO     Scanning for unread messages...
+2026-03-01 16:00:19,040  INFO     No unread messages.
+2026-03-01 16:00:49,043  INFO     Scanning for unread messages...
+2026-03-01 16:00:54,188  INFO     No unread messages.
+2026-03-01 16:01:24,209  INFO     Scanning for unread messages...
+2026-03-01 16:01:29,319  INFO     No unread messages.
+2026-03-01 16:01:59,328  INFO     Scanning for unread messages...
+2026-03-01 16:02:04,404  INFO     No unread messages.
+2026-03-01 16:02:34,407  INFO     Scanning for unread messages...
+2026-03-01 16:02:39,507  INFO     No unread messages.
+2026-03-01 16:03:09,511  INFO     Scanning for unread messages...
+2026-03-01 16:03:14,766  INFO     No unread messages.
+2026-03-01 16:03:44,773  INFO     Scanning for unread messages...
+2026-03-01 16:03:49,940  INFO     No unread messages.
+2026-03-01 16:04:19,944  INFO     Scanning for unread messages...
+2026-03-01 16:04:24,995  INFO     No unread messages.
+2026-03-01 16:04:54,998  INFO     Scanning for unread messages...
+2026-03-01 16:05:00,153  INFO     No unread messages.
+2026-03-01 16:05:30,156  INFO     Scanning for unread messages...
+2026-03-01 16:05:35,258  INFO     No unread messages.
+2026-03-01 16:06:05,262  INFO     Scanning for unread messages...
+2026-03-01 16:06:10,353  INFO     No unread messages.
+2026-03-01 16:06:40,359  INFO     Scanning for unread messages...
+2026-03-01 16:06:45,455  INFO     No unread messages.
+2026-03-01 16:07:15,457  INFO     Scanning for unread messages...
+2026-03-01 16:07:20,587  INFO     No unread messages.
+2026-03-01 16:07:50,592  INFO     Scanning for unread messages...
+2026-03-01 16:07:55,643  INFO     No unread messages.
+2026-03-01 16:08:25,644  INFO     Scanning for unread messages...
+2026-03-01 16:08:30,743  INFO     No unread messages.
+2026-03-01 16:09:00,746  INFO     Scanning for unread messages...
+2026-03-01 16:09:05,844  INFO     No unread messages.
+2026-03-01 16:09:35,846  INFO     Scanning for unread messages...
+2026-03-01 16:09:40,932  INFO     No unread messages.
+2026-03-01 16:10:10,935  INFO     Scanning for unread messages...
+2026-03-01 16:10:16,064  INFO     No unread messages.
+2026-03-01 16:10:25,847  INFO     Stopped by user.
+2026-03-01 16:10:40,908  INFO     Browser opened with persistent profile.
+2026-03-01 16:10:49,465  INFO     Browser closed. Profile saved.
+2026-03-01 16:11:10,092  INFO     Browser opened with persistent profile.
+2026-03-01 16:11:29,778  INFO     Waiting for login... 5/40s
+2026-03-01 16:11:37,757  INFO     Waiting for login... 10/40s
+2026-03-01 16:11:43,297  INFO     Logged in from saved profile.
+2026-03-01 16:11:43,297  INFO     WhatsApp ready.
+2026-03-01 16:11:43,298  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 16:11:43,298  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 16:11:43,299  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 16:11:43,299  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 16:11:43,299  INFO     Scanning for unread messages...
+2026-03-01 16:11:48,540  INFO     DEBUG unread scan:
+badges found: 24
+  badge 0: tag=SPAN aria=35 unread messages testid=null text=35
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=63 unread messages testid=null text=63
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=57 unread messages testid=null text=57
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=198 unread messages testid=null text=198
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=20 unread messages testid=null text=20
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=58 unread messages testid=null text=58
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=92 unread messages testid=null text=92
+    parent: role=row testid=null
+  badge 9: tag=SPAN aria=17 unread messages testid=null text=17
+    parent: role=row testid=null
+  badge 10: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 11: tag=SPAN aria=34 unread messages testid=null text=34
+    parent: role=row testid=null
+  badge 12: tag=SPAN aria=5 unread messages testid=null text=5
+    parent: role=row testid=null
+  badge 13: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 14: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 15: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 16: tag=SPAN aria=18 unread messages testid=null text=18
+    parent: role=row testid=null
+  badge 17: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 18: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 19: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 20: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 21: tag=SPAN aria=123 unread messages testid=null text=123
+    parent: role=row testid=null
+  badge 22: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 23: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 68
+green badge spans: 0
+2026-03-01 16:11:48,771  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (23 chats)
+2026-03-01 16:11:55,189  INFO     Created default ai_system_prompt.txt — edit it to customize AI behavior.
+2026-03-01 16:11:55,194  INFO     Asking Groq for reply to Business Account (model: llama-3.1-8b-instant)...
+2026-03-01 16:11:57,297  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:11:57,355  INFO     AI reply for Business Account: Kyon Rimsha Sister? Kya problem hai?
+2026-03-01 16:11:57,359  INFO     AI replying to Rimsha Sister 😊: Kyon Rimsha Sister? Kya problem hai?
+2026-03-01 16:12:01,737  INFO     AI reply sent to Rimsha Sister 😊
+2026-03-01 16:12:01,743  INFO     Task created: whatsapp_in_20260301_161201_Rimsha_Sister__.md (AI replied: True)
+2026-03-01 16:12:07,782  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:12:08,282  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:12:08,701  INFO     AI reply for click here for group info: Kya help chahiye? TLP PS 104 UC 3 se related koi issue ho?
+2026-03-01 16:12:08,701  INFO     AI replying to TLP PS 104 UC 3🩵: Kya help chahiye? TLP PS 104 UC 3 se related koi issue ho?
+2026-03-01 16:12:18,711  ERROR    Failed to send AI reply to TLP PS 104 UC 3🩵: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab=\"10\"], div[contenteditable=\"true\"][title=\"Type a message\"]").first to be visible
+
+2026-03-01 16:12:18,717  INFO     Task created: whatsapp_in_20260301_161218_TLP_PS_104_UC_3_.md (AI replied: False)
+2026-03-01 16:12:21,482  INFO     Asking Groq for reply to click here for contact info (model: llama-3.1-8b-instant)...
+2026-03-01 16:12:23,296  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:12:23,309  INFO     AI reply for click here for contact info: Kia haal hai?
+2026-03-01 16:12:23,331  INFO     AI replying to Me: Kia haal hai?
+2026-03-01 16:12:27,412  INFO     AI reply sent to Me
+2026-03-01 16:12:27,417  INFO     Task created: whatsapp_in_20260301_161227_Me.md (AI replied: True)
+2026-03-01 16:12:33,350  INFO     Asking Groq for reply to Announcements (model: llama-3.1-8b-instant)...
+2026-03-01 16:12:34,548  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:12:34,557  INFO     AI reply for Announcements: Kya hai GIAIC? Mainne nahi suna. Main check karoonga aur phir aaoonga.
+2026-03-01 16:12:34,558  INFO     AI replying to GIAIC 02 AI/Spec-Driven Online Hackathon: Kya hai GIAIC? Mainne nahi suna. Main check karoonga aur phir aaoonga.
+2026-03-01 16:12:44,582  ERROR    Failed to send AI reply to GIAIC 02 AI/Spec-Driven Online Hackathon: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab=\"10\"], div[contenteditable=\"true\"][title=\"Type a message\"]").first to be visible
+
+2026-03-01 16:12:44,584  INFO     Task created: whatsapp_in_20260301_161244_GIAIC_02_AI_Spec-Driven_Online.md (AI replied: False)
+2026-03-01 16:12:47,826  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:12:48,965  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:12:48,969  INFO     AI reply for click here for group info: Kya students group ke liye koi specific cheez hai jo main help kar sakoon? Group ka name, subject ya
+2026-03-01 16:12:48,969  INFO     AI replying to Students group: Kya students group ke liye koi specific cheez hai jo main help kar sakoon? Group
+2026-03-01 16:12:55,774  INFO     AI reply sent to Students group
+2026-03-01 16:12:55,776  INFO     Task created: whatsapp_in_20260301_161255_Students_group.md (AI replied: True)
+2026-03-01 16:13:03,196  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:13:03,883  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:13:03,886  INFO     AI reply for click here for group info: General 3 ke students group ke liye koi specific cheez hai? Class 3 ke students ke liye notes, homew
+2026-03-01 16:13:03,895  INFO     AI replying to General 3: General 3 ke students group ke liye koi specific cheez hai? Class 3 ke students 
+2026-03-01 16:13:08,975  INFO     AI reply sent to General 3
+2026-03-01 16:13:08,977  INFO     Task created: whatsapp_in_20260301_161308_General_3.md (AI replied: True)
+2026-03-01 16:13:15,074  INFO     Asking Groq for reply to click here for contact info (model: llama-3.1-8b-instant)...
+2026-03-01 16:13:15,639  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:13:15,642  INFO     AI reply for click here for contact info: Tere 15D ka code hai kya?
+2026-03-01 16:13:15,642  INFO     AI replying to Zubair 15D: Tere 15D ka code hai kya?
+2026-03-01 16:13:19,580  INFO     AI reply sent to Zubair 15D
+2026-03-01 16:13:19,583  INFO     Task created: whatsapp_in_20260301_161319_Zubair_15D.md (AI replied: True)
+2026-03-01 16:13:25,965  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:13:26,643  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:13:26,724  INFO     AI reply for click here for group info: Z.A.M Islamic Status 01 ke students group ke liye study material, notes ya homework chahiye? Kya spe
+2026-03-01 16:13:26,732  INFO     AI replying to Z.A.M Islamic Status 01: Z.A.M Islamic Status 01 ke students group ke liye study material, notes ya homew
+2026-03-01 16:13:36,756  ERROR    Failed to send AI reply to Z.A.M Islamic Status 01: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab=\"10\"], div[contenteditable=\"true\"][title=\"Type a message\"]").first to be visible
+
+2026-03-01 16:13:36,802  INFO     Task created: whatsapp_in_20260301_161336_Z_A_M_Islamic_Status_01.md (AI replied: False)
+2026-03-01 16:13:43,391  INFO     Asking Groq for reply to click here for contact info (model: llama-3.1-8b-instant)...
+2026-03-01 16:13:43,881  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:13:43,886  INFO     AI reply for click here for contact info: Tum kahaan ho? Karachi ya Lahore?
+2026-03-01 16:13:43,888  INFO     AI replying to Irtaza SMIT: Tum kahaan ho? Karachi ya Lahore?
+2026-03-01 16:13:48,189  INFO     AI reply sent to Irtaza SMIT
+2026-03-01 16:13:48,193  INFO     Task created: whatsapp_in_20260301_161348_Irtaza_SMIT.md (AI replied: True)
+2026-03-01 16:13:55,103  INFO     Asking Groq for reply to Official WhatsApp account (model: llama-3.1-8b-instant)...
+2026-03-01 16:13:55,917  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:13:55,970  INFO     AI reply for Official WhatsApp account: Namaskar! Kaise ho aap?
+2026-03-01 16:13:55,980  INFO     AI replying to WhatsApp: Namaskar! Kaise ho aap?
+2026-03-01 16:14:06,004  ERROR    Failed to send AI reply to WhatsApp: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab=\"10\"], div[contenteditable=\"true\"][title=\"Type a message\"]").first to be visible
+
+2026-03-01 16:14:06,008  INFO     Task created: whatsapp_in_20260301_161406_WhatsApp.md (AI replied: False)
+2026-03-01 16:14:12,099  INFO     Asking Groq for reply to Announcements (model: llama-3.1-8b-instant)...
+2026-03-01 16:14:12,607  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:14:12,609  INFO     AI reply for Announcements: Ah! GIAIC Agentic AI Community hai, online hackathon ke liye ek platform. Kya tum usme participate k
+2026-03-01 16:14:12,609  INFO     AI replying to GIAIC Agentic AI Community: Ah! GIAIC Agentic AI Community hai, online hackathon ke liye ek platform. Kya tu
+2026-03-01 16:14:22,620  ERROR    Failed to send AI reply to GIAIC Agentic AI Community: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab=\"10\"], div[contenteditable=\"true\"][title=\"Type a message\"]").first to be visible
+
+2026-03-01 16:14:22,622  INFO     Task created: whatsapp_in_20260301_161422_GIAIC_Agentic_AI_Community.md (AI replied: False)
+2026-03-01 16:14:32,637  ERROR    Error on unread chat #12: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(12)
+
+2026-03-01 16:14:42,695  ERROR    Error on unread chat #13: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(13)
+
+2026-03-01 16:14:52,737  ERROR    Error on unread chat #14: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(14)
+
+2026-03-01 16:15:02,759  ERROR    Error on unread chat #15: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(15)
+
+2026-03-01 16:15:12,889  ERROR    Error on unread chat #16: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(16)
+
+2026-03-01 16:15:23,070  ERROR    Error on unread chat #17: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(17)
+
+2026-03-01 16:15:33,094  ERROR    Error on unread chat #18: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(18)
+
+2026-03-01 16:15:43,148  ERROR    Error on unread chat #19: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(19)
+
+2026-03-01 16:15:53,193  ERROR    Error on unread chat #20: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(20)
+
+2026-03-01 16:16:03,301  ERROR    Error on unread chat #21: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(21)
+
+2026-03-01 16:16:13,355  ERROR    Error on unread chat #22: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(22)
+
+2026-03-01 16:16:13,362  INFO     Scan done. 11 new message(s).
+2026-03-01 16:16:43,398  INFO     Scanning for unread messages...
+2026-03-01 16:16:48,459  INFO     DEBUG unread scan:
+badges found: 16
+  badge 0: tag=SPAN aria=26 unread messages testid=null text=26
+  badge 1: tag=SPAN aria=65 unread messages testid=null text=65
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=198 unread messages testid=null text=198
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=20 unread messages testid=null text=20
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=92 unread messages testid=null text=92
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=5 unread messages testid=null text=5
+    parent: role=row testid=null
+  badge 9: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 10: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 11: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 12: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 13: tag=SPAN aria=123 unread messages testid=null text=123
+    parent: role=row testid=null
+  badge 14: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 15: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 67
+green badge spans: 0
+2026-03-01 16:16:48,483  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (15 chats)
+2026-03-01 16:16:54,933  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:16:55,745  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:16:55,747  INFO     AI reply for click here for group info: Boys Discussion Group ke liye koi specific topic hai jo aap discuss karna chahte hain? Cricket, foot
+2026-03-01 16:16:55,748  INFO     AI replying to Boys Discussion Group : Boys Discussion Group ke liye koi specific topic hai jo aap discuss karna chahte
+2026-03-01 16:17:01,817  INFO     AI reply sent to Boys Discussion Group 
+2026-03-01 16:17:01,818  INFO     Task created: whatsapp_in_20260301_161701_Boys_Discussion_Group_.md (AI replied: True)
+2026-03-01 16:17:08,998  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:17:09,675  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:17:09,679  INFO     AI reply for click here for group info: Wow! Saturday Evening ke online hackathon ke liye kya project ideas hain? Tech aur innovation ke liy
+2026-03-01 16:17:09,680  INFO     AI replying to Saturday Evening AI/Spec-Driven Online Hackathon: Wow! Saturday Evening ke online hackathon ke liye kya project ideas hain? Tech a
+2026-03-01 16:17:15,159  INFO     AI reply sent to Saturday Evening AI/Spec-Driven Online Hackathon
+2026-03-01 16:17:15,160  INFO     Task created: whatsapp_in_20260301_161715_Saturday_Evening_AI_Spec-Drive.md (AI replied: True)
+2026-03-01 16:17:22,610  INFO     Asking Groq for reply to Announcements (model: llama-3.1-8b-instant)...
+2026-03-01 16:17:23,294  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:17:23,296  INFO     AI reply for Announcements: Naeem Codehub ka sahapecar tum ho? Tumhe kya chahiye? Main madad kar sakta hoon.
+2026-03-01 16:17:23,296  INFO     AI replying to NAEEM CODEHUB🇵🇰💻: Naeem Codehub ka sahapecar tum ho? Tumhe kya chahiye? Main madad kar sakta hoon.
+2026-03-01 16:17:33,315  ERROR    Failed to send AI reply to NAEEM CODEHUB🇵🇰💻: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab=\"10\"], div[contenteditable=\"true\"][title=\"Type a message\"]").first to be visible
+
+2026-03-01 16:17:33,322  INFO     Task created: whatsapp_in_20260301_161733_NAEEM_CODEHUB___.md (AI replied: False)
+2026-03-01 16:17:39,384  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:17:40,116  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:17:40,120  INFO     AI reply for click here for group info: Web & App batch 18 ke students ke liye discussion hai. Kya specific technical issue ya project relat
+2026-03-01 16:17:40,121  INFO     AI replying to Web&App batch 18 discussion: Web & App batch 18 ke students ke liye discussion hai. Kya specific technical is
+2026-03-01 16:17:46,517  INFO     AI reply sent to Web&App batch 18 discussion
+2026-03-01 16:17:46,520  INFO     Task created: whatsapp_in_20260301_161746_Web_App_batch_18_discussion.md (AI replied: True)
+2026-03-01 16:17:53,753  INFO     Asking Groq for reply to click here for group info (model: llama-3.1-8b-instant)...
+2026-03-01 16:18:03,801  INFO     Retrying request to /openai/v1/chat/completions in 0.449693 seconds
+2026-03-01 16:18:09,430  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:18:09,434  INFO     AI reply for click here for group info: IT Academy With Nida Rizwan boys group mein shamil hai. Kya Nida Rizwan ka koi specific lecture ya t
+2026-03-01 16:18:09,434  INFO     AI replying to IT Academy With Nida Rizwan (Boys): IT Academy With Nida Rizwan boys group mein shamil hai. Kya Nida Rizwan ka koi s
+2026-03-01 16:18:16,042  INFO     AI reply sent to IT Academy With Nida Rizwan (Boys)
+2026-03-01 16:18:16,043  INFO     Task created: whatsapp_in_20260301_161816_IT_Academy_With_Nida_Rizwan__B.md (AI replied: True)
+2026-03-01 16:18:22,722  INFO     Asking Groq for reply to click here for contact info (model: llama-3.1-8b-instant)...
+2026-03-01 16:18:23,263  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:18:23,265  INFO     AI reply for click here for contact info: Abhi tum kahan ho?
+2026-03-01 16:18:23,266  INFO     AI replying to Ayaan Ahtakaf: Abhi tum kahan ho?
+2026-03-01 16:18:27,243  INFO     AI reply sent to Ayaan Ahtakaf
+2026-03-01 16:18:27,246  INFO     Task created: whatsapp_in_20260301_161827_Ayaan_Ahtakaf.md (AI replied: True)
+2026-03-01 16:18:34,095  INFO     Asking Groq for reply to Business Account (model: llama-3.1-8b-instant)...
+2026-03-01 16:18:34,604  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 16:18:34,608  INFO     AI reply for Business Account: Kya issue hai printer ka? Printing nahi ho raha hai ya kuch aur?
+2026-03-01 16:18:34,609  INFO     AI replying to Printer: Kya issue hai printer ka? Printing nahi ho raha hai ya kuch aur?
+2026-03-01 16:18:40,204  INFO     AI reply sent to Printer
+2026-03-01 16:18:40,212  INFO     Task created: whatsapp_in_20260301_161840_Printer.md (AI replied: True)
+2026-03-01 16:18:50,270  ERROR    Error on unread chat #9: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(9)
+
+2026-03-01 16:19:00,350  ERROR    Error on unread chat #10: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(10)
+
+2026-03-01 16:19:10,444  ERROR    Error on unread chat #11: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(11)
+
+2026-03-01 16:19:20,534  ERROR    Error on unread chat #12: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(12)
+
+2026-03-01 16:19:30,597  ERROR    Error on unread chat #13: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(13)
+
+2026-03-01 16:19:40,615  ERROR    Error on unread chat #14: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(14)
+
+2026-03-01 16:19:40,616  INFO     Scan done. 7 new message(s).
+2026-03-01 16:19:57,231  INFO     Stopped by user.
+2026-03-01 16:58:35,644  INFO     Browser opened with persistent profile.
+2026-03-01 16:58:50,889  INFO     Waiting for login... 5/40s
+2026-03-01 16:58:56,322  INFO     Waiting for login... 10/40s
+2026-03-01 16:59:02,116  INFO     Logged in from saved profile.
+2026-03-01 16:59:02,117  INFO     WhatsApp ready.
+2026-03-01 16:59:02,118  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 16:59:02,122  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 16:59:02,123  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 16:59:02,123  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 16:59:02,225  INFO     Scanning for unread messages...
+2026-03-01 16:59:07,395  INFO     DEBUG unread scan:
+badges found: 6
+  badge 0: tag=SPAN aria=21 unread messages testid=null text=21
+  badge 1: tag=SPAN aria=10 unread messages testid=null text=10
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=92 unread messages testid=null text=92
+    parent: role=row testid=null
+listitem count: 0
+row count: 68
+green badge spans: 0
+2026-03-01 16:59:07,439  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (5 chats)
+2026-03-01 16:59:19,395  INFO     SKIPPED AI reply for Hamza Bantwa SMIT Web (not in whitelist)
+2026-03-01 16:59:19,404  INFO     Task created: whatsapp_in_20260301_165919_Hamza_Bantwa_SMIT_Web.md (AI replied: False)
+2026-03-01 16:59:21,440  INFO     Scan done. 1 new message(s).
+2026-03-01 16:59:51,447  INFO     Scanning for unread messages...
+2026-03-01 16:59:56,626  INFO     DEBUG unread scan:
+badges found: 13
+  badge 0: tag=SPAN aria=22 unread messages testid=null text=22
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=92 unread messages testid=null text=92
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=5 unread messages testid=null text=5
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 9: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 10: tag=SPAN aria=123 unread messages testid=null text=123
+    parent: role=row testid=null
+  badge 11: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 12: tag=SPAN aria=1 unread message testid=null text=1
+listitem count: 0
+row count: 93
+green badge spans: 0
+2026-03-01 16:59:56,673  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (11 chats)
+2026-03-01 17:00:03,149  INFO     SKIPPED AI reply for IT academy with Nida Rizwan Freelancing knowledge 🖥️ (not in whitelist)
+2026-03-01 17:00:03,152  INFO     Task created: whatsapp_in_20260301_170003_IT_academy_with_Nida_Rizwan_Fr.md (AI replied: False)
+2026-03-01 17:00:09,316  INFO     SKIPPED AI reply for Abdullah Group (not in whitelist)
+2026-03-01 17:00:09,320  INFO     Task created: whatsapp_in_20260301_170009_Abdullah_Group.md (AI replied: False)
+2026-03-01 17:00:19,342  ERROR    Error on unread chat #8: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(8)
+
+2026-03-01 17:00:29,383  ERROR    Error on unread chat #9: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(9)
+
+2026-03-01 17:00:39,427  ERROR    Error on unread chat #10: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(10)
+
+2026-03-01 17:00:39,433  INFO     Scan done. 2 new message(s).
+2026-03-01 17:01:09,444  INFO     Scanning for unread messages...
+2026-03-01 17:01:14,616  INFO     DEBUG unread scan:
+badges found: 9
+  badge 0: tag=SPAN aria=21 unread messages testid=null text=21
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=5 unread messages testid=null text=5
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=123 unread messages testid=null text=123
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=14 unread messages testid=null text=14
+    parent: role=row testid=null
+listitem count: 0
+row count: 90
+green badge spans: 0
+2026-03-01 17:01:14,654  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (8 chats)
+2026-03-01 17:01:20,507  INFO     SKIPPED AI reply for Aghanova  💻 📚 (not in whitelist)
+2026-03-01 17:01:20,514  INFO     Task created: whatsapp_in_20260301_170120_Aghanova_____.md (AI replied: False)
+2026-03-01 17:01:26,144  INFO     SKIPPED AI reply for Karachi Weather Updates (not in whitelist)
+2026-03-01 17:01:26,149  INFO     Task created: whatsapp_in_20260301_170126_Karachi_Weather_Updates.md (AI replied: False)
+2026-03-01 17:01:26,157  INFO     Scan done. 2 new message(s).
+2026-03-01 17:01:56,160  INFO     Scanning for unread messages...
+2026-03-01 17:02:01,203  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=18 unread messages testid=null text=18
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=14 unread messages testid=null text=14
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 86
+green badge spans: 0
+2026-03-01 17:02:01,242  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:02:07,631  INFO     SKIPPED AI reply for Hassan Raza FRA (not in whitelist)
+2026-03-01 17:02:07,633  INFO     Task created: whatsapp_in_20260301_170207_Hassan_Raza_FRA.md (AI replied: False)
+2026-03-01 17:02:13,228  INFO     SKIPPED AI reply for Volunteers for Grand Entry Test 🎗️ (not in whitelist)
+2026-03-01 17:02:13,236  INFO     Task created: whatsapp_in_20260301_170213_Volunteers_for_Grand_Entry_Tes.md (AI replied: False)
+2026-03-01 17:02:19,542  INFO     SKIPPED AI reply for نصیحت آموز پوسٹ1️⃣ (not in whitelist)
+2026-03-01 17:02:19,548  INFO     Task created: whatsapp_in_20260301_170219_نصیحت_آموز_پوسٹ1__.md (AI replied: False)
+2026-03-01 17:02:29,614  ERROR    Error on unread chat #4: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(4)
+
+2026-03-01 17:02:39,670  ERROR    Error on unread chat #5: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(5)
+
+2026-03-01 17:02:39,677  INFO     Scan done. 3 new message(s).
+2026-03-01 17:03:09,681  INFO     Scanning for unread messages...
+2026-03-01 17:03:14,907  INFO     DEBUG unread scan:
+badges found: 5
+  badge 0: tag=SPAN aria=15 unread messages testid=null text=15
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 69
+green badge spans: 0
+2026-03-01 17:03:14,962  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (4 chats)
+2026-03-01 17:03:20,682  INFO     SKIPPED AI reply for Sanaullah Khan (not in whitelist)
+2026-03-01 17:03:20,693  INFO     Task created: whatsapp_in_20260301_170320_Sanaullah_Khan.md (AI replied: False)
+2026-03-01 17:03:26,561  INFO     SKIPPED AI reply for A.K All Stickers group 01 (not in whitelist)
+2026-03-01 17:03:26,565  INFO     Task created: whatsapp_in_20260301_170326_A_K_All_Stickers_group_01.md (AI replied: False)
+2026-03-01 17:03:36,608  ERROR    Error on unread chat #2: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(2)
+
+2026-03-01 17:03:46,650  ERROR    Error on unread chat #3: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(3)
+
+2026-03-01 17:03:46,654  INFO     Scan done. 2 new message(s).
+2026-03-01 17:04:16,656  INFO     Scanning for unread messages...
+2026-03-01 17:04:21,735  INFO     DEBUG unread scan:
+badges found: 2
+  badge 0: tag=SPAN aria=13 unread messages testid=null text=13
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 72
+green badge spans: 0
+2026-03-01 17:04:21,776  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (1 chats)
+2026-03-01 17:04:27,977  INFO     SKIPPED AI reply for ustad sufiyan (not in whitelist)
+2026-03-01 17:04:27,979  INFO     Task created: whatsapp_in_20260301_170427_ustad_sufiyan.md (AI replied: False)
+2026-03-01 17:04:27,982  INFO     Scan done. 1 new message(s).
+2026-03-01 17:04:57,984  INFO     Scanning for unread messages...
+2026-03-01 17:05:03,085  INFO     DEBUG unread scan:
+badges found: 1
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:05:03,165  INFO     No unread messages detected (tried 10 selectors).
+2026-03-01 17:05:33,168  INFO     Scanning for unread messages...
+2026-03-01 17:05:38,273  INFO     DEBUG unread scan:
+badges found: 1
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:05:38,364  INFO     No unread messages detected (tried 10 selectors).
+2026-03-01 17:06:08,369  INFO     Scanning for unread messages...
+2026-03-01 17:06:13,448  INFO     DEBUG unread scan:
+badges found: 1
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:06:13,532  INFO     No unread messages detected (tried 10 selectors).
+2026-03-01 17:06:43,536  INFO     Scanning for unread messages...
+2026-03-01 17:06:48,593  INFO     DEBUG unread scan:
+badges found: 1
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:06:48,728  INFO     No unread messages detected (tried 10 selectors).
+2026-03-01 17:07:18,730  INFO     Scanning for unread messages...
+2026-03-01 17:07:23,827  INFO     DEBUG unread scan:
+badges found: 1
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:07:24,047  INFO     No unread messages detected (tried 10 selectors).
+2026-03-01 17:07:54,051  INFO     Scanning for unread messages...
+2026-03-01 17:07:59,134  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:07:59,173  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:07:59,346  INFO     Scan done. 0 new message(s).
+2026-03-01 17:08:29,401  INFO     Scanning for unread messages...
+2026-03-01 17:08:35,066  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:08:35,146  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:08:35,402  INFO     Scan done. 0 new message(s).
+2026-03-01 17:09:05,404  INFO     Scanning for unread messages...
+2026-03-01 17:09:10,473  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:09:10,508  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:09:10,667  INFO     Scan done. 0 new message(s).
+2026-03-01 17:09:40,674  INFO     Scanning for unread messages...
+2026-03-01 17:09:45,727  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:09:45,753  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:09:45,860  INFO     Scan done. 0 new message(s).
+2026-03-01 17:10:15,861  INFO     Scanning for unread messages...
+2026-03-01 17:10:20,961  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:10:20,996  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:10:21,114  INFO     Scan done. 0 new message(s).
+2026-03-01 17:10:51,115  INFO     Scanning for unread messages...
+2026-03-01 17:10:56,166  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 94
+green badge spans: 0
+2026-03-01 17:10:56,200  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:10:56,324  INFO     Scan done. 0 new message(s).
+2026-03-01 17:11:24,527  INFO     Stopped by user.
+2026-03-01 17:11:25,513  ERROR    Task was destroyed but it is pending!
+task: <Task pending name='Task-372' coro=<BrowserContext.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:584> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-01 17:11:40,942  INFO     Browser opened with persistent profile.
+2026-03-01 17:11:54,353  INFO     Waiting for login... 5/40s
+2026-03-01 17:12:03,354  INFO     Waiting for login... 10/40s
+2026-03-01 17:12:08,906  INFO     Logged in from saved profile.
+2026-03-01 17:12:09,143  INFO     WhatsApp ready.
+2026-03-01 17:12:09,259  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 17:12:09,272  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 17:12:09,272  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 17:12:09,273  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 17:12:09,275  INFO     Scanning for unread messages...
+2026-03-01 17:12:14,357  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 68
+green badge spans: 0
+2026-03-01 17:12:14,400  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:12:14,597  INFO     Scan done. 0 new message(s).
+2026-03-01 17:12:14,598  INFO     Checking self-chat for new messages...
+2026-03-01 17:12:24,661  ERROR    Could not open self-chat '03278448829': Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"], [title=\"Search or start new chat\"], button[aria-label=\"Search or start new chat\"]").first
+
+2026-03-01 17:12:54,674  INFO     Scanning for unread messages...
+2026-03-01 17:12:59,802  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 67
+green badge spans: 0
+2026-03-01 17:12:59,841  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:12:59,963  INFO     Scan done. 0 new message(s).
+2026-03-01 17:12:59,963  INFO     Checking self-chat for new messages...
+2026-03-01 17:13:09,972  ERROR    Could not open self-chat '03278448829': Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"], [title=\"Search or start new chat\"], button[aria-label=\"Search or start new chat\"]").first
+
+2026-03-01 17:13:39,979  INFO     Scanning for unread messages...
+2026-03-01 17:13:45,125  INFO     DEBUG unread scan:
+badges found: 7
+  badge 0: tag=SPAN aria=12 unread messages testid=null text=12
+  badge 1: tag=SPAN aria=3 unread messages testid=null text=3
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 67
+green badge spans: 0
+2026-03-01 17:13:45,217  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (6 chats)
+2026-03-01 17:13:45,369  INFO     Scan done. 0 new message(s).
+2026-03-01 17:13:45,370  INFO     Checking self-chat for new messages...
+2026-03-01 17:13:55,409  ERROR    Could not open self-chat '03278448829': Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"], [title=\"Search or start new chat\"], button[aria-label=\"Search or start new chat\"]").first
+
+2026-03-01 17:14:25,411  INFO     Scanning for unread messages...
+2026-03-01 17:14:30,453  INFO     Stopped by user.
+2026-03-01 18:20:19,422  INFO     Browser opened with persistent profile.
+2026-03-01 18:20:30,346  INFO     Waiting for login... 5/40s
+2026-03-01 18:20:35,693  INFO     Logged in from saved profile.
+2026-03-01 18:20:35,701  INFO     WhatsApp ready.
+2026-03-01 18:20:35,702  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 18:20:35,703  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 18:20:35,704  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 18:20:35,705  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 18:20:35,706  INFO     Scanning for unread messages...
+2026-03-01 18:20:40,759  INFO     DEBUG unread scan:
+badges found: 11
+  badge 0: tag=SPAN aria=16 unread messages testid=null text=16
+  badge 1: tag=SPAN aria=5 unread messages testid=null text=5
+    parent: role=listitem testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=6 unread messages testid=null text=6
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 9: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 10: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 4
+row count: 68
+green badge spans: 0
+2026-03-01 18:20:40,879  INFO     Unread matched: div[role="listitem"]:has(span[aria-label*="unread message"]) (1 chats)
+2026-03-01 18:20:50,968  ERROR    Error on unread chat #0: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"listitem\"]:has(span[aria-label*=\"unread message\"])").first
+
+2026-03-01 18:20:50,983  INFO     Scan done. 0 new message(s).
+2026-03-01 18:20:50,994  INFO     Checking self-chat for new messages...
+2026-03-01 18:21:01,005  ERROR    Could not open self-chat 'Shayan meo': Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"], [title=\"Search or start new chat\"], button[aria-label=\"Search or start new chat\"]").first
+
+2026-03-01 18:21:31,007  INFO     Scanning for unread messages...
+2026-03-01 18:21:36,158  INFO     DEBUG unread scan:
+badges found: 11
+  badge 0: tag=SPAN aria=16 unread messages testid=null text=16
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=6 unread messages testid=null text=6
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 9: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 10: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 86
+green badge spans: 0
+2026-03-01 18:21:36,305  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (10 chats)
+2026-03-01 18:21:42,377  INFO     SKIPPED AI reply for Friend Group (not in whitelist)
+2026-03-01 18:21:42,386  INFO     Task created: whatsapp_in_20260301_182142_Friend_Group.md (AI replied: False)
+2026-03-01 18:21:52,891  ERROR    Error on unread chat #9: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(9)
+
+2026-03-01 18:21:52,896  INFO     Scan done. 1 new message(s).
+2026-03-01 18:21:52,898  INFO     Checking self-chat for new messages...
+2026-03-01 18:22:02,908  ERROR    Could not open self-chat 'Shayan meo': Locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"], [title=\"Search or start new chat\"], button[aria-label=\"Search or start new chat\"]").first
+
+2026-03-01 18:22:32,913  INFO     Scanning for unread messages...
+2026-03-01 18:22:38,096  INFO     DEBUG unread scan:
+badges found: 10
+  badge 0: tag=SPAN aria=15 unread messages testid=null text=15
+  badge 1: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 2: tag=SPAN aria=6 unread messages testid=null text=6
+    parent: role=row testid=null
+  badge 3: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 4: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 5: tag=SPAN aria=2 unread messages testid=null text=2
+    parent: role=row testid=null
+  badge 6: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 7: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 8: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+  badge 9: tag=SPAN aria=1 unread message testid=null text=1
+    parent: role=row testid=null
+listitem count: 0
+row count: 72
+green badge spans: 0
+2026-03-01 18:22:38,196  INFO     Unread matched: div[role="row"]:has(span[aria-label*="unread message"]) (9 chats)
+2026-03-01 18:22:46,694  INFO     SKIPPED AI reply for Abdul Ahad HBL (not in whitelist)
+2026-03-01 18:22:46,696  INFO     Task created: whatsapp_in_20260301_182246_Abdul_Ahad_HBL.md (AI replied: False)
+2026-03-01 18:22:56,948  ERROR    Error on unread chat #8: Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]:has(span[aria-label*=\"unread message\"])").nth(8)
+
+2026-03-01 18:22:56,950  INFO     Scan done. 1 new message(s).
+2026-03-01 18:22:56,950  INFO     Checking self-chat for new messages...
+2026-03-01 18:22:58,356  INFO     Stopped by user.
+2026-03-01 19:30:28,679  INFO     Browser opened with persistent profile.
+2026-03-01 19:30:40,274  INFO     Waiting for login... 5/40s
+2026-03-01 19:30:46,047  INFO     Waiting for login... 10/40s
+2026-03-01 19:30:51,961  INFO     Logged in from saved profile.
+2026-03-01 19:30:52,008  INFO     WhatsApp ready.
+2026-03-01 19:30:52,027  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 19:30:52,078  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 19:30:52,108  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 19:30:52,119  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 19:30:52,119  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:31:33,165  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:31:37,220  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:31:58,060  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:32:00,105  INFO     Self-chat: no messages visible.
+2026-03-01 19:32:30,125  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:33:09,541  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:33:13,634  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:33:34,538  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:33:36,584  INFO     Self-chat: no messages visible.
+2026-03-01 19:34:06,587  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:34:45,345  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:34:49,426  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:35:10,609  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:35:12,696  INFO     Self-chat: no messages visible.
+2026-03-01 19:35:42,707  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:36:20,066  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:36:24,106  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:36:45,194  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:36:47,228  INFO     Self-chat: no messages visible.
+2026-03-01 19:37:13,249  INFO     Stopped by user.
+2026-03-01 19:37:14,185  ERROR    Task exception was never retrieved
+future: <Task finished name='Task-135' coro=<BrowserContext.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:584> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "D:\AI_Employee_Vault\whatsapp_playwright.py", line 909, in <module>
+    main()
+  File "D:\AI_Employee_Vault\whatsapp_playwright.py", line 905, in main
+    wa.close()
+  File "D:\AI_Employee_Vault\whatsapp_playwright.py", line 253, in close
+    self.ctx.close()
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\sync_api\_generated.py", line 13552, in close
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.close(reason=reason)))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py", line 113, in _sync
+    self._dispatcher_fiber.switch()
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\sync_api\_context_manager.py", line 56, in greenlet_main
+    self._loop.run_until_complete(self._connection.run_as_sync())
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\asyncio\base_events.py", line 706, in run_until_complete
+    self.run_forever()
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\asyncio\base_events.py", line 677, in run_forever
+    self._run_once()
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\asyncio\base_events.py", line 2046, in _run_once
+    handle._run()
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py", line 590, in close
+    await self.request.dispose(reason=reason)
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_fetch.py", line 114, in dispose
+    await self._channel.send("dispose", None, {"reason": reason})
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._object, method, _augment_params(params, timeout_calculator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 369, in _send_message_to_server
+    getattr(task, "__pw_stack_trace__", traceback.extract_stack(limit=10)),
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\traceback.py", line 262, in extract_stack
+    stack = StackSummary.extract(walk_stack(f), limit=limit)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\traceback.py", line 455, in extract
+    return klass._extract_from_extended_frame_gen(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        extended_frame_gen(), limit=limit, lookup_lines=lookup_lines,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        capture_locals=capture_locals)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\traceback.py", line 506, in _extract_from_extended_frame_gen
+    f.line
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\traceback.py", line 375, in line
+    self._set_lines()
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\traceback.py", line 353, in _set_lines
+    line = linecache.getline(self.filename, lineno).rstrip()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\linecache.py", line 26, in getline
+    lines = getlines(filename, module_globals)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\linecache.py", line 42, in getlines
+    return updatecache(filename, module_globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\linecache.py", line 188, in updatecache
+    with tokenize.open(fullname) as fp:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\tokenize.py", line 455, in open
+    buffer = _builtin_open(filename, 'rb')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2026-03-01 19:38:45,646  INFO     Browser opened with persistent profile.
+2026-03-01 19:38:48,385  INFO     Browser closed. Profile saved.
+2026-03-01 19:39:41,973  INFO     Browser opened with persistent profile.
+2026-03-01 19:39:52,173  INFO     Waiting for login... 5/40s
+2026-03-01 19:39:57,982  INFO     Logged in from saved profile.
+2026-03-01 19:39:58,001  INFO     WhatsApp ready.
+2026-03-01 19:39:58,083  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 19:39:58,153  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 19:39:58,199  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 19:39:58,240  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 19:39:58,273  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:40:37,635  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:40:41,679  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:41:02,481  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:41:04,515  INFO     Self-chat: no messages visible.
+2026-03-01 19:41:04,518  INFO     Sending to: 03278448829
+2026-03-01 19:41:20,381  ERROR    Timeout sending to 03278448829
+2026-03-01 19:41:21,257  INFO     Archived → Done/wa_20260301_194121_whatsapp_send_20260301_183000.md
+2026-03-01 19:41:51,260  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:42:30,308  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:42:34,354  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:42:54,843  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:42:56,891  INFO     Self-chat: no messages visible.
+2026-03-01 19:43:26,892  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:43:34,533  ERROR    Could not open self-chat: Page.goto: Target page, context or browser has been closed
+2026-03-01 19:43:38,016  INFO     Stopped by user.
+2026-03-01 19:46:20,674  INFO     Browser opened with persistent profile.
+2026-03-01 19:46:28,066  INFO     Waiting for login... 5/40s
+2026-03-01 19:46:33,188  INFO     Logged in from saved profile.
+2026-03-01 19:46:33,188  INFO     WhatsApp ready.
+2026-03-01 19:46:33,188  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 19:46:33,189  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 19:46:33,189  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 19:46:33,189  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 19:46:33,189  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:47:11,262  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:47:15,300  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:47:35,825  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:47:37,844  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:47:37,850  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:47:37,873  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:47:38,674  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:47:39,114  INFO     AI reply for self_chat: kya hua? ab kaisa hain?
+2026-03-01 19:47:44,145  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:47:51,129  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:47:53,149  INFO     Self-chat: AI REPLIED: kya hua? ab kaisa hain?
+2026-03-01 19:47:53,152  INFO     Sending to: 03278448829
+2026-03-01 19:48:34,085  ERROR    Compose box NOT found. Editable elements:
+
+2026-03-01 19:48:34,085  ERROR    Error sending to 03278448829: Could not find compose box
+2026-03-01 19:48:34,087  INFO     Archived → Done/wa_20260301_194834_whatsapp_send_20260301_193900.md
+2026-03-01 19:49:04,088  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:49:43,474  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:49:47,538  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:50:08,161  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:50:10,187  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:50:10,227  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:50:10,229  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:50:10,783  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:50:11,518  INFO     AI reply for self_chat: Kuch ni hua, main theek hoon. Ab kya hua tha jo double check karna tha?
+2026-03-01 19:50:16,541  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:50:25,172  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:50:27,180  INFO     Self-chat: AI REPLIED: Kuch ni hua, main theek hoon. Ab kya hua tha jo double check karna tha?
+2026-03-01 19:50:57,182  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:51:06,024  INFO     Self-chat opened via direct URL: Message yourself
+2026-03-01 19:51:06,134  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:51:06,162  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:51:06,168  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:51:06,670  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:51:06,672  INFO     AI reply for self_chat: Abhi cheak karta hoon. Kuch minute mein vapis aata hoon.
+2026-03-01 19:51:11,706  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:51:19,951  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:51:21,973  INFO     Self-chat: AI REPLIED: Abhi cheak karta hoon. Kuch minute mein vapis aata hoon.
+2026-03-01 19:51:51,975  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:52:00,578  INFO     Self-chat opened via direct URL: Message yourself
+2026-03-01 19:52:00,973  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:52:01,003  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:52:01,005  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:52:02,925  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:52:02,935  INFO     AI reply for self_chat: Abhi check ho raha hoon, zaroor aata hoon.
+2026-03-01 19:52:07,967  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:52:15,644  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:52:17,651  INFO     Self-chat: AI REPLIED: Abhi check ho raha hoon, zaroor aata hoon.
+2026-03-01 19:52:47,653  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:53:24,713  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:53:28,748  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:53:49,265  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:53:51,279  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:53:51,305  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:53:51,306  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:53:52,923  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:53:52,977  INFO     AI reply for self_chat: Ruk raha hoon. Abhi aata hoon.
+2026-03-01 19:53:58,016  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:54:05,249  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:54:07,258  INFO     Self-chat: AI REPLIED: Ruk raha hoon. Abhi aata hoon.
+2026-03-01 19:54:37,260  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:54:46,833  INFO     Self-chat opened via direct URL: Message yourself
+2026-03-01 19:54:47,082  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:54:47,110  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:54:47,126  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:54:47,721  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:54:47,724  INFO     AI reply for self_chat: Abhi vapis aata hoon, wait karo.
+2026-03-01 19:54:52,779  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:55:00,169  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:55:02,190  INFO     Self-chat: AI REPLIED: Abhi vapis aata hoon, wait karo.
+2026-03-01 19:55:32,192  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:55:40,500  INFO     Self-chat opened via direct URL: Message yourself
+2026-03-01 19:55:40,732  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:55:40,755  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:55:40,757  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:55:41,877  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:55:41,879  INFO     AI reply for self_chat: Check kar liya. Ab kya hua tha?
+2026-03-01 19:55:46,910  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:55:54,149  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:55:56,176  INFO     Self-chat: AI REPLIED: Check kar liya. Ab kya hua tha?
+2026-03-01 19:55:56,179  INFO     Sending to: 03232360891
+2026-03-01 19:56:36,815  ERROR    Compose box NOT found. Editable elements:
+
+2026-03-01 19:56:36,815  ERROR    Error sending to 03232360891: Could not find compose box
+2026-03-01 19:56:36,817  INFO     Archived → Done/wa_20260301_195636_whatsapp_send_20260301_194500.md
+2026-03-01 19:57:06,818  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 19:57:45,109  INFO     Search opened via: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:57:49,156  INFO     Search box found: div[contenteditable="true"][data-tab="3"]
+2026-03-01 19:58:09,567  INFO     Chat opened via: div[role="row"] span[title]
+2026-03-01 19:58:11,582  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 19:58:11,599  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 19:58:11,600  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 19:58:12,113  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 19:58:12,116  INFO     AI reply for self_chat: Kuch ni pata, kya cheak karna tha?
+2026-03-01 19:58:17,145  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 19:58:24,475  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 19:58:26,490  INFO     Self-chat: AI REPLIED: Kuch ni pata, kya cheak karna tha?
+2026-03-01 19:58:34,206  INFO     Stopped by user.
+2026-03-01 19:58:34,775  ERROR    Task was destroyed but it is pending!
+task: <Task pending name='Task-234' coro=<BrowserContext.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:584> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-01 19:58:38,574  ERROR    GROQ_API_KEY not set! Add it to .env: GROQ_API_KEY=gsk_...
+2026-03-01 20:06:34,552  INFO     Browser opened with persistent profile.
+2026-03-01 20:06:41,360  INFO     Waiting for login... 5/40s
+2026-03-01 20:06:46,461  INFO     Logged in from saved profile.
+2026-03-01 20:06:46,461  INFO     WhatsApp ready.
+2026-03-01 20:06:46,462  INFO     AI Auto-Reply ON | Model: llama-3.1-8b-instant
+2026-03-01 20:06:46,463  INFO     System prompt: ai_system_prompt.txt
+2026-03-01 20:06:46,463  INFO     Chat histories: .whatsapp_chats/
+2026-03-01 20:06:46,463  INFO     Mode: send + receive + AI-reply | Polling every 30s
+2026-03-01 20:06:46,464  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 20:06:56,849  INFO     Self-chat opened via direct URL: Message yourself
+2026-03-01 20:06:57,066  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 20:06:57,074  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 20:06:57,180  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 20:06:58,871  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 20:06:59,333  INFO     AI reply for self_chat: Cheak ho raha hoon, zaroor aata hoon.
+2026-03-01 20:07:04,415  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 20:07:12,281  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 20:07:14,334  INFO     Self-chat: AI REPLIED: Cheak ho raha hoon, zaroor aata hoon.
+2026-03-01 20:07:44,344  INFO     Checking self-chat 'Shayan meo'...
+2026-03-01 20:07:53,037  INFO     Self-chat opened via direct URL: Message yourself
+2026-03-01 20:07:53,224  INFO     Self-chat last msg: msg-dblcheck
+2026-03-01 20:07:53,326  INFO     Self-chat: NEW message! Generating AI reply...
+2026-03-01 20:07:53,344  INFO     Asking Groq for reply to self_chat (model: llama-3.1-8b-instant)...
+2026-03-01 20:07:53,851  INFO     HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 20:07:53,853  INFO     AI reply for self_chat: Abhi vapis aata hoon, kuch minute mein!
+2026-03-01 20:07:58,885  INFO     Compose box found: div[contenteditable="true"][data-tab="10"]
+2026-03-01 20:08:06,649  INFO     Send clicked: button[aria-label="Send"]
+2026-03-01 20:08:08,660  INFO     Self-chat: AI REPLIED: Abhi vapis aata hoon, kuch minute mein!
+2026-03-01 20:08:17,520  INFO     Stopped by user.
+2026-03-01 20:08:17,949  ERROR    Task was destroyed but it is pending!
+task: <Task pending name='Task-42' coro=<BrowserContext.close() done, defined at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_browser_context.py:584> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SHAYAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-03-01 22:17:41,418  ERROR    GROQ_API_KEY not set! Add it to .env: GROQ_API_KEY=gsk_...

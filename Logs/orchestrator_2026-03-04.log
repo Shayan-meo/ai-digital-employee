@@ -1,0 +1,58 @@
+2026-03-04 03:18:44  Vault root: D:\AI_Employee_Vault
+2026-03-04 03:18:44  Guardian started for: Filesystem
+2026-03-04 03:18:44  Guardian started for: Gmail
+2026-03-04 03:18:44  [Filesystem] Started (PID 11656), restarts so far: 0
+2026-03-04 03:18:44  Guardian started for: Approval
+2026-03-04 03:18:44  [Gmail] Started (PID 17020), restarts so far: 0
+2026-03-04 03:18:44  Guardian started for: LinkedIn
+2026-03-04 03:18:44  [Approval] Started (PID 5256), restarts so far: 0
+2026-03-04 03:18:44  [LinkedIn] Started (PID 2160), restarts so far: 0
+2026-03-04 03:18:44  Guardian started for: Scheduler
+2026-03-04 03:18:44  [Scheduler] Started (PID 17192), restarts so far: 0
+2026-03-04 03:18:44  Guardian started for: Dashboard
+2026-03-04 03:18:44  [Dashboard] Started (PID 4188), restarts so far: 0
+2026-03-04 03:18:44  [LinkedIn] Started (PID 15452), restarts so far: 0
+2026-03-04 03:18:44  Guardian started for: SocialMedia
+2026-03-04 03:18:45  Guardian started for: WhatsApp
+2026-03-04 03:18:45  [SocialMedia] Started (PID 19240), restarts so far: 0
+2026-03-04 03:18:45  Guardian started for: WhatsAppSend
+2026-03-04 03:18:45  [WhatsApp] Started (PID 14936), restarts so far: 0
+2026-03-04 03:18:45  [WhatsAppSend] Started (PID 892), restarts so far: 0
+2026-03-04 03:18:45  Guardian started for: FacebookSend
+2026-03-04 03:18:45  [FacebookSend] Started (PID 3740), restarts so far: 0
+2026-03-04 03:19:46  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:20:21  [WhatsAppSend] Crashed (exit 1). Restart 1/10.
+2026-03-04 03:20:26  [WhatsAppSend] Started (PID 11096), restarts so far: 1
+2026-03-04 03:20:47  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:21:24  [WhatsAppSend] Crashed (exit 0). Restart 2/10.
+2026-03-04 03:21:30  [WhatsAppSend] Started (PID 3076), restarts so far: 2
+2026-03-04 03:21:48  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:22:24  [WhatsAppSend] Crashed (exit 0). Restart 3/10.
+2026-03-04 03:22:29  [WhatsAppSend] Started (PID 19060), restarts so far: 3
+2026-03-04 03:22:49  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:23:49  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:24:50  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:25:50  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:26:51  [STATUS] Filesystem:OK  |  Gmail:OK  |  Approval:OK  |  LinkedIn:OK  |  Scheduler:OK  |  Dashboard:OK  |  SocialMedia:OK  |  WhatsApp:OK  |  WhatsAppSend:OK  |  FacebookSend:OK
+2026-03-04 03:27:49  [SocialMedia] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:49  [Scheduler] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:49  [LinkedIn] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:49  [WhatsApp] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:49  [Dashboard] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:49  [FacebookSend] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:50  Shutdown requested — stopping all watchers...
+2026-03-04 03:27:49  [Approval] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:49  [Filesystem] Crashed (exit 0). Restart 1/10.
+2026-03-04 03:27:50  [Scheduler] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [Dashboard] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [LinkedIn] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [SocialMedia] Guardian exiting (shutdown requested).
+2026-03-04 03:27:49  [LinkedIn] Crashed (exit 3221225786). Restart 1/10.
+2026-03-04 03:27:50  [Approval] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [FacebookSend] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [WhatsApp] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [LinkedIn] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [Filesystem] Guardian exiting (shutdown requested).
+2026-03-04 03:27:50  [WhatsAppSend] Stopped cleanly.
+2026-03-04 03:27:51  [Gmail] Stopped cleanly.
+2026-03-04 03:27:53  Orchestrator shutdown complete.

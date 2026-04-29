@@ -1,0 +1,9 @@
+2026-03-04 03:19:12,048 [INFO] Already logged in (session restored).
+2026-03-04 03:19:12,049 [INFO] Watch mode — scanning /Approved every 30s
+2026-03-04 03:19:12,051 [INFO] Processing: facebook_post_gold_test.md
+2026-03-04 03:19:12,052 [INFO] Post text (485 chars): Building my Personal AI Employee — a fully autonomous Digital FTE that manages e...
+2026-03-04 03:19:12,052 [INFO] Navigating to Facebook home...
+2026-03-04 03:19:16,451 [INFO] Looking for post composer box...
+2026-03-04 03:19:41,683 [ERROR] Could not find post composer — saving screenshot
+2026-03-04 03:19:51,267 [INFO] Archived to Done: fb_posted_20260304_031951_facebook_post_gold_test.md
+2026-03-04 03:27:49,083 [INFO] Stopped by user.

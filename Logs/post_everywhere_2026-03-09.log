@@ -1,0 +1,99 @@
+2026-03-09 00:55:40,501 [INFO] Post Everywhere — Starting
+2026-03-09 00:55:40,501 [INFO] Platforms: linkedin
+2026-03-09 00:55:40,502 [INFO] Text: Testing LinkedIn post with image via Playwright automation 🚀
+2026-03-09 00:55:40,503 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 00:55:40,503 [INFO] ==================================================
+2026-03-09 00:55:40,503 [INFO] LINKEDIN — Starting...
+2026-03-09 00:56:09,027 [INFO] Logging in to LinkedIn...
+2026-03-09 00:56:24,633 [INFO] Login successful.
+2026-03-09 00:56:26,415 [INFO] Navigating to LinkedIn feed...
+2026-03-09 00:56:36,671 [INFO] Opening post composer via feed click...
+2026-03-09 00:56:41,652 [INFO] Clicked 'Start a post': [aria-label='Start a post'] (attempt 1)
+2026-03-09 00:56:46,665 [INFO] Finding post editor...
+2026-03-09 00:56:56,457 [INFO] Found editor: [contenteditable='true'][role='textbox'] (attempt 1)
+2026-03-09 00:56:56,457 [INFO] Typing post text...
+2026-03-09 00:57:01,635 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 00:57:01,866 [INFO] Clicked media button: button[aria-label='Add media']
+2026-03-09 00:57:03,981 [INFO] Image file selected for upload.
+2026-03-09 00:57:27,098 [INFO] Clicking Post button...
+2026-03-09 00:57:57,858 [INFO] Clicked post button: .share-box-footer button.artdeco-button--primary
+2026-03-09 00:58:05,868 [INFO] Post published successfully!
+2026-03-09 00:58:05,869 [INFO] LINKEDIN — Posted successfully!
+2026-03-09 00:58:07,050 [INFO] Session saved.
+2026-03-09 00:58:10,323 [INFO] ==================================================
+2026-03-09 00:58:10,324 [INFO] RESULTS:
+2026-03-09 00:58:10,324 [INFO]   linkedin     OK
+2026-03-09 00:58:10,325 [INFO] Total: 1/1 platforms posted successfully.
+2026-03-09 01:00:43,236 [INFO] Post Everywhere — Starting
+2026-03-09 01:00:43,237 [INFO] Platforms: instagram
+2026-03-09 01:00:43,237 [INFO] Text: Testing Instagram post with image via Playwright automation 🚀
+2026-03-09 01:00:43,237 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 01:00:43,238 [INFO] ==================================================
+2026-03-09 01:00:43,238 [INFO] INSTAGRAM — Starting...
+2026-03-09 01:00:56,517 [INFO] Instagram: already logged in.
+2026-03-09 01:00:56,517 [INFO] Navigating to Instagram...
+2026-03-09 01:01:02,669 [INFO] Looking for Create post button...
+2026-03-09 01:01:02,994 [INFO] Clicked create: svg[aria-label='New post']
+2026-03-09 01:01:05,627 [INFO] Image resized to 1080x1080.
+2026-03-09 01:01:05,629 [INFO] Uploading image: D:\AI_Employee_Vault\.ig_resized.jpg
+2026-03-09 01:01:08,682 [INFO] Image uploaded.
+2026-03-09 01:01:10,998 [INFO] Clicked Next (crop)
+2026-03-09 01:01:13,160 [INFO] Clicked Next (filters)
+2026-03-09 01:01:13,204 [INFO] Looking for caption input...
+2026-03-09 01:01:28,325 [INFO] Found caption: div[contenteditable='true']
+2026-03-09 01:01:33,727 [INFO] Clicking Share button...
+2026-03-09 01:01:33,899 [INFO] Clicked share: div[role='button']:has-text('Share')
+2026-03-09 01:01:38,918 [INFO] Post published successfully!
+2026-03-09 01:01:38,918 [INFO] INSTAGRAM — Posted successfully!
+2026-03-09 01:01:39,391 [INFO] Session saved.
+2026-03-09 01:01:42,173 [INFO] ==================================================
+2026-03-09 01:01:42,175 [INFO] RESULTS:
+2026-03-09 01:01:42,177 [INFO]   instagram    OK
+2026-03-09 01:01:42,177 [INFO] Total: 1/1 platforms posted successfully.
+2026-03-09 01:31:07,542 [INFO] Post Everywhere — Starting
+2026-03-09 01:31:07,543 [INFO] Platforms: twitter
+2026-03-09 01:31:07,544 [INFO] Text: Testing Twitter post with image via Playwright automation 🚀
+2026-03-09 01:31:07,545 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 01:31:07,546 [INFO] ==================================================
+2026-03-09 01:31:07,546 [INFO] TWITTER/X — Starting...
+2026-03-09 01:31:29,978 [INFO] Session check URL: https://x.com/home
+2026-03-09 01:31:38,011 [INFO] Twitter: already logged in.
+2026-03-09 01:31:38,012 [INFO] Posting tweet (59 chars)...
+2026-03-09 01:32:25,357 [INFO] Uploading image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 01:32:33,946 [INFO] Image uploaded.
+2026-03-09 01:32:50,019 [WARNING] Tweet may have posted (unverified)
+2026-03-09 01:32:50,019 [INFO] TWITTER/X — Posted successfully!
+2026-03-09 01:32:50,049 [INFO] Session saved.
+2026-03-09 01:32:53,222 [INFO] ==================================================
+2026-03-09 01:32:53,222 [INFO] RESULTS:
+2026-03-09 01:32:53,223 [INFO]   twitter      OK
+2026-03-09 01:32:53,223 [INFO] Total: 1/1 platforms posted successfully.
+2026-03-09 01:34:49,234 [INFO] Post Everywhere — Starting
+2026-03-09 01:34:49,234 [INFO] Platforms: facebook
+2026-03-09 01:34:49,234 [INFO] Text: Testing Facebook post with image via Playwright automation 🚀
+2026-03-09 01:34:49,234 [INFO] Image: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 01:34:49,234 [INFO] ==================================================
+2026-03-09 01:34:49,234 [INFO] FACEBOOK — Starting...
+2026-03-09 01:35:03,485 [INFO] Facebook: already logged in.
+2026-03-09 01:35:03,486 [INFO] Navigating to Facebook home...
+2026-03-09 01:35:08,869 [INFO] Opening post composer...
+2026-03-09 01:35:14,215 [INFO] Clicked composer: [aria-label='Create a post']
+2026-03-09 01:35:19,228 [INFO] Uploading image FIRST: D:\AI_Employee_Vault\Media\images.jpg
+2026-03-09 01:35:19,292 [INFO] Image uploaded via image file input
+2026-03-09 01:35:31,309 [INFO] Image upload done, dialog should be settled now
+2026-03-09 01:35:31,309 [INFO] Finding the LAST (active) dialog...
+2026-03-09 01:35:31,325 [INFO] Found 8 dialog(s) on page
+2026-03-09 01:35:31,325 [INFO] Finding textbox in LAST dialog...
+2026-03-09 01:35:31,366 [INFO] Found textbox: [role='dialog'] div[contenteditable='true'][role='textbox'] [last of 2] (attempt 1)
+2026-03-09 01:35:31,366 [INFO] Focusing textbox in LAST dialog and typing text...
+2026-03-09 01:35:32,999 [INFO] Textbox clicked with force (last dialog)
+2026-03-09 01:35:39,637 [INFO] Text verified in LAST dialog (60 chars)
+2026-03-09 01:35:39,637 [INFO] Clicking Post button in LAST dialog...
+2026-03-09 01:35:39,809 [INFO] Clicked Post: div[aria-label='Post'][role='button'] [last of 2]
+2026-03-09 01:35:44,832 [INFO] Post published successfully!
+2026-03-09 01:35:44,832 [INFO] FACEBOOK — Posted successfully!
+2026-03-09 01:35:45,167 [INFO] Session saved.
+2026-03-09 01:35:47,882 [INFO] ==================================================
+2026-03-09 01:35:47,882 [INFO] RESULTS:
+2026-03-09 01:35:47,883 [INFO]   facebook     OK
+2026-03-09 01:35:47,883 [INFO] Total: 1/1 platforms posted successfully.

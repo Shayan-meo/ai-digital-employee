@@ -1,0 +1,65 @@
+2026-03-06 01:00:38,947 [INFO] Already logged in (session restored).
+2026-03-06 01:00:38,948 [INFO] Login test passed!
+2026-03-06 01:00:39,161 [INFO] Session saved.
+2026-03-06 01:01:57,552 [INFO] Opening Twitter/X login...
+2026-03-06 01:02:06,189 [INFO] Entering username...
+2026-03-06 01:02:26,321 [INFO] Challenge 1: 
+2026-03-06 01:02:26,322 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:02:32,173 [INFO] Challenge 2: 
+2026-03-06 01:02:32,174 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:02:38,284 [INFO] Challenge 3: 
+2026-03-06 01:02:38,284 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:02:44,372 [INFO] Entering password...
+2026-03-06 01:02:59,390 [ERROR] Page load timed out.
+2026-03-06 01:02:59,390 [ERROR] Login failed.
+2026-03-06 01:03:00,021 [INFO] Session saved.
+2026-03-06 01:06:07,230 [INFO] Opening Twitter/X login...
+2026-03-06 01:06:19,685 [INFO] Entering username...
+2026-03-06 01:06:35,801 [INFO] Challenge 1: sign in to x
+2026-03-06 01:06:35,801 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:06:41,671 [INFO]   Accepted, moved to next screen.
+2026-03-06 01:06:41,715 [INFO] Challenge 2: sign in to x
+2026-03-06 01:06:41,716 [INFO]   Trying: DevLogicX
+2026-03-06 01:06:47,651 [INFO]   Accepted, moved to next screen.
+2026-03-06 01:06:47,688 [INFO] Challenge 3: sign in to x
+2026-03-06 01:06:47,689 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:06:53,490 [INFO]   Accepted, moved to next screen.
+2026-03-06 01:06:53,490 [INFO] Entering password...
+2026-03-06 01:07:08,502 [ERROR] Page load timed out.
+2026-03-06 01:07:08,502 [ERROR] Login failed.
+2026-03-06 01:07:09,086 [INFO] Session saved.
+2026-03-06 01:54:12,938 [INFO] Opening Twitter/X login...
+2026-03-06 01:54:26,338 [INFO] Entering username...
+2026-03-06 01:54:40,917 [INFO] Challenge 1: sign in to x
+2026-03-06 01:54:40,917 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:54:46,846 [INFO]   Accepted, moved to next screen.
+2026-03-06 01:54:46,875 [INFO] Challenge 2: sign in to x
+2026-03-06 01:54:46,875 [INFO]   Trying: DevLogicX
+2026-03-06 01:54:52,808 [INFO]   Accepted, moved to next screen.
+2026-03-06 01:54:52,841 [INFO] Challenge 3: sign in to x
+2026-03-06 01:54:52,842 [INFO]   Trying: shayanrehan386@gmail.com
+2026-03-06 01:54:58,665 [INFO]   Rejected, trying next...
+2026-03-06 01:54:58,665 [INFO]   Trying: DevLogicX
+2026-03-06 01:55:04,565 [INFO]   Challenge 3 passed!
+2026-03-06 01:55:04,565 [INFO] Entering password...
+2026-03-06 01:55:04,964 [INFO] Screenshot saved: tw_pre_password.png
+2026-03-06 01:55:07,230 [INFO] Clicked Login, waiting...
+2026-03-06 01:55:13,248 [INFO] Login successful!
+2026-03-06 01:55:14,364 [INFO] Login test passed!
+2026-03-06 01:55:15,533 [INFO] Session saved.
+2026-03-06 01:59:24,414 [INFO] Opening Twitter/X login...
+2026-03-06 02:00:24,430 [ERROR] Page load timed out.
+2026-03-06 02:00:24,430 [ERROR] Login failed.
+2026-03-06 02:00:24,449 [INFO] Session saved.
+2026-03-06 02:04:32,524 [INFO] Session check URL: https://x.com/home
+2026-03-06 02:04:40,543 [INFO] Already logged in (session restored).
+2026-03-06 02:04:40,544 [INFO] Login test passed!
+2026-03-06 02:04:40,562 [INFO] Session saved.
+2026-03-06 02:43:06,183 [INFO] Session check URL: https://x.com/home
+2026-03-06 02:43:14,211 [INFO] Already logged in (session restored).
+2026-03-06 02:43:14,211 [INFO] Posting tweet (131 chars)...
+2026-03-06 02:43:25,759 [INFO] Uploading image: Media\AI.jpg
+2026-03-06 02:43:30,068 [INFO] Image uploaded.
+2026-03-06 02:44:19,120 [WARNING] Tweet may have posted (unverified)
+2026-03-06 02:44:19,120 [INFO] Tweet posted!
+2026-03-06 02:44:19,143 [INFO] Session saved.

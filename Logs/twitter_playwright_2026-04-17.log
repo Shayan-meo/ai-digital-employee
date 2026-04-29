@@ -1,0 +1,30 @@
+2026-04-17 09:16:39,398 [INFO] Session check URL: https://x.com/
+2026-04-17 09:16:47,426 [INFO] Already logged in (session restored).
+2026-04-17 09:16:47,426 [INFO] Posting tweet (190 chars)...
+2026-04-17 09:16:47,426 [INFO] Navigating to compose/post URL...
+2026-04-17 09:17:30,222 [INFO] Trying home page inline composer...
+2026-04-17 09:18:13,518 [INFO] Trying compose button clicks...
+2026-04-17 09:18:28,584 [INFO] ==================================================
+2026-04-17 09:18:28,584 [INFO] Composer not found automatically.
+2026-04-17 09:18:28,585 [INFO] MANUAL MODE: Open the tweet composer in the browser.
+2026-04-17 09:18:28,588 [INFO] You have 3 minutes. Click the compose button or
+2026-04-17 09:18:28,589 [INFO] navigate to x.com/compose/post manually.
+2026-04-17 09:18:28,589 [INFO] ==================================================
+2026-04-17 09:22:35,985 [INFO]   Still waiting... (30s / 180s)
+2026-04-17 09:26:43,543 [INFO]   Still waiting... (60s / 180s)
+2026-04-17 09:30:36,173 [INFO]   Still waiting... (90s / 180s)
+2026-04-17 09:31:06,587 [INFO]   Still waiting... (120s / 180s)
+2026-04-17 09:31:37,346 [INFO]   Still waiting... (150s / 180s)
+2026-04-17 11:09:12,881 [INFO] Session check URL: https://x.com/
+2026-04-17 11:09:20,955 [INFO] Posting tweet (11 chars)...
+2026-04-17 11:09:20,957 [INFO] Navigating to compose/post URL...
+2026-04-17 11:10:03,434 [INFO] Trying home page inline composer...
+2026-04-17 11:10:36,455 [INFO] Trying compose button clicks...
+2026-04-17 11:10:36,789 [INFO] ==================================================
+2026-04-17 11:10:36,789 [INFO] Composer not found automatically.
+2026-04-17 11:10:36,790 [INFO] MANUAL MODE: Open the tweet composer in the browser.
+2026-04-17 11:10:36,790 [INFO] You have 3 minutes. Click the compose button or
+2026-04-17 11:10:36,790 [INFO] navigate to x.com/compose/post manually.
+2026-04-17 11:10:36,790 [INFO] ==================================================
+2026-04-17 11:10:36,984 [ERROR] Tweet error: Page.screenshot: Target page, context or browser has been closed
+2026-04-17 11:10:36,986 [INFO] Session saved.
