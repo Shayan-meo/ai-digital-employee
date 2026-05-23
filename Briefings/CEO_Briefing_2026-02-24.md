@@ -29,6 +29,7 @@ _AI summary unavailable — Claude CLI not reachable. Review raw data above._
 
 - Backlog clear
 
+
 ---
 
 ## Vault Health Snapshot
